@@ -48,8 +48,8 @@
       "name": "john_pizza",
       "persistentUuid": "10f10dd8-e227-4fa8-bd91-4c85e9f13b6c",
       "width": 260,
-      "x": 938,
-      "y": 403,
+      "x": 690,
+      "y": 517,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -91,7 +91,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite",
+          "name": "pizza1",
           "useMultipleDirections": false,
           "directions": [
             {
