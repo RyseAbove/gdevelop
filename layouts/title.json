@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Level_322",
-  "name": "Level 2",
+  "mangledName": "Title",
+  "name": "Title",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
