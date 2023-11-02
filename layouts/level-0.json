@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.27050126039625527,
+    "zoomFactor": 0.25314140012986225,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -61,11 +61,11 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "juvenileTrex",
+      "name": "testSprite",
       "persistentUuid": "2d2ee486-301e-45a6-8f85-9d3692b014f3",
       "width": 0,
-      "x": -5,
-      "y": 558,
+      "x": 28,
+      "y": 798,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -86,106 +86,13 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 74,
-      "layer": "",
-      "name": "text1",
-      "persistentUuid": "ccd9c96d-ab52-47ab-b889-b8a408c6d1bc",
-      "width": 467,
-      "x": 355,
-      "y": 455,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "text2",
-      "persistentUuid": "d55e06c5-f082-4ff6-8366-c04b37f1eaa8",
-      "width": 0,
-      "x": 1265,
-      "y": 455,
-      "zOrder": 7,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "trigger1",
-      "persistentUuid": "bad11ce4-e5cb-4846-9408-64a328e1285b",
-      "width": 0,
-      "x": 429,
-      "y": 842,
-      "zOrder": 8,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "trigger2",
-      "persistentUuid": "1ae0d743-614c-4dd4-8a6f-6d55f1296f41",
-      "width": 0,
-      "x": 1496,
-      "y": 834,
-      "zOrder": 9,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1455,
-      "layer": "",
-      "name": "shadowBorder",
-      "persistentUuid": "c23b4e29-c63f-4b88-bd16-68f900115bc6",
-      "width": 1403,
-      "x": -1393,
-      "y": -37,
-      "zOrder": -1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 90,
-      "customSize": true,
-      "depth": 1,
-      "height": 3440,
-      "layer": "",
-      "name": "shadowBorder",
-      "persistentUuid": "7b603cb5-e8fb-4064-8cd0-ff08ed770aea",
-      "width": 740,
-      "x": -40,
-      "y": -299,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
     }
   ],
   "objects": [
     {
-      "adaptCollisionMaskAutomatically": false,
+      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "juvenileTrex",
+      "name": "testSprite",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -211,92 +118,21 @@
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
           "yGrabOffset": 0
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera",
-          "LeftwardSpeed": 0.9,
-          "RightwardSpeed": 0.9,
-          "UpwardSpeed": 0.9,
-          "DownwardSpeed": 0.9,
-          "FollowOnX": true,
-          "FollowOnY": true,
-          "FollowFreeAreaLeft": 0,
-          "FollowFreeAreaRight": 0,
-          "FollowFreeAreaTop": 0,
-          "FollowFreeAreaBottom": 0,
-          "CameraOffsetX": -50,
-          "CameraOffsetY": -200,
-          "CameraDelay": 0,
-          "ForecastTime": 0,
-          "ForecastHistoryDuration": 0,
-          "LogLeftwardSpeed": 0,
-          "LogRightwardSpeed": 0,
-          "LogDownwardSpeed": 0,
-          "LogUpwardSpeed": 0,
-          "DelayedCenterX": 0,
-          "DelayedCenterY": 0,
-          "ForecastHistoryMeanX": 0,
-          "ForecastHistoryMeanY": 0,
-          "ForecastHistoryVarianceX": 0,
-          "ForecastHistoryCovariance": 0,
-          "ForecastHistoryLinearA": 0,
-          "ForecastHistoryLinearB": 0,
-          "ForecastedX": 0,
-          "ForecastedY": 0,
-          "ProjectedNewestX": 0,
-          "ProjectedNewestY": 0,
-          "ProjectedOldestX": 0,
-          "ProjectedOldestY": 0,
-          "ForecastHistoryVarianceY": 0,
-          "Index": 0,
-          "CameraDelayCatchUpSpeed": 0,
-          "CameraExtraDelay": 0,
-          "WaitingSpeedXMax": 0,
-          "WaitingSpeedYMax": 0,
-          "WaitingEnd": 0,
-          "CameraDelayCatchUpDuration": 0,
-          "LeftwardSpeedMax": 9000,
-          "RightwardSpeedMax": 9000,
-          "UpwardSpeedMax": 9000,
-          "DownwardSpeedMax": 9000,
-          "OldX": 9000,
-          "OldY": 9000,
-          "IsCalledManually": false
-        },
-        {
-          "name": "SmoothPlatformerCamera",
-          "type": "SmoothCamera::SmoothPlatformerCamera",
-          "PlatformerCharacter": "PlatformerObject",
-          "SmoothCamera": "SmoothCamera",
-          "JumpOriginY": 1.8013876908999113e-308,
-          "AirFollowFreeAreaTop": 0,
-          "AirFollowFreeAreaBottom": 0,
-          "FloorFollowFreeAreaTop": 0,
-          "FloorFollowFreeAreaBottom": 0,
-          "AirUpwardSpeed": 0.95,
-          "AirDownwardSpeed": 0.95,
-          "FloorUpwardSpeed": 0.9,
-          "FloorDownwardSpeed": 0.9,
-          "AirUpwardSpeedMax": 9000,
-          "AirDownwardSpeedMax": 9000,
-          "FloorUpwardSpeedMax": 9000,
-          "FloorDownwardSpeedMax": 9000
         }
       ],
       "animations": [
         {
-          "name": "dinoIdle",
+          "name": "test",
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle9",
+                  "image": "test",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -312,300 +148,25 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 62.5,
-                        "y": 248
+                        "x": 30,
+                        "y": 22
                       },
                       {
-                        "x": 235.5,
-                        "y": 123
+                        "x": 78,
+                        "y": 22
                       },
                       {
-                        "x": 369,
-                        "y": 72
+                        "x": 78,
+                        "y": 122
                       },
                       {
-                        "x": 364.5,
-                        "y": 132
-                      },
-                      {
-                        "x": 303.5,
-                        "y": 273
-                      },
-                      {
-                        "x": 237.5,
-                        "y": 361
-                      },
-                      {
-                        "x": 148.5,
-                        "y": 364
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoIdle10",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 366
-                      },
-                      {
-                        "x": 6,
-                        "y": 366
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoIdle11",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 366
-                      },
-                      {
-                        "x": 6,
-                        "y": 366
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoIdle12",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 366
-                      },
-                      {
-                        "x": 6,
-                        "y": 366
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoIdle13",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 366
-                      },
-                      {
-                        "x": 6,
-                        "y": 366
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoIdle14",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 366
-                      },
-                      {
-                        "x": 6,
-                        "y": 366
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoIdle15",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 366
-                      },
-                      {
-                        "x": 6,
-                        "y": 366
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoIdle16",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 72
-                      },
-                      {
-                        "x": 369,
-                        "y": 366
-                      },
-                      {
-                        "x": 6,
-                        "y": 366
+                        "x": 30,
+                        "y": 122
                       }
                     ]
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "dinoWalk",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": []
             }
           ]
         }
@@ -772,7 +333,7 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": false,
+      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "dirtFloor",
       "tags": "",
@@ -818,11 +379,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 9
+                        "y": 8
                       },
                       {
                         "x": 64,
-                        "y": 9
+                        "y": 8
                       },
                       {
                         "x": 64,
@@ -842,7 +403,7 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": false,
+      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "road",
       "tags": "",
@@ -888,11 +449,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 8
+                        "y": 7
                       },
                       {
                         "x": 64,
-                        "y": 8
+                        "y": 7
                       },
                       {
                         "x": 64,
@@ -901,214 +462,6 @@
                       {
                         "x": 0,
                         "y": 32
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "trigger1",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "trigger1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "trigger1",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "trigger2",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "trigger2",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "trigger2",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "text1",
-      "smoothed": true,
-      "tags": "",
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Text_AutoTyping",
-          "type": "AutoTyping::Text_AutoTyping",
-          "Interval": 0.01,
-          "CharacterJustAdded": false,
-          "CurrentCharacter": ""
-        }
-      ],
-      "string": "You are a fledgling dinosaur, running amok throughout the park after the containment systems put in by your cruel oppressors failed.",
-      "font": "",
-      "textAlignment": "left",
-      "characterSize": 20,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "text2",
-      "smoothed": true,
-      "tags": "",
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Text_AutoTyping",
-          "type": "AutoTyping::Text_AutoTyping",
-          "Interval": 0.01,
-          "CharacterJustAdded": false,
-          "CurrentCharacter": ""
-        }
-      ],
-      "string": "You now seek not only to survive, but to get revenge.",
-      "font": "",
-      "textAlignment": "left",
-      "characterSize": 20,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "shadowBorder",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite6",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
                       }
                     ]
                   ]
@@ -1122,181 +475,6 @@
   ],
   "events": [
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "trigger1"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "trigger2"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "text1"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "text2"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "text1",
-            "Text_AutoTyping",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "text2",
-            "Text_AutoTyping",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "trigger1",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "text1",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "text1",
-            "Text_AutoTyping",
-            "yes"
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "10"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "text1"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "trigger2",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "text2",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "text2",
-            "Text_AutoTyping",
-            "yes"
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "10"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "text1"
-          ]
-        }
-      ]
-    },
-    {
       "type": "BuiltinCommonInstructions::Link",
       "include": {
         "includeConfig": 0
@@ -1305,58 +483,8 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "PlatformerObject"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Animation",
-            "=",
-            "\"dinoIdle\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "PlatformerObject"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Animation",
-            "=",
-            "\"dinoWalk\""
-          ]
-        }
-      ]
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
@@ -1436,18 +564,6 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
-    },
-    {
-      "name": "SmoothCamera",
-      "type": "SmoothCamera::SmoothCamera"
-    },
-    {
-      "name": "SmoothPlatformerCamera",
-      "type": "SmoothCamera::SmoothPlatformerCamera"
-    },
-    {
-      "name": "Text_AutoTyping",
-      "type": "AutoTyping::Text_AutoTyping"
     }
   ]
 }
