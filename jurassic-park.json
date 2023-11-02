@@ -63,17 +63,7 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Greg.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Greg",
-        "smoothed": true,
-        "userAdded": true
-      }
-    ],
+    "resources": [],
     "resourceFolders": []
   },
   "objects": [],
