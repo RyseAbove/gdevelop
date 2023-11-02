@@ -1,13 +1,13 @@
 {
-  "b": 209,
+  "b": 0,
   "disableInputWhenNotFocused": true,
   "mangledName": "Credits",
   "name": "Credits",
-  "r": 209,
+  "r": 0,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
-  "v": 209,
+  "v": 0,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -23,9 +23,105 @@
   },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
-  "objects": [],
-  "events": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Credits",
+      "persistentUuid": "4134cc24-438c-4599-9e6d-8137e153b0a3",
+      "width": 0,
+      "x": 599,
+      "y": 1087,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Credits",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "LinearMovement",
+          "type": "LinearMovement::LinearMovement",
+          "SpeedX": 0,
+          "SpeedY": -100
+        }
+      ],
+      "string": "Cast\nMarius Small as Juvenile T Rex\nNoah Layton as Ceradactyls (all of them)\nChase Hacker as Adult Trex\n\nCrew\nDirected by\nChase Hacker\nMarius Small\nNoah Layton \n\nScreenplay\nChase Hacker\nMarius Small\nNoah Layton \n\nProducers\nChase Hacker\nMarius Small\nNoah Layton \n\nExecutive Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nCo-Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nAssociate Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nLine Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic by\nChase Hacker\n\nCinematography by\nMarius Small\n\nFilm Editing by\nNoah Layton \n\nCasting by\nChase Hacker\n\nProduction Design by\nChase Hacker\nMarius Small\nNoah Layton \n\nHead of Technology\nChase Hacker\n\nArt Direction by\nMarius Small\n\nSet Decoration by\nMarius Small\n\nCostume Design by\nMarius Small\n\nMakeup Department\nNoah Layton\n\nAssistant Directors\nChase Hacker\n\nArt Department\nMarius Small\n\nStoryboard Artists\nChase Hacker\n\nSpecial Effects by\nChase Hacker\n\nVisual Effects by\nChase Hacker\nNoah Layton \n\nAnimation Department\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic Department\nChase Hacker\n\nProperty Department\nChase Hacker\n\nPost-Production Team\nChase Hacker\nMarius Small\nNoah Layton \n\nAssistants\nChase Hacker\nMarius Small\nNoah Layton \n\nTrainers\nChase Hacker\nMarius Small\nNoah Layton \n\nADR\nChase Hacker\nMarius Small\nNoah Layton \n\nStand-Ins\nChase Hacker\nMarius Small\nNoah Layton \n\nStunts\nChase Hacker\nMarius Small\nNoah Layton \n\nMinor Crew\nChase Hacker\nMarius Small\nNoah Layton \n\n\n",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 40,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Credits",
+            "LinearMovement",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "5"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Credits",
+            "LinearMovement",
+            "yes"
+          ]
+        }
+      ]
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,
@@ -71,5 +167,22 @@
       ]
     }
   ],
-  "behaviorsSharedData": []
+  "behaviorsSharedData": [
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "LinearMovement",
+      "type": "LinearMovement::LinearMovement"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    }
+  ]
 }
