@@ -54,6 +54,22 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 696,
+      "layer": "",
+      "name": "john_pizza2",
+      "persistentUuid": "53b08617-70bb-4657-b4f4-7ea681c10d98",
+      "width": 512,
+      "x": 1498,
+      "y": -197,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -83,6 +99,68 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "john_pizza",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "pizza1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "john_pizza2",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
