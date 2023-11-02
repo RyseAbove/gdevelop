@@ -22,7 +22,7 @@
             "value": "PlatformBehavior::SimulateControl"
           },
           "parameters": [
-            "testSprite",
+            "juvenileTrex",
             "PlatformerObject",
             "\"Up\""
           ]
@@ -48,7 +48,7 @@
             "value": "PlatformBehavior::SimulateControl"
           },
           "parameters": [
-            "testSprite",
+            "juvenileTrex",
             "PlatformerObject",
             "\"Left\""
           ]
@@ -74,7 +74,7 @@
             "value": "PlatformBehavior::SimulateControl"
           },
           "parameters": [
-            "testSprite",
+            "juvenileTrex",
             "PlatformerObject",
             "\"Down\""
           ]
@@ -100,7 +100,7 @@
             "value": "PlatformBehavior::SimulateControl"
           },
           "parameters": [
-            "testSprite",
+            "juvenileTrex",
             "PlatformerObject",
             "\"Right\""
           ]

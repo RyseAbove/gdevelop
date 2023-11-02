@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.25314140012986225,
+    "zoomFactor": 0.20069741314549736,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -61,11 +61,11 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "testSprite",
+      "name": "juvenileTrex",
       "persistentUuid": "2d2ee486-301e-45a6-8f85-9d3692b014f3",
       "width": 0,
-      "x": 28,
-      "y": 798,
+      "x": 10,
+      "y": 439,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -73,16 +73,47 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 2,
-      "height": 417,
+      "customSize": false,
+      "height": 0,
       "layer": "",
       "name": "fence",
-      "persistentUuid": "82b3f6dd-c41a-4a22-8d66-2a5660bce3e5",
-      "width": 391,
-      "x": 2290,
-      "y": 520,
+      "persistentUuid": "22621fc2-21e3-47e6-8f41-5ec0beb430ee",
+      "width": 0,
+      "x": 2198,
+      "y": 337,
       "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1996,
+      "layer": "",
+      "name": "shadowBorder",
+      "persistentUuid": "17a3101a-7aeb-4083-a9eb-6609b891deae",
+      "width": 1328,
+      "x": -1316,
+      "y": -307,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 270,
+      "customSize": true,
+      "depth": 1,
+      "height": 3681,
+      "layer": "",
+      "name": "shadowBorder",
+      "persistentUuid": "cb8a571d-c1f2-4c8b-85e0-9e043baad732",
+      "width": 1012,
+      "x": 22,
+      "y": -279,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -90,9 +121,9 @@
   ],
   "objects": [
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
-      "name": "testSprite",
+      "name": "juvenileTrex",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -118,21 +149,92 @@
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
           "yGrabOffset": 0
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera",
+          "LeftwardSpeed": 0.9,
+          "RightwardSpeed": 0.9,
+          "UpwardSpeed": 0.9,
+          "DownwardSpeed": 0.9,
+          "FollowOnX": true,
+          "FollowOnY": true,
+          "FollowFreeAreaLeft": 0,
+          "FollowFreeAreaRight": 0,
+          "FollowFreeAreaTop": 0,
+          "FollowFreeAreaBottom": 0,
+          "CameraOffsetX": 200,
+          "CameraOffsetY": -250,
+          "CameraDelay": 0,
+          "ForecastTime": 0,
+          "ForecastHistoryDuration": 0,
+          "LogLeftwardSpeed": 0,
+          "LogRightwardSpeed": 0,
+          "LogDownwardSpeed": 0,
+          "LogUpwardSpeed": 0,
+          "DelayedCenterX": 0,
+          "DelayedCenterY": 0,
+          "ForecastHistoryMeanX": 0,
+          "ForecastHistoryMeanY": 0,
+          "ForecastHistoryVarianceX": 0,
+          "ForecastHistoryCovariance": 0,
+          "ForecastHistoryLinearA": 0,
+          "ForecastHistoryLinearB": 0,
+          "ForecastedX": 0,
+          "ForecastedY": 0,
+          "ProjectedNewestX": 0,
+          "ProjectedNewestY": 0,
+          "ProjectedOldestX": 0,
+          "ProjectedOldestY": 0,
+          "ForecastHistoryVarianceY": 0,
+          "Index": 0,
+          "CameraDelayCatchUpSpeed": 0,
+          "CameraExtraDelay": 0,
+          "WaitingSpeedXMax": 0,
+          "WaitingSpeedYMax": 0,
+          "WaitingEnd": 0,
+          "CameraDelayCatchUpDuration": 0,
+          "LeftwardSpeedMax": 9000,
+          "RightwardSpeedMax": 9000,
+          "UpwardSpeedMax": 9000,
+          "DownwardSpeedMax": 9000,
+          "OldX": 9000,
+          "OldY": 9000,
+          "IsCalledManually": false
+        },
+        {
+          "name": "SmoothPlatformerCamera",
+          "type": "SmoothCamera::SmoothPlatformerCamera",
+          "PlatformerCharacter": "PlatformerObject",
+          "SmoothCamera": "SmoothCamera",
+          "JumpOriginY": 1.6580103089887372e-305,
+          "AirFollowFreeAreaTop": 0,
+          "AirFollowFreeAreaBottom": 0,
+          "FloorFollowFreeAreaTop": 0,
+          "FloorFollowFreeAreaBottom": 0,
+          "AirUpwardSpeed": 0.95,
+          "AirDownwardSpeed": 0.95,
+          "FloorUpwardSpeed": 0.9,
+          "FloorDownwardSpeed": 0.9,
+          "AirUpwardSpeedMax": 9000,
+          "AirDownwardSpeedMax": 9000,
+          "FloorUpwardSpeedMax": 9000,
+          "FloorDownwardSpeedMax": 9000
         }
       ],
       "animations": [
         {
-          "name": "test",
+          "name": "dinoIdle",
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "test",
+                  "image": "dinoIdle34",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -148,25 +250,352 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 30,
-                        "y": 22
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 78,
-                        "y": 22
+                        "x": 234.5,
+                        "y": 239
                       },
                       {
-                        "x": 78,
-                        "y": 122
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
-                        "x": 30,
-                        "y": 122
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle35",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle36",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle37",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle38",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle39",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle40",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle41",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "dinoWalking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": []
             }
           ]
         }
@@ -202,7 +631,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fence2",
+                  "image": "fence4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -218,110 +647,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 75.5,
-                        "y": 248
-                      },
-                      {
-                        "x": 174.5,
-                        "y": 247.5
-                      },
-                      {
-                        "x": 182,
-                        "y": 256
-                      },
-                      {
-                        "x": 70,
-                        "y": 256
-                      }
-                    ],
-                    [
-                      {
-                        "x": 118,
+                        "x": 275.5,
                         "y": 0
                       },
                       {
-                        "x": 134,
+                        "x": 316.5,
                         "y": 0
                       },
                       {
-                        "x": 146,
-                        "y": 215
+                        "x": 429.5,
+                        "y": 600
                       },
                       {
-                        "x": 107,
-                        "y": 215
-                      }
-                    ],
-                    [
-                      {
-                        "x": 86,
-                        "y": 239.5
-                      },
-                      {
-                        "x": 166.5,
-                        "y": 240
-                      },
-                      {
-                        "x": 174.5,
-                        "y": 248
-                      },
-                      {
-                        "x": 75.5,
-                        "y": 249.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 93.5,
-                        "y": 232
-                      },
-                      {
-                        "x": 159,
-                        "y": 231.5
-                      },
-                      {
-                        "x": 167,
-                        "y": 241
-                      },
-                      {
-                        "x": 86,
-                        "y": 240
-                      }
-                    ],
-                    [
-                      {
-                        "x": 101.5,
-                        "y": 224
-                      },
-                      {
-                        "x": 150.5,
-                        "y": 224
-                      },
-                      {
-                        "x": 159.5,
-                        "y": 232.5
-                      },
-                      {
-                        "x": 93,
-                        "y": 232.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 106.5,
-                        "y": 215.5
-                      },
-                      {
-                        "x": 146,
-                        "y": 216.5
-                      },
-                      {
-                        "x": 151.5,
-                        "y": 225
-                      },
-                      {
-                        "x": 101.5,
-                        "y": 224.5
+                        "x": 163.5,
+                        "y": 600
                       }
                     ]
                   ]
@@ -471,6 +810,68 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "shadowBorder",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "events": [
@@ -483,8 +884,59 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "PlatformerObject"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoIdle\""
+          ]
+        }
+      ]
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "PlatformerObject"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoWalking\""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -564,6 +1016,14 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "SmoothCamera",
+      "type": "SmoothCamera::SmoothCamera"
+    },
+    {
+      "name": "SmoothPlatformerCamera",
+      "type": "SmoothCamera::SmoothPlatformerCamera"
     }
   ]
 }
