@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.43357743047023745,
+    "zoomFactor": 0.4194339782759064,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -35,6 +35,22 @@
       "x": 758,
       "y": 449,
       "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 260,
+      "layer": "",
+      "name": "john_pizza",
+      "persistentUuid": "10f10dd8-e227-4fa8-bd91-4c85e9f13b6c",
+      "width": 260,
+      "x": 938,
+      "y": 403,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
