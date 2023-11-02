@@ -29,43 +29,11 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "test",
-      "persistentUuid": "1bddbed1-f14c-401b-a765-5653e026c155",
+      "name": "Title",
+      "persistentUuid": "b4cf2f13-4a25-497c-8edf-627847d0a863",
       "width": 0,
-      "x": 758,
-      "y": 449,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 4,
-      "height": 260,
-      "layer": "",
-      "name": "john_pizza",
-      "persistentUuid": "10f10dd8-e227-4fa8-bd91-4c85e9f13b6c",
-      "width": 260,
-      "x": 690,
-      "y": 517,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 696,
-      "layer": "",
-      "name": "john_pizza2",
-      "persistentUuid": "53b08617-70bb-4657-b4f4-7ea681c10d98",
-      "width": 512,
-      "x": 1498,
-      "y": -197,
+      "x": 451,
+      "y": 37,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -158,66 +126,26 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "john_pizza2",
+      "bold": true,
+      "italic": true,
+      "name": "Title",
+      "smoothed": true,
       "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
+      "type": "TextObject::Text",
+      "underlined": false,
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "animations": [
-        {
-          "name": "pizza1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 11,
-                        "y": 18
-                      },
-                      {
-                        "x": 49,
-                        "y": 18
-                      },
-                      {
-                        "x": 49,
-                        "y": 55
-                      },
-                      {
-                        "x": 11,
-                        "y": 55
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "string": "Jurassic Part",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 150,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
     }
   ],
   "events": [],
