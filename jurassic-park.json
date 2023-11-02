@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "Title",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -100,7 +100,11 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/title"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-0"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
