@@ -52,6 +52,16 @@
             "PlatformerObject",
             "\"Left\""
           ]
+        },
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Flippable",
+            "yes"
+          ]
         }
       ]
     },
@@ -103,6 +113,16 @@
             "juvenileTrex",
             "PlatformerObject",
             "\"Right\""
+          ]
+        },
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Flippable",
+            "no"
           ]
         }
       ]

@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.19415059112740768,
+    "zoomFactor": 0.2006974131454975,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,7 +32,7 @@
       "layer": "",
       "name": "dirtFloor",
       "persistentUuid": "95b8900a-e7e0-41b8-9456-67ed4265f8f6",
-      "width": 2505,
+      "width": 4743,
       "x": -13,
       "y": 870,
       "zOrder": 1,
@@ -49,7 +49,7 @@
       "name": "road",
       "persistentUuid": "2a0e76a7-07b4-4ea0-97e0-f30f5c755212",
       "width": 1214,
-      "x": 2480,
+      "x": 4657,
       "y": 879,
       "zOrder": 3,
       "numberProperties": [],
@@ -79,7 +79,7 @@
       "name": "fence",
       "persistentUuid": "22621fc2-21e3-47e6-8f41-5ec0beb430ee",
       "width": 0,
-      "x": 2198,
+      "x": 4369,
       "y": 337,
       "zOrder": 5,
       "numberProperties": [],
@@ -90,13 +90,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1996,
+      "height": 2292,
       "layer": "",
       "name": "shadowBorder",
       "persistentUuid": "17a3101a-7aeb-4083-a9eb-6609b891deae",
       "width": 1328,
       "x": -1316,
-      "y": -307,
+      "y": -603,
       "zOrder": -1,
       "numberProperties": [],
       "stringProperties": [],
@@ -106,13 +106,13 @@
       "angle": 270,
       "customSize": true,
       "depth": 1,
-      "height": 3681,
+      "height": 10113,
       "layer": "",
       "name": "shadowBorder",
       "persistentUuid": "cb8a571d-c1f2-4c8b-85e0-9e043baad732",
       "width": 1012,
-      "x": 22,
-      "y": -279,
+      "x": 3238,
+      "y": -3495,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -156,7 +156,7 @@
       "layer": "",
       "name": "tutorialText",
       "persistentUuid": "067feb89-9286-45eb-bb0a-3e57311c2171",
-      "width": 611,
+      "width": 610,
       "x": 365,
       "y": 200,
       "zOrder": 8,
@@ -172,10 +172,40 @@
       "layer": "",
       "name": "tutorialText2",
       "persistentUuid": "1dfedb4f-224a-46df-9f72-44557c7b001e",
-      "width": 611,
+      "width": 610,
       "x": 1240,
       "y": 240,
       "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "tutorialText3",
+      "persistentUuid": "c6095711-8976-4f10-acb6-6b6ea6a31eaf",
+      "width": 0,
+      "x": 3451,
+      "y": 240,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "trigger3",
+      "persistentUuid": "8ad29332-4cc4-4440-94fa-b5095220b5dc",
+      "width": 0,
+      "x": 3785,
+      "y": 783,
+      "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1068,6 +1098,49 @@
       ]
     },
     {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "trigger3",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "trigger1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "trigger1",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "assetStoreId": "",
       "bold": false,
       "italic": false,
@@ -1118,6 +1191,36 @@
         }
       ],
       "string": "You now seek not only to survive, but to get revenge.",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "tutorialText3",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Text_AutoTyping",
+          "type": "AutoTyping::Text_AutoTyping",
+          "Interval": 0.01,
+          "CharacterJustAdded": false,
+          "CurrentCharacter": ""
+        }
+      ],
+      "string": "Press Z on M&K or X on controller to ram",
       "font": "",
       "textAlignment": "left",
       "characterSize": 40,
@@ -1219,6 +1322,14 @@
         },
         {
           "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "tutorialText3"
+          ]
+        },
+        {
+          "type": {
             "value": "ActivateBehavior"
           },
           "parameters": [
@@ -1233,6 +1344,16 @@
           },
           "parameters": [
             "tutorialText2",
+            "Text_AutoTyping",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "tutorialText3",
             "Text_AutoTyping",
             ""
           ]
@@ -1309,6 +1430,44 @@
           },
           "parameters": [
             "tutorialText2",
+            "Text_AutoTyping",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "trigger3",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "tutorialText3",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "tutorialText3",
             "Text_AutoTyping",
             "yes"
           ]
