@@ -631,7 +631,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle34.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle34.png\"}",
         "name": "dinoIdle34",
         "smoothed": true,
         "userAdded": false
@@ -640,7 +640,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle35.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle35.png\"}",
         "name": "dinoIdle35",
         "smoothed": true,
         "userAdded": false
@@ -649,7 +649,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle36.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle36.png\"}",
         "name": "dinoIdle36",
         "smoothed": true,
         "userAdded": false
@@ -658,7 +658,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle37.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle37.png\"}",
         "name": "dinoIdle37",
         "smoothed": true,
         "userAdded": false
@@ -667,7 +667,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle38.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle38.png\"}",
         "name": "dinoIdle38",
         "smoothed": true,
         "userAdded": false
@@ -676,7 +676,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle39.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle39.png\"}",
         "name": "dinoIdle39",
         "smoothed": true,
         "userAdded": false
@@ -685,7 +685,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle40.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle40.png\"}",
         "name": "dinoIdle40",
         "smoothed": true,
         "userAdded": false
@@ -694,7 +694,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoIdle41.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoIdle41.png\"}",
         "name": "dinoIdle41",
         "smoothed": true,
         "userAdded": false
@@ -705,6 +705,24 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "fence4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/trigger3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "trigger1",
         "smoothed": true,
         "userAdded": false
       }
@@ -759,6 +777,10 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/autotyping"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
