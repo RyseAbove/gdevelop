@@ -1,13 +1,13 @@
 {
-  "b": 209,
+  "b": 235,
   "disableInputWhenNotFocused": true,
   "mangledName": "Level_321",
   "name": "Level 1",
-  "r": 209,
+  "r": 135,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
-  "v": 209,
+  "v": 206,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2531414001298621,
+    "zoomFactor": 0.17576384491805347,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,7 +32,7 @@
       "layer": "",
       "name": "daBridge",
       "persistentUuid": "8c9da5f2-6ae6-4114-84e3-1b1b0a08a016",
-      "width": 10572,
+      "width": 9486,
       "x": -969,
       "y": 56,
       "zOrder": 102,
@@ -117,31 +117,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "hills_TheWeekend",
-      "persistentUuid": "2861951c-c625-4ef6-b9a5-3448e40ec77f",
-      "width": 0,
-      "x": 4328,
-      "y": -63,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 28,
       "layer": "",
       "name": "brigeplatform",
       "persistentUuid": "9f41d46b-2002-4111-9599-c407fdf245eb",
-      "width": 10545,
+      "width": 14957,
       "x": -959,
       "y": 737,
-      "zOrder": 101,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -161,6 +146,253 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "hillsTheSqueakuel",
+      "persistentUuid": "122186e9-29cd-47f6-8df7-449484a01547",
+      "width": 0,
+      "x": 5915,
+      "y": 73,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "daHillary",
+      "persistentUuid": "cf80ebbe-9a95-469f-9375-94751d947cd8",
+      "width": 0,
+      "x": 6837,
+      "y": -116,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "reverseHillary",
+      "persistentUuid": "ff9a1a8c-accd-4c33-9fd7-8563b0690ad7",
+      "width": 0,
+      "x": 4115,
+      "y": 26,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 299,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Cloudys",
+      "persistentUuid": "46a4f20f-adf4-4210-9ba5-4d025b402189",
+      "width": 0,
+      "x": 7551,
+      "y": -657,
+      "zOrder": 104,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Cloudys",
+      "persistentUuid": "122307d9-886c-485f-a04b-ed1f5057de21",
+      "width": 0,
+      "x": 2118,
+      "y": -215,
+      "zOrder": 105,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 512,
+      "layer": "",
+      "name": "longCloud",
+      "persistentUuid": "dce4948a-f150-487b-9f46-513599e13cc1",
+      "width": 757,
+      "x": 664,
+      "y": -298,
+      "zOrder": 106,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Cloudys",
+      "persistentUuid": "caecc5ab-89ca-418a-b6b5-520c7d33fbde",
+      "width": 0,
+      "x": 4034,
+      "y": -282,
+      "zOrder": 107,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "longCloud",
+      "persistentUuid": "90cc62cf-87b2-4ec8-a467-8fd0848e0908",
+      "width": 0,
+      "x": 2865,
+      "y": -468,
+      "zOrder": 108,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 65,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "longCloud",
+      "persistentUuid": "bf193ead-6b13-492e-9fea-ce58242ba074",
+      "width": 0,
+      "x": -469,
+      "y": -309,
+      "zOrder": 109,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "satyAway",
+      "persistentUuid": "2e0e2232-26aa-4f38-b624-08f58411dfb6",
+      "width": 0,
+      "x": -1484,
+      "y": 382,
+      "zOrder": 110,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 6,
+      "height": 364,
+      "layer": "",
+      "name": "daFishies",
+      "persistentUuid": "460359f7-99b1-4196-b817-7e4bf0ab6237",
+      "width": 364,
+      "x": 10304,
+      "y": 348,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1024,
+      "layer": "",
+      "name": "railLessBridge",
+      "persistentUuid": "b59198d5-dfae-407f-bba0-cd3286a36c44",
+      "width": 5518,
+      "x": 8489,
+      "y": 56,
+      "zOrder": 98,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 6,
+      "height": 569,
+      "layer": "",
+      "name": "Ceradactlyl",
+      "persistentUuid": "966bcdaf-a25c-4021-aa17-7eda39ef0922",
+      "width": 569,
+      "x": 9608,
+      "y": -456,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 615,
+      "layer": "",
+      "name": "Ceradactlyl",
+      "persistentUuid": "49e01b36-8d85-4f3c-81f0-cd4f66c11e23",
+      "width": 615,
+      "x": 10301,
+      "y": -504,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 615,
+      "layer": "",
+      "name": "Ceradactlyl",
+      "persistentUuid": "45b6c021-4428-48ec-9324-450809008488",
+      "width": 615,
+      "x": 10990,
+      "y": -503,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 615,
+      "layer": "",
+      "name": "Ceradactlyl",
+      "persistentUuid": "f715bc59-d574-4297-9afa-1dc9b146f73e",
+      "width": 615,
+      "x": 11735,
+      "y": -385,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -175,6 +407,8 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -187,9 +421,7 @@
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
           "maxSpeed": 250,
-          "name": "PlatformerObject",
           "slopeMaxAngle": 60,
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
           "yGrabOffset": 0
@@ -753,10 +985,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -802,6 +1034,397 @@
                       {
                         "x": 0,
                         "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "reverseHillary",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "aviary HILL FRONT1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "aviary HILL FRONT1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 391,
+                        "y": 198
+                      },
+                      {
+                        "x": 1928,
+                        "y": 198
+                      },
+                      {
+                        "x": 1928,
+                        "y": 1024
+                      },
+                      {
+                        "x": 391,
+                        "y": 1024
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Cloudys",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Cloudys",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cloudys",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 46,
+                        "y": 27
+                      },
+                      {
+                        "x": 421,
+                        "y": 27
+                      },
+                      {
+                        "x": 421,
+                        "y": 422
+                      },
+                      {
+                        "x": 46,
+                        "y": 422
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "longCloud",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "longCloud",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "longCloud",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 20,
+                        "y": 113
+                      },
+                      {
+                        "x": 512,
+                        "y": 113
+                      },
+                      {
+                        "x": 512,
+                        "y": 382
+                      },
+                      {
+                        "x": 20,
+                        "y": 382
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "satyAway",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "satyAway",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "satyAway2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 214,
+                        "y": 147
+                      },
+                      {
+                        "x": 510,
+                        "y": 147
+                      },
+                      {
+                        "x": 510,
+                        "y": 316
+                      },
+                      {
+                        "x": 214,
+                        "y": 316
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "daFishies",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "MicrosoftTeams-image (1).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 47
+                      },
+                      {
+                        "x": 16,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 1024,
+      "name": "railLessBridge",
+      "tags": "",
+      "texture": "aviary BRIDGE3.png2",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 2048,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Ceradactlyl",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 92,
+                        "y": 0
+                      },
+                      {
+                        "x": 92,
+                        "y": 92
+                      },
+                      {
+                        "x": 0,
+                        "y": 92
                       }
                     ]
                   ]

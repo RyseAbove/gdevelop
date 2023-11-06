@@ -986,6 +986,141 @@
         "name": "NewSprite7",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary HILL5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary HILL6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary HILL3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/aviary BRIDGE.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\aviary BRIDGE.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL FRONT1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"aviary HILL FRONT1.png\",\"extension\":\".png\"}",
+        "name": "aviary HILL FRONT1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cloudys.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cloudys",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/longCloud.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "longCloud",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/satyAway.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/satyAway.png\"}",
+        "name": "satyAway",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/satyAway2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "satyAway2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "MicrosoftTeams-image (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "MicrosoftTeams-image (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary BRIDGE3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"aviary BRIDGE3.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "aviary BRIDGE3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/aviary BRIDGE3.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "aviary BRIDGE3.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1002,9 +1137,9 @@
       "effects": [],
       "behaviors": [
         {
-          "maxSpeed": 300,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "maxSpeed": 300,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
