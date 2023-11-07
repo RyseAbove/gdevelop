@@ -122,7 +122,7 @@
         "alwaysLoaded": false,
         "file": "assets/floor1.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/floor1.png\"}",
         "name": "floor1",
         "smoothed": true,
         "userAdded": true
@@ -406,7 +406,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
         "name": "NewSprite6",
         "smoothed": true,
         "userAdded": true
@@ -703,7 +703,7 @@
         "alwaysLoaded": false,
         "file": "assets/fence4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fence4.png\"}",
         "name": "fence4",
         "smoothed": true,
         "userAdded": false
@@ -982,143 +982,332 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite8.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite8.png\"}",
         "name": "NewSprite7",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "aviary HILL5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "aviary HILL5.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "aviary HILL6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "aviary HILL6.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "aviary HILL3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "aviary HILL3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "../../../Downloads/aviary BRIDGE.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\aviary BRIDGE.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "aviary HILL FRONT1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"aviary HILL FRONT1.png\",\"extension\":\".png\"}",
-        "name": "aviary HILL FRONT1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/New image2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "New image2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/New image3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "New image3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cloudys.png",
+        "file": "assets/jeep3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "Cloudys",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/longCloud.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "longCloud",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/satyAway.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/satyAway.png\"}",
-        "name": "satyAway",
+        "name": "jeep1",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/satyAway2.png",
+        "file": "assets/fenceBreak.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "satyAway2",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak.png\"}",
+        "name": "fenceBreak",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "MicrosoftTeams-image (1).png",
+        "file": "assets/fenceBreak2.png",
         "kind": "image",
-        "metadata": "",
-        "name": "MicrosoftTeams-image (1).png",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak2.png\"}",
+        "name": "fenceBreak2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak3.png\"}",
+        "name": "fenceBreak3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fenceBreak4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fenceBreak5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fenceBreak6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fenceBreak7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fenceBreak8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fenceBreak9",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fenceBreak10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fence5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fence5.png\"}",
+        "name": "fence5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak11.png\"}",
+        "name": "fenceBreak11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak12.png\"}",
+        "name": "fenceBreak12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak13.png\"}",
+        "name": "fenceBreak13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak14.png\"}",
+        "name": "fenceBreak14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak15.png\"}",
+        "name": "fenceBreak15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak16.png\"}",
+        "name": "fenceBreak16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fenceBreak17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fenceBreak17.png\"}",
+        "name": "fenceBreak17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/lightBlocker.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "lightBlocker",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking2",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "aviary BRIDGE3.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"aviary BRIDGE3.png\",\"extension\":\".png\",\"pskl\":{}}",
-        "name": "aviary BRIDGE3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/aviary BRIDGE3.png2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "aviary BRIDGE3.png2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite9.png",
+        "file": "assets/dinoWalking3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite8",
+        "name": "dinoWalking3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tree.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "tree",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tree2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "tree2",
         "smoothed": true,
         "userAdded": false
       }
@@ -1126,6 +1315,36 @@
     "resourceFolders": []
   },
   "objects": [
+    {
+      "assetStoreId": "",
+      "name": "carLight",
+      "tags": "",
+      "type": "Lighting::LightObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "radius": 250,
+        "color": "255;255;255",
+        "debugMode": false,
+        "texture": ""
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "explosionLight",
+      "tags": "",
+      "type": "Lighting::LightObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "radius": 1000,
+        "color": "255;255;255",
+        "debugMode": false,
+        "texture": ""
+      }
+    },
     {
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
@@ -1137,9 +1356,10 @@
       "effects": [],
       "behaviors": [
         {
+          "jumpSustainTime": 0.5,
+          "maxSpeed": 350,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "maxSpeed": 300,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -1148,7 +1368,6 @@
           "gravity": 1000,
           "ignoreDefaultControls": false,
           "jumpSpeed": 600,
-          "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
           "slopeMaxAngle": 60,
@@ -1701,6 +1920,10 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/spritebasedlighting"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/dynamicwater"
