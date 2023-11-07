@@ -1322,64 +1322,64 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoDash2.png",
+        "file": "MicrosoftTeams-image (1)2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoDash2",
+        "metadata": "",
+        "name": "MicrosoftTeams-image (1)2.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoDash3.png",
+        "file": "aviary HILL7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoDash3",
+        "metadata": "",
+        "name": "aviary HILL7.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoDash4.png",
+        "file": "aviary HILL4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoDash4",
+        "metadata": "",
+        "name": "aviary HILL4.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow.png",
+        "file": "aviary HILL FRONT2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow",
+        "metadata": "{\"localFilePath\":\"aviary HILL FRONT2.png\",\"extension\":\".png\"}",
+        "name": "aviary HILL FRONT2.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow2.png",
+        "file": "assets/NewSprite10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow2",
+        "name": "NewSprite8",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow3.png",
+        "file": "assets/NewSprite11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow3",
+        "name": "NewSprite9",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow4.png",
+        "file": "aviary BRIDGE5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow4",
+        "metadata": "",
+        "name": "aviary BRIDGE5.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -1421,7 +1421,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite10.png",
+        "file": "assets/NewSprite8-2.png.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite8",
