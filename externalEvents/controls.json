@@ -149,22 +149,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "AdvancedJump::HorizontalDash::IsDashing"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "HorizontalDash",
-            ""
-          ]
-        }
-      ],
-      "actions": []
     }
   ]
 }
