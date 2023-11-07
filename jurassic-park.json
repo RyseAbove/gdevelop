@@ -1310,6 +1310,114 @@
         "name": "tree2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoDash",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoDash2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoDash3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoDash4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow8",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1356,10 +1464,10 @@
       "effects": [],
       "behaviors": [
         {
-          "jumpSustainTime": 0.5,
-          "maxSpeed": 350,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "jumpSustainTime": 0.5,
+          "maxSpeed": 350,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -1920,6 +2028,14 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/advancedjump"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/platformercharacteranimator"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/spritebasedlighting"
