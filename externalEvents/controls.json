@@ -52,16 +52,6 @@
             "PlatformerObject",
             "\"Left\""
           ]
-        },
-        {
-          "type": {
-            "value": "FlippableCapability::FlippableBehavior::FlipX"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Flippable",
-            "yes"
-          ]
         }
       ]
     },
@@ -114,18 +104,67 @@
             "PlatformerObject",
             "\"Right\""
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
           "type": {
-            "value": "FlippableCapability::FlippableBehavior::FlipX"
+            "value": "BuiltinCommonInstructions::Or"
+          },
+          "parameters": [],
+          "subInstructions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "LShift"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ]
+            }
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AdvancedJump::HorizontalDash::SimulateDashKey"
           },
           "parameters": [
             "juvenileTrex",
-            "Flippable",
-            "no"
+            "HorizontalDash",
+            ""
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AdvancedJump::HorizontalDash::IsDashing"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "HorizontalDash",
+            ""
+          ]
+        }
+      ],
+      "actions": []
     }
   ]
 }
