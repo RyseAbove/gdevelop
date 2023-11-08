@@ -1,7 +1,7 @@
 {
   "associatedLayout": "Level 0",
   "lastChangeTimeStamp": 0,
-  "name": "CONTROLS",
+  "name": "TUTORIAL CONTROLS",
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -151,6 +151,7 @@
       ]
     },
     {
+      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -202,6 +203,7 @@
       ]
     },
     {
+      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {

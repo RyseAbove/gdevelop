@@ -131,7 +131,7 @@
         "alwaysLoaded": false,
         "file": "assets/road1.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/road1.png\"}",
         "name": "road1",
         "smoothed": true,
         "userAdded": false
@@ -1805,6 +1805,96 @@
         "name": "cloud2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TUT TREES.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TUT TREES.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TUT TREES2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"TUT TREES2.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "TUT TREES2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "deceased dinosaur.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "deceased dinosaur.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/deceased dinosaur.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "deceased dinosaur",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TUT GRASS.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"TUT GRASS.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "TUT GRASS.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TUT BG.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"TUT BG.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "TUT BG.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TUT BG2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TUT BG2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/building.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "building",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/building2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "building2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/building3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "building3",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2412,6 +2502,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/controls"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/tutorial-controls"
     }
   ],
   "eventsFunctionsExtensions": [

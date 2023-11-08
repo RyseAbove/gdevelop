@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1941505911274083,
+    "zoomFactor": 0.1644839130493757,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,8 +32,8 @@
       "layer": "",
       "name": "dirtFloor",
       "persistentUuid": "95b8900a-e7e0-41b8-9456-67ed4265f8f6",
-      "width": 6035,
-      "x": -1305,
+      "width": 7672,
+      "x": -2942,
       "y": 870,
       "zOrder": 1,
       "numberProperties": [],
@@ -48,7 +48,7 @@
       "layer": "",
       "name": "road",
       "persistentUuid": "2a0e76a7-07b4-4ea0-97e0-f30f5c755212",
-      "width": 2909,
+      "width": 5041,
       "x": 4657,
       "y": 879,
       "zOrder": 3,
@@ -64,7 +64,7 @@
       "name": "juvenileTrex",
       "persistentUuid": "2d2ee486-301e-45a6-8f85-9d3692b014f3",
       "width": 0,
-      "x": 203,
+      "x": 195,
       "y": 489,
       "zOrder": 10000,
       "numberProperties": [],
@@ -88,32 +88,16 @@
       "initialVariables": []
     },
     {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 2292,
-      "layer": "",
-      "name": "shadowBorder",
-      "persistentUuid": "17a3101a-7aeb-4083-a9eb-6609b891deae",
-      "width": 1228,
-      "x": -1316,
-      "y": -603,
-      "zOrder": -1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 270,
       "customSize": true,
       "depth": 1,
-      "height": 10113,
+      "height": 11089,
       "layer": "",
       "name": "shadowBorder",
       "persistentUuid": "cb8a571d-c1f2-4c8b-85e0-9e043baad732",
       "width": 1012,
-      "x": 3238,
-      "y": -3495,
+      "x": 2750,
+      "y": -3983,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -238,8 +222,8 @@
       "name": "jeep",
       "persistentUuid": "2673a516-964a-4cd2-b926-6728d6fe9a7f",
       "width": 600,
-      "x": 5557,
-      "y": 405,
+      "x": 5199,
+      "y": 421,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -254,8 +238,8 @@
       "name": "jeep",
       "persistentUuid": "3d884852-3d94-4297-8d86-e65eb4e52304",
       "width": 500,
-      "x": 5854,
-      "y": 487,
+      "x": 5488,
+      "y": 503,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -270,24 +254,9 @@
       "name": "blue_tint",
       "persistentUuid": "a61b7ba4-6df2-49be-85b5-d9bb2594548b",
       "width": 2138,
-      "x": -99,
-      "y": -60,
+      "x": -123,
+      "y": -73,
       "zOrder": 15,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "lighting",
-      "name": "fenceLight",
-      "persistentUuid": "5cd68065-5a9f-4821-91c3-027fd8b874b1",
-      "width": 0,
-      "x": 4773,
-      "y": 230,
-      "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -300,7 +269,7 @@
       "name": "carLight",
       "persistentUuid": "fa551a59-90c0-4449-b045-47445ca6a2ba",
       "width": 0,
-      "x": 5859,
+      "x": 5503,
       "y": 776,
       "zOrder": 0,
       "numberProperties": [],
@@ -315,8 +284,8 @@
       "name": "carLight",
       "persistentUuid": "e094ea4c-491a-4ad0-b711-9c058dd61317",
       "width": 0,
-      "x": 6091,
-      "y": 781,
+      "x": 5715,
+      "y": 797,
       "zOrder": -1,
       "numberProperties": [],
       "stringProperties": [],
@@ -346,7 +315,7 @@
       "name": "tutorialText4",
       "persistentUuid": "84de60e6-404c-472f-8e0d-b67683059287",
       "width": 0,
-      "x": 5694,
+      "x": 5336,
       "y": 398,
       "zOrder": 10002,
       "numberProperties": [],
@@ -355,47 +324,31 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "tree",
-      "persistentUuid": "8aad2541-87ff-4dc9-9d25-71ed3f586115",
-      "width": 0,
-      "x": -1399,
-      "y": 355,
-      "zOrder": 100,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 479,
-      "layer": "",
-      "name": "tree",
-      "persistentUuid": "0063d34a-932b-4ce9-a806-b98a8af80a12",
-      "width": 299,
-      "x": -1055,
-      "y": 495,
-      "zOrder": 100,
+      "height": 1024,
+      "layer": "background items",
+      "name": "treeBackground",
+      "persistentUuid": "433cc70c-6e2a-4599-9715-5939c201d345",
+      "width": 5956,
+      "x": -1310,
+      "y": 60,
+      "zOrder": 1661992961,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 697,
+      "customSize": false,
+      "height": 0,
       "layer": "",
-      "name": "tree",
-      "persistentUuid": "8d25166a-bee6-46c2-9e5f-34027a799f55",
-      "width": 436,
-      "x": -783,
-      "y": 252,
-      "zOrder": 100,
+      "name": "dinoCarcass",
+      "persistentUuid": "dc3931b6-94c5-4576-a21f-2959395b91c0",
+      "width": 0,
+      "x": -341,
+      "y": 378,
+      "zOrder": 1661992962,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -406,57 +359,11 @@
       "height": 0,
       "layer": "",
       "name": "tree",
-      "persistentUuid": "917cca08-a859-47e9-a295-1a8234ab6322",
+      "persistentUuid": "59100138-a274-4208-95ab-1823f36434cb",
       "width": 0,
-      "x": -403,
-      "y": 411,
-      "zOrder": 100,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 727,
-      "layer": "",
-      "name": "tree",
-      "persistentUuid": "3ea520fb-9985-439e-8b75-f6559cbf7c9e",
-      "width": 454,
-      "x": 853,
-      "y": 245,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "tree",
-      "persistentUuid": "3a2ed3ab-ac73-4908-8be6-e72d56cac6e3",
-      "width": 0,
-      "x": 1776,
-      "y": 388,
-      "zOrder": 1000000,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "tree",
-      "persistentUuid": "7b815031-2f83-4c4a-b7c7-1589b6c5e459",
-      "width": 0,
-      "x": 2640,
-      "y": 422,
-      "zOrder": 9952,
+      "x": 1378,
+      "y": 385,
+      "zOrder": 1661992963,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -465,14 +372,60 @@
       "angle": 0,
       "customSize": true,
       "depth": 2,
-      "height": 962,
+      "height": 901,
       "layer": "",
       "name": "tree",
-      "persistentUuid": "ed2c0244-6228-41cf-ac68-b8080a191fcc",
-      "width": 601,
-      "x": 2976,
-      "y": -12,
-      "zOrder": 1661992960,
+      "persistentUuid": "881bdb83-123a-47b3-92ec-c2af8afa27d5",
+      "width": 563,
+      "x": 2745,
+      "y": 52,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "tree",
+      "persistentUuid": "acbe6487-2137-4c99-8a58-233cf9971197",
+      "width": 0,
+      "x": 3622,
+      "y": 417,
+      "zOrder": 1661992964,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 1043,
+      "layer": "",
+      "name": "tree",
+      "persistentUuid": "e69df512-4981-48ea-8be3-908bafb70fd0",
+      "width": 652,
+      "x": 476,
+      "y": -82,
+      "zOrder": 1661992965,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "tree background",
+      "name": "grassBackground",
+      "persistentUuid": "9e2b9ce5-6952-4b0d-a559-d9d745893e19",
+      "width": 0,
+      "x": -1348,
+      "y": 1249,
+      "zOrder": 1661992966,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -481,14 +434,90 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 628,
+      "height": 7049,
+      "layer": "",
+      "name": "shadowBorder",
+      "persistentUuid": "1693f8cb-492d-4139-9d1b-f58a749c9bc1",
+      "width": 643,
+      "x": -2277,
+      "y": -4200,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "tree background",
+      "name": "grassBackground",
+      "persistentUuid": "a67ed3c9-3791-48f0-92a4-32e8fd60bb48",
+      "width": 0,
+      "x": -905,
+      "y": 422,
+      "zOrder": 1661992967,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1024,
+      "layer": "background items",
+      "name": "grassBackground",
+      "persistentUuid": "e1ddc7cc-fe03-4140-a1bf-8f02e4000742",
+      "width": 5965,
+      "x": -1298,
+      "y": -74,
+      "zOrder": 1661992968,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
       "layer": "",
       "name": "tree",
-      "persistentUuid": "7b9cbad5-9ce0-4317-ad83-4d05d165d587",
-      "width": 393,
-      "x": 3790,
-      "y": 355,
-      "zOrder": 9952,
+      "persistentUuid": "e68cb01a-247b-4d7d-a6e9-349a2484effe",
+      "width": 0,
+      "x": 2119,
+      "y": 422,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "building",
+      "persistentUuid": "93739fc5-430b-4849-ab79-76f1b1a1cd74",
+      "width": 0,
+      "x": 7160,
+      "y": -353,
+      "zOrder": 1661992970,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "fenceLight",
+      "persistentUuid": "c17821ec-6033-4133-9c1f-6043a99f3849",
+      "width": 0,
+      "x": 4948,
+      "y": 337,
+      "zOrder": 1661992971,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2450,6 +2479,68 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
+      "name": "fish",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 47
+                      },
+                      {
+                        "x": 16,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
       "name": "jeep",
       "tags": "",
       "type": "Sprite",
@@ -2669,7 +2760,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "fish",
+      "name": "building",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -2678,7 +2769,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite",
+          "name": "building",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -2688,7 +2779,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite8",
+                  "image": "building3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2704,49 +2795,25 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 16,
-                        "y": 10
+                        "x": 132,
+                        "y": 19
                       },
                       {
-                        "x": 55,
-                        "y": 10
+                        "x": 1355,
+                        "y": 19
                       },
                       {
-                        "x": 55,
-                        "y": 47
+                        "x": 1355,
+                        "y": 1300
                       },
                       {
-                        "x": 16,
-                        "y": 47
+                        "x": 132,
+                        "y": 1300
                       }
                     ]
                   ]
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "dinoCarcass",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": []
             }
           ]
         }
@@ -2895,7 +2962,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "shadowBorder",
+      "name": "dinoCarcass",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -2904,7 +2971,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite",
+          "name": "deceased dinosaur",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -2914,7 +2981,216 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
+                  "image": "deceased dinosaur",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 98,
+                        "y": 405
+                      },
+                      {
+                        "x": 662,
+                        "y": 405
+                      },
+                      {
+                        "x": 662,
+                        "y": 607
+                      },
+                      {
+                        "x": 98,
+                        "y": 607
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 1024,
+      "name": "treeBackground",
+      "tags": "",
+      "texture": "TUT TREES2.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 2048,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 1024,
+      "name": "grassBackground",
+      "tags": "",
+      "texture": "TUT GRASS.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 2048,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "background",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "background",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "TUT BG2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 2048,
+                        "y": 0
+                      },
+                      {
+                        "x": 2048,
+                        "y": 1024
+                      },
+                      {
+                        "x": 0,
+                        "y": 1024
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "shadowBorder",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "border",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
                   "image": "NewSprite6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "blue_tint",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "blue_tint",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3247,68 +3523,6 @@
       }
     },
     {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "blue_tint",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "blue_tint",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite7",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "assetStoreId": "",
       "name": "fenceLight",
       "tags": "",
@@ -3330,7 +3544,7 @@
       "include": {
         "includeConfig": 0
       },
-      "target": "controls"
+      "target": "TUTORIAL CONTROLS"
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -3978,6 +4192,38 @@
     }
   ],
   "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "background items",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
     {
       "ambientLightColorB": 200,
       "ambientLightColorG": 200,
