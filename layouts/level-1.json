@@ -320,6 +320,113 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "juvenileTrex",
+      "persistentUuid": "e72b9c5c-9641-483e-910c-1a2b95415af0",
+      "width": 0,
+      "x": -964,
+      "y": 239,
+      "zOrder": 108,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 48,
+      "layer": "",
+      "name": "scawy",
+      "persistentUuid": "b235ec50-0805-419d-a419-2486c178c71c",
+      "width": 885,
+      "x": -1850,
+      "y": 841,
+      "zOrder": 109,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NewText",
+      "persistentUuid": "33837a43-9d2c-46f0-9a2a-8ab0a53260b8",
+      "width": 0,
+      "x": -1344,
+      "y": 125,
+      "zOrder": 110,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Clowd",
+      "persistentUuid": "fbcca1fd-4e5c-423f-afc9-45116795d8b1",
+      "width": 0,
+      "x": 5507,
+      "y": -267,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 16,
+      "customSize": true,
+      "depth": 1,
+      "height": 381,
+      "layer": "",
+      "name": "cloud2",
+      "persistentUuid": "d3e397a8-8197-41b3-b7d8-05df82878ee6",
+      "width": 603,
+      "x": 598,
+      "y": -231,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 32,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Clowd",
+      "persistentUuid": "cbb6350a-767e-4bbf-b3eb-10e7114e2408",
+      "width": 0,
+      "x": 2998,
+      "y": -222,
+      "zOrder": 113,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "cloud2",
+      "persistentUuid": "073e6c79-dcb9-4f9c-ae23-c7626ed6fd04",
+      "width": 0,
+      "x": 8896,
+      "y": -291,
+      "zOrder": 114,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -1977,6 +2084,71 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "scawy",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "scawy",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "scawy",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "NewText",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "dont go to the left please :))))))",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 60,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
     }
   ],
   "events": [
@@ -1987,209 +2159,233 @@
       },
       "target": "TUTORIAL CONTROLS"
     },
-      {
-        "colorB": 228,
-        "colorG": 176,
-        "colorR": 74,
-        "creationTime": 0,
-        "name": "Trex",
-        "source": "",
-        "type": "BuiltinCommonInstructions::Group",
-        "events": [],
-        "parameters": []
-      },
-      {
-        "type": "BuiltinCommonInstructions::Standard",
-        "conditions": [
-          {
-            "type": {
-              "inverted": true,
-              "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "PlatformerObject"
-            ]
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Trex",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
-          {
-            "type": {
-              "inverted": true,
-              "value": "AnimatableCapability::AnimatableBehavior::Name"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "Animation",
-              "=",
-              "\"dinoThrow\""
-            ]
-          }
-        ],
-        "actions": [
-          {
-            "type": {
-              "value": "AnimatableCapability::AnimatableBehavior::SetName"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "Animation",
-              "=",
-              "\"dinoIdle\""
-            ]
-          }
-        ]
-      },
-      {
-        "type": "BuiltinCommonInstructions::Standard",
-        "conditions": [
-          {
-            "type": {
-              "value": "AdvancedJump::HorizontalDash::IsDashing"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "HorizontalDash",
-              ""
-            ]
-          }
-        ],
-        "actions": [
-          {
-            "type": {
-              "value": "AnimatableCapability::AnimatableBehavior::SetName"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "Animation",
-              "=",
-              "\"dinoDash\""
-            ]
-          }
-        ]
-      },
-      {
-        "type": "BuiltinCommonInstructions::Standard",
-        "conditions": [
-          {
-            "type": {
-              "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "PlatformerObject"
-            ]
+          "parameters": [
+            "juvenileTrex",
+            "PlatformerObject"
+          ]
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
           },
-          {
-            "type": {
-              "value": "BuiltinCommonInstructions::Once"
-            },
-            "parameters": []
-          }
-        ],
-        "actions": [
-          {
-            "type": {
-              "value": "AnimatableCapability::AnimatableBehavior::SetName"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "Animation",
-              "=",
-              "\"dinoWalking\""
-            ]
-          }
-        ]
-      },
-      {
-        "type": "BuiltinCommonInstructions::Standard",
-        "conditions": [
-          {
-            "type": {
-              "value": "MouseButtonPressed"
-            },
-            "parameters": [
-              "",
-              "Left"
-            ]
-          }
-        ],
-        "actions": [
-          {
-            "type": {
-              "value": "AnimatableCapability::AnimatableBehavior::SetName"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "Animation",
-              "=",
-              "\"dinoThrow\""
-            ]
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoThrow\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
-          {
-            "type": {
-              "value": "Wait"
-            },
-            "parameters": [
-              "0.3"
-            ]
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoIdle\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AdvancedJump::HorizontalDash::IsDashing"
           },
-          {
-            "type": {
-              "value": "FireBullet::FireBullet::FireTowardPosition"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "FireBullet",
-              "juvenileTrex.PointX(\"bulletPoint\")",
-              "juvenileTrex.PointY(\"bulletPoint\")",
-              "dafishies",
-              "CursorX()",
-              "CursorY()",
-              "350",
-              ""
-            ]
-          }
-        ]
-      },
-      {
-        "type": "BuiltinCommonInstructions::Standard",
-        "conditions": [
-          {
-            "type": {
-              "value": "MouseButtonReleased"
-            },
-            "parameters": [
-              "",
-              "Left"
-            ]
-          }
-        ],
-        "actions": [
-          {
-            "type": {
-              "value": "Wait"
-            },
-            "parameters": [
-              "0.3"
-            ]
+          "parameters": [
+            "juvenileTrex",
+            "HorizontalDash",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
-          {
-            "type": {
-              "value": "AnimatableCapability::AnimatableBehavior::SetName"
-            },
-            "parameters": [
-              "juvenileTrex",
-              "Animation",
-              "=",
-              "\"dinoIdle\""
-            ]
-          }
-        ]
-      },
-      {
-        "type": "BuiltinCommonInstructions::Standard",
-        "conditions": [],
-        "actions": []
-      }
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoDash\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "PlatformerObject"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoWalking\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "MouseButtonPressed"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoThrow\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.3"
+          ]
+        },
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::FireTowardPosition"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "FireBullet",
+            "juvenileTrex.PointX(\"bulletPoint\")",
+            "juvenileTrex.PointY(\"bulletPoint\")",
+            "dafishies",
+            "CursorX()",
+            "CursorY()",
+            "350",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "MouseButtonReleased"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.3"
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoIdle\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "scawy",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Jumpscare\"",
+            ""
+          ]
+        }
+      ]
+    }
   ],
   "layers": [
     {
