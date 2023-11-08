@@ -1439,7 +1439,6 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/dinoThrow10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow10.png\"}",
@@ -1507,18 +1506,11 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoDash5.png\"}",
         "name": "dinoDash5",
-=======
-        "file": "assets/Ceradactlyl.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Ceradactlyl",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/dinoDash6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoDash6.png\"}",
@@ -1550,7 +1542,92 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "dinoDash9",
-=======
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoDash10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoDash11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoDash12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jeepExplode.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jeepExplode",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jeepExplode2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jeepExplode2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jeepExplode3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jeepExplode3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jeepExplode4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jeepExplode4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jeepExplode5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jeepExplode5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactlyl.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactlyl",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
         "file": "assets/Ceradactlyl2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1717,90 +1794,17 @@
         "kind": "image",
         "metadata": "",
         "name": "assets\\Cloudys.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "assets/dinoDash10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoDash10",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoDash11",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoDash12",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/jeepExplode.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "jeepExplode",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/jeepExplode2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "jeepExplode2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/jeepExplode3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "jeepExplode3",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/jeepExplode4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "jeepExplode4",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/jeepExplode5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "jeepExplode5",
-        "smoothed": true,
-        "userAdded": true
-=======
         "file": "assets/cloud2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "cloud2",
         "smoothed": true,
         "userAdded": false
->>>>>>> Stashed changes
       }
     ],
     "resourceFolders": []
