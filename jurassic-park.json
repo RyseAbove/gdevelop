@@ -1941,9 +1941,76 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet",
+          "FireCooldown": 0.6,
+          "HasJustFired": false,
+          "FiringArc": 45,
+          "BulletQuantity": 1,
+          "AngleVariance": 15,
+          "RotateBullet": true,
+          "AmmoQuantity": 0,
+          "ShotsPerReload": 0,
+          "ReloadDuration": 1,
+          "MaxAmmo": 0,
+          "ShotsBeforeNextReload": 0,
+          "TotalShotsFired": 0,
+          "TotalBulletsCreated": 0,
+          "StartingAmmo": 0,
+          "TotalReloadsCompleted": 0,
+          "UnlimitedAmmo": true,
+          "ReloadInProgress": false,
+          "HeatIncreasePerShot": 0,
+          "HeatLevel": 0,
+          "AutomaticReloading": true,
+          "OverheatDuration": 0,
+          "LinearCoolingRate": 0.1,
+          "ExponentialCoolingRate": 0.3,
+          "BulletLayer": "",
+          "RandomizedAngle": 0,
+          "BulletSpeedVariance": 0
+        },
+        {
+          "name": "HorizontalDash",
+          "type": "AdvancedJump::HorizontalDash",
+          "PlatformerCharacter": "PlatformerObject",
+          "PlatformerConfigurationStack": "PlatformerConfigurationStack",
+          "DashInitialSpeed": 1000,
+          "DashSustainDurationMin": 0,
+          "DashSustainDurationMax": 0.25,
+          "DashSustainAcceleration": 1500,
+          "DashSustainSpeedMax": 750,
+          "DashSustainGravity": 0,
+          "DashDecceleration": 2000,
+          "DashGravity": 1000,
+          "CoolDownDuration": 0.25,
+          "LastDirectionIsLeft": false,
+          "DashKeyIsPressed": false,
+          "IsSustainning": false,
+          "CanDash": true
+        },
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+          "EnableAnimationChanges": true,
+          "EnableHorizontalFlipping": true,
+          "IdleAnimationName": "Idle",
+          "RunAnimationName": "Run",
+          "JumpAnimationName": "Jump",
+          "FallAnimationName": "Fall",
+          "ClimbAnimationName": "Climb",
+          "PlatformerBehavior": "PlatformerObject",
+          "Animation": "Animation",
+          "Flippable": "Flippable"
+        },
+        {
+          "name": "PlatformerConfigurationStack",
+          "type": "AdvancedJump::PlatformerConfigurationStack",
+          "PlatformerCharacter": "PlatformerObject"
+        },
+        {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "jumpSustainTime": 0.5,
           "maxSpeed": 350,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
@@ -1953,6 +2020,7 @@
           "gravity": 1000,
           "ignoreDefaultControls": false,
           "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
           "slopeMaxAngle": 60,
@@ -2045,7 +2113,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle34",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2089,7 +2163,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle35",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2133,7 +2213,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle36",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2177,7 +2263,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle37",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2221,7 +2313,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle38",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2265,7 +2363,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle39",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2309,7 +2413,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle40",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2353,7 +2463,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "dinoIdle41",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2403,14 +2519,20 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking",
-                  "points": [],
+                  "image": "dinoWalking9",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2429,16 +2551,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 382.5,
-                        "y": 94
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 457.5,
+                        "x": 432.5,
                         "y": 151
+                      },
+                      {
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
                         "x": 286.5,
@@ -2447,6 +2573,1060 @@
                       {
                         "x": 186.5,
                         "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoWalking10",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 200.5,
+                        "y": 249
+                      },
+                      {
+                        "x": 302.5,
+                        "y": 205
+                      },
+                      {
+                        "x": 432.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 491.5,
+                        "y": 220
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoWalking11",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 200.5,
+                        "y": 249
+                      },
+                      {
+                        "x": 302.5,
+                        "y": 205
+                      },
+                      {
+                        "x": 432.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 491.5,
+                        "y": 220
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoWalking12",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 200.5,
+                        "y": 249
+                      },
+                      {
+                        "x": 302.5,
+                        "y": 205
+                      },
+                      {
+                        "x": 432.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 491.5,
+                        "y": 220
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoWalking13",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 200.5,
+                        "y": 249
+                      },
+                      {
+                        "x": 302.5,
+                        "y": 205
+                      },
+                      {
+                        "x": 432.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 491.5,
+                        "y": 220
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoWalking14",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 200.5,
+                        "y": 249
+                      },
+                      {
+                        "x": 302.5,
+                        "y": 205
+                      },
+                      {
+                        "x": 432.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 491.5,
+                        "y": 220
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoWalking15",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 200.5,
+                        "y": 249
+                      },
+                      {
+                        "x": 302.5,
+                        "y": 205
+                      },
+                      {
+                        "x": 432.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 491.5,
+                        "y": 220
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dinoDash",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.07142857142857142,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash9",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash5",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash10",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash6",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash11",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash7",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash12",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoDash8",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 169.5,
+                        "y": 273
+                      },
+                      {
+                        "x": 426.5,
+                        "y": 164
+                      },
+                      {
+                        "x": 485.5,
+                        "y": 209
+                      },
+                      {
+                        "x": 295.5,
+                        "y": 451
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 462
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dinoThrow",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08333333333333333,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow9",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow10",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow11",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow12",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow13",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow14",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow15",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoThrow16",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 366.5,
+                      "y": 166
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 297.5,
+                        "y": 96
+                      },
+                      {
+                        "x": 466.5,
+                        "y": 128
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 456
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 465
                       }
                     ]
                   ]
