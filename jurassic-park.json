@@ -1808,7 +1808,6 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "TUT TREES.png",
         "kind": "image",
         "metadata": "",
@@ -1840,855 +1839,60 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "deceased dinosaur",
-=======
-        "file": "assets/dinoDash13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoDash2",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "TUT GRASS.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"TUT GRASS.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "TUT GRASS.png",
-=======
-        "file": "assets/dinoWalking.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "TUT BG.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"TUT BG.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "TUT BG.png",
-=======
-        "file": "assets/dinoWalking2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking2.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking2.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "TUT BG2.png",
         "kind": "image",
         "metadata": "",
         "name": "TUT BG2.png",
-=======
-        "file": "assets/dinoWalking3.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking3.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking3.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/building.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "building",
-=======
-        "file": "assets/dinoWalking4.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking4.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking4.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking5.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking5.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking5.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking6.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking6.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking6.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking7.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking7.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking7.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/building2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "building2",
-=======
-        "file": "assets/dinoWalking8.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking8.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking8.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/building3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "building3",
-=======
-        "file": "assets/dinoWalking9.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking9.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking9.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking10.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking10.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking10.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking11.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking11.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking11.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking12.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking12.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking12.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking13.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking13.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking13.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking14.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking14.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking14.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoWalking15.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoWalking15.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoWalking15.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash4.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash5.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash6.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash7.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash8.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash9.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash10.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash11.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoDash12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoDash12.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle2.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle3.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle3.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle4.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle4.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle4.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle5.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle5.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle5.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle6.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle6.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle6.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle7.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle7.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle7.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle8.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle8.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle8.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle9.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle10.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle11.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle12.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle13.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle14.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle15.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle16.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle16.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle16.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle18.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle19.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle20.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle20.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle21.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle21.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle22.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle22.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle23.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle23.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle24.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle24.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle25.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle25.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle26.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle26.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle27.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle27.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle28.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle28.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle29.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle29.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle30.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle30.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle31.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle31.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle32.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle33.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle33.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle34.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle34.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle35.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle35.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle36.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle36.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle37.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle37.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle38.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle38.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle39.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle39.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle40.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoIdle40.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoIdle41.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoIdle41.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoIdle41.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoThrow.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoThrow.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoThrow2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoThrow3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoThrow4.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow5.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoThrow5.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoThrow5.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow6.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoThrow6.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoThrow6.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow7.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoThrow7.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoThrow7.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\dinoThrow8.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow17.png\"}",
-        "name": "dinoThrow",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow17",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow18.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow18",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow19.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow19",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow20.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow20",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow9.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/dinoThrow9.png\",\"extension\":\".png\"}",
-        "name": "assets\\dinoThrow9.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow21.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow21",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow22.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow22",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow23.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow23",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow24.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow24",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow25.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow25",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": true
       }
@@ -2736,74 +1940,6 @@
       "variables": [],
       "effects": [],
       "behaviors": [
-        {
-          "name": "FireBullet",
-          "type": "FireBullet::FireBullet",
-          "FireCooldown": 0.6,
-          "HasJustFired": false,
-          "FiringArc": 45,
-          "BulletQuantity": 1,
-          "AngleVariance": 15,
-          "RotateBullet": true,
-          "AmmoQuantity": 0,
-          "ShotsPerReload": 0,
-          "ReloadDuration": 1,
-          "MaxAmmo": 0,
-          "ShotsBeforeNextReload": 0,
-          "TotalShotsFired": 0,
-          "TotalBulletsCreated": 0,
-          "StartingAmmo": 0,
-          "TotalReloadsCompleted": 0,
-          "UnlimitedAmmo": true,
-          "ReloadInProgress": false,
-          "HeatIncreasePerShot": 0,
-          "HeatLevel": 0,
-          "AutomaticReloading": true,
-          "OverheatDuration": 0,
-          "LinearCoolingRate": 0.1,
-          "ExponentialCoolingRate": 0.3,
-          "BulletLayer": "",
-          "RandomizedAngle": 0,
-          "BulletSpeedVariance": 0
-        },
-        {
-          "name": "HorizontalDash",
-          "type": "AdvancedJump::HorizontalDash",
-          "PlatformerCharacter": "PlatformerObject",
-          "PlatformerConfigurationStack": "PlatformerConfigurationStack",
-          "DashInitialSpeed": 1000,
-          "DashSustainDurationMin": 0,
-          "DashSustainDurationMax": 0.25,
-          "DashSustainAcceleration": 1500,
-          "DashSustainSpeedMax": 750,
-          "DashSustainGravity": 0,
-          "DashDecceleration": 2000,
-          "DashGravity": 1000,
-          "CoolDownDuration": 0.25,
-          "LastDirectionIsLeft": false,
-          "DashKeyIsPressed": false,
-          "IsSustainning": false,
-          "CanDash": true
-        },
-        {
-          "name": "PlatformerCharacterAnimator",
-          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
-          "EnableAnimationChanges": true,
-          "EnableHorizontalFlipping": true,
-          "IdleAnimationName": "dinoIdle",
-          "RunAnimationName": "dinoWalk",
-          "JumpAnimationName": "Jump",
-          "FallAnimationName": "Fall",
-          "ClimbAnimationName": "Climb",
-          "PlatformerBehavior": "PlatformerObject",
-          "Animation": "Animation",
-          "Flippable": "Flippable"
-        },
-        {
-          "name": "PlatformerConfigurationStack",
-          "type": "AdvancedJump::PlatformerConfigurationStack",
-          "PlatformerCharacter": "PlatformerObject"
-        },
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
@@ -2908,14 +2044,8 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoIdle41.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoIdle34",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2930,38 +2060,36 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 222.5,
-                        "y": 245
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 381.5,
-                        "y": 101
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
                         "x": 457.5,
-                        "y": 144
+                        "y": 151
                       },
                       {
-                        "x": 345.5,
-                        "y": 449
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
-                        "x": 177.5,
-                        "y": 449
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoIdle2.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoIdle35",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2976,38 +2104,36 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 222.5,
-                        "y": 245
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 381.5,
-                        "y": 101
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
                         "x": 457.5,
-                        "y": 144
+                        "y": 151
                       },
                       {
-                        "x": 345.5,
-                        "y": 449
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
-                        "x": 177.5,
-                        "y": 449
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoIdle3.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoIdle36",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3022,38 +2148,36 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 222.5,
-                        "y": 245
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 381.5,
-                        "y": 101
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
                         "x": 457.5,
-                        "y": 144
+                        "y": 151
                       },
                       {
-                        "x": 345.5,
-                        "y": 449
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
-                        "x": 177.5,
-                        "y": 449
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoIdle4.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoIdle37",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3068,38 +2192,36 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 222.5,
-                        "y": 245
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 381.5,
-                        "y": 101
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
                         "x": 457.5,
-                        "y": 144
+                        "y": 151
                       },
                       {
-                        "x": 345.5,
-                        "y": 449
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
-                        "x": 177.5,
-                        "y": 449
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoIdle5.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoIdle38",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3114,38 +2236,36 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 222.5,
-                        "y": 245
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 381.5,
-                        "y": 101
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
                         "x": 457.5,
-                        "y": 144
+                        "y": 151
                       },
                       {
-                        "x": 345.5,
-                        "y": 449
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
-                        "x": 177.5,
-                        "y": 449
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoIdle6.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoIdle39",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3160,38 +2280,36 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 222.5,
-                        "y": 245
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 381.5,
-                        "y": 101
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
                         "x": 457.5,
-                        "y": 144
+                        "y": 151
                       },
                       {
-                        "x": 345.5,
-                        "y": 449
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
-                        "x": 177.5,
-                        "y": 449
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoIdle16.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoIdle40",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3206,24 +2324,72 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 222.5,
-                        "y": 245
+                        "x": 183.5,
+                        "y": 325
                       },
                       {
-                        "x": 381.5,
-                        "y": 101
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
                       },
                       {
                         "x": 457.5,
-                        "y": 144
+                        "y": 151
                       },
                       {
-                        "x": 345.5,
-                        "y": 449
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
-                        "x": 177.5,
-                        "y": 449
+                        "x": 186.5,
+                        "y": 459
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "dinoIdle41",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 325
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 239
+                      },
+                      {
+                        "x": 382.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 457.5,
+                        "y": 151
+                      },
+                      {
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -3237,20 +2403,14 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
+                  "image": "dinoWalking",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3281,1796 +2441,12 @@
                         "y": 151
                       },
                       {
-                        "x": 285.5,
-                        "y": 457
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking2.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking3.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking4.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking5.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking6.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking7.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking8.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking9.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking10.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking11.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking12.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking13.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking14.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoWalking15.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 285.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "dinoDash",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.071429,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash2.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash3.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash4.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash5.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash6.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash7.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash8.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash9.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash10.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash11.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoDash12.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2.5,
-                        "y": 60
-                      },
-                      {
-                        "x": 128,
-                        "y": 40
-                      },
-                      {
-                        "x": 128,
-                        "y": 56
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 117.5
-                      },
-                      {
-                        "x": 49,
-                        "y": 117
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "dinoThrow",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoThrow.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoThrow21",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoThrow22",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoThrow23",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoThrow24",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoThrow25",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoThrow7.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoThrow6.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoThrow5.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "dinoThrow",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\dinoThrow9.png",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 261.5,
-                      "y": 150
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 122.5,
-                        "y": 343
-                      },
-                      {
-                        "x": 242.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 440.5,
-                        "y": 78
-                      },
-                      {
-                        "x": 438.5,
-                        "y": 457
-                      },
-                      {
-                        "x": 120.5,
-                        "y": 457
+                        "y": 459
                       }
                     ]
                   ]
