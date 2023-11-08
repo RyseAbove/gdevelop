@@ -501,7 +501,7 @@
       "persistentUuid": "93739fc5-430b-4849-ab79-76f1b1a1cd74",
       "width": 0,
       "x": 6838,
-      "y": -353,
+      "y": -89,
       "zOrder": 1661992970,
       "numberProperties": [],
       "stringProperties": [],
@@ -1072,7 +1072,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "building3",
+                  "image": "building4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1088,20 +1088,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 132,
-                        "y": 19
+                        "x": 106,
+                        "y": 15
                       },
                       {
-                        "x": 1355,
-                        "y": 19
+                        "x": 1084,
+                        "y": 15
                       },
                       {
-                        "x": 1355,
-                        "y": 1300
+                        "x": 1084,
+                        "y": 1040
                       },
                       {
-                        "x": 132,
-                        "y": 1300
+                        "x": 106,
+                        "y": 1040
                       }
                     ]
                   ]

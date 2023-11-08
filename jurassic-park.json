@@ -1895,6 +1895,15 @@
         "name": "building3",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/building4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "building4",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
