@@ -706,14 +706,8 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle34",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -725,45 +719,12 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle35",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle2.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -775,45 +736,12 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle36",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle3.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -825,45 +753,12 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle37",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle4.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -875,45 +770,12 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle38",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle5.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -925,45 +787,12 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle39",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle6.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -975,45 +804,12 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle40",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle7.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1025,45 +821,12 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle41",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
-                    }
-                  ],
+                  "image": "assets\\dinoIdle8.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -1075,34 +838,126 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 325
-                      },
-                      {
-                        "x": 234.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 382.5,
-                        "y": 94
-                      },
-                      {
-                        "x": 457.5,
-                        "y": 151
-                      },
-                      {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\dinoIdle9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\dinoIdle10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\dinoIdle11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\dinoIdle12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\dinoIdle13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\dinoIdle14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\dinoIdle15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
                 }
               ]
             }
