@@ -1898,40 +1898,246 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/building4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "building4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
         "file": "assets/NewSprite12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite10",
         "smoothed": true,
-        "userAdded": false
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/scawy.png",
+        "file": "assets/NewSprite12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "scawy",
+        "name": "NewSprite11",
         "smoothed": true,
-        "userAdded": false
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
         "file": "assets/NewSprite13.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite11",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite19",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite20",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite21",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite22",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite24",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite25.png\"}",
+        "name": "NewSprite25",
         "smoothed": true,
         "userAdded": false
       },
       {
-        "file": "onlymp3.to - Scary Maze Game Scream original Sound effect-XfQrgDbisAo-192k-1699468352.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "onlymp3.to - Scary Maze Game Scream original Sound effect-XfQrgDbisAo-192k-1699468352.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite26",
+        "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite27.png\"}",
+        "name": "NewSprite27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite28.png\"}",
+        "name": "NewSprite28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite29.png\"}",
+        "name": "NewSprite29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite30.png\"}",
+        "name": "NewSprite30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/run.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run.png\"}",
+        "name": "run",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/run2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run2.png\"}",
+        "name": "run2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/run3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run3.png\"}",
+        "name": "run3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/run4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run4.png\"}",
+        "name": "run4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/standing.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "standing",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2188,7 +2394,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2238,7 +2444,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2288,7 +2494,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2338,7 +2544,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2388,7 +2594,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2438,7 +2644,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2488,7 +2694,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2538,7 +2744,7 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 453
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2604,8 +2810,8 @@
                         "y": 220
                       },
                       {
-                        "x": 285.5,
-                        "y": 454
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2658,8 +2864,8 @@
                         "y": 220
                       },
                       {
-                        "x": 285.5,
-                        "y": 454
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2712,8 +2918,8 @@
                         "y": 220
                       },
                       {
-                        "x": 285.5,
-                        "y": 454
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2766,8 +2972,8 @@
                         "y": 220
                       },
                       {
-                        "x": 285.5,
-                        "y": 454
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2820,8 +3026,8 @@
                         "y": 220
                       },
                       {
-                        "x": 285.5,
-                        "y": 454
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2874,8 +3080,8 @@
                         "y": 220
                       },
                       {
-                        "x": 285.5,
-                        "y": 454
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2928,8 +3134,8 @@
                         "y": 220
                       },
                       {
-                        "x": 285.5,
-                        "y": 454
+                        "x": 286.5,
+                        "y": 443
                       },
                       {
                         "x": 186.5,
@@ -2987,8 +3193,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3033,8 +3239,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3079,8 +3285,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3125,8 +3331,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3171,8 +3377,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3217,8 +3423,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3263,8 +3469,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3309,8 +3515,8 @@
                         "y": 209
                       },
                       {
-                        "x": 294.5,
-                        "y": 458
+                        "x": 295.5,
+                        "y": 451
                       },
                       {
                         "x": 189.5,
@@ -3364,8 +3570,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3406,8 +3612,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3448,8 +3654,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3490,8 +3696,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3532,8 +3738,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3574,8 +3780,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3616,8 +3822,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3658,8 +3864,8 @@
                         "y": 128
                       },
                       {
-                        "x": 317.5,
-                        "y": 446
+                        "x": 322.5,
+                        "y": 456
                       },
                       {
                         "x": 186.5,
@@ -3713,10 +3919,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/end-scene"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/jumpscare"
     }
   ],
   "externalEvents": [
@@ -3730,6 +3932,10 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/rectanglemovement"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/firebullet"
