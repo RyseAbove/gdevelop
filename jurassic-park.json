@@ -2138,6 +2138,46 @@
         "name": "standing",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "trex_sound.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "trex_sound.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Downloads/wilhelmscream.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\wilhelmscream.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "bite_HMn5mO4.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bite_HMn5mO4.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "wilhelmscream.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "wilhelmscream.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3894,11 +3934,15 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-0-5"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-1"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/level_1-5"
+      "referenceTo": "/layouts/level-1-5"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

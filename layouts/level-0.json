@@ -2906,7 +2906,30 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 0.5\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "bite_HMn5mO4.mp3",
+                "",
+                "50",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
