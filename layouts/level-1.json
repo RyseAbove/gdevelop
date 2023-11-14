@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2074649961630139,
+    "zoomFactor": 0.3300560049165936,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -180,8 +180,8 @@
       "name": "dafishies",
       "persistentUuid": "3425b37d-7064-4866-b820-aaece0723206",
       "width": 291,
-      "x": 6069,
-      "y": 345,
+      "x": -777,
+      "y": -1124,
       "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
@@ -211,8 +211,8 @@
       "name": "Ceradactlyl",
       "persistentUuid": "a88ec18c-8ab6-4d35-b6ba-2ef668bae48f",
       "width": 264,
-      "x": 4724,
-      "y": -283,
+      "x": 5948,
+      "y": 135,
       "zOrder": 107,
       "numberProperties": [],
       "stringProperties": [],
@@ -227,7 +227,7 @@
       "name": "Ceradactlyl",
       "persistentUuid": "2e9eb988-b479-487b-b7cd-c69adc0dfa0d",
       "width": 264,
-      "x": 2457,
+      "x": 4000,
       "y": 108,
       "zOrder": 107,
       "numberProperties": [],
@@ -259,8 +259,8 @@
       "name": "Ceradactlyl",
       "persistentUuid": "c5b0e6a6-e64b-4135-91a2-580e3bed6535",
       "width": 264,
-      "x": 7931,
-      "y": -404,
+      "x": 7907,
+      "y": -35,
       "zOrder": 107,
       "numberProperties": [],
       "stringProperties": [],
@@ -275,8 +275,8 @@
       "name": "Pillars",
       "persistentUuid": "02a3772b-f9ed-4b0c-b6ec-5ae9a0b0ea29",
       "width": 309,
-      "x": 10474,
-      "y": 352,
+      "x": 10480,
+      "y": 313,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -291,8 +291,8 @@
       "name": "Pillars",
       "persistentUuid": "733ced70-999f-4c3b-9d03-bb776254a356",
       "width": 309,
-      "x": 7929,
-      "y": -321,
+      "x": 7923,
+      "y": -45,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -307,7 +307,7 @@
       "name": "Pillars",
       "persistentUuid": "3ea33078-e2af-4cc8-adb9-7f0d70fc62d4",
       "width": 309,
-      "x": 2478,
+      "x": 4000,
       "y": 152,
       "zOrder": 1,
       "numberProperties": [],
@@ -323,8 +323,8 @@
       "name": "Pillars",
       "persistentUuid": "04b5671e-3f2a-4089-bf9a-12de32046e57",
       "width": 309,
-      "x": 4738,
-      "y": -248,
+      "x": 5959,
+      "y": 137,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -339,8 +339,8 @@
       "name": "juvenileTrex",
       "persistentUuid": "e72b9c5c-9641-483e-910c-1a2b95415af0",
       "width": 409,
-      "x": 2043,
-      "y": 350,
+      "x": -821,
+      "y": 355,
       "zOrder": 108,
       "numberProperties": [],
       "stringProperties": [],
@@ -441,14 +441,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 3,
-      "height": 189,
+      "depth": 4,
+      "height": 231,
       "layer": "",
       "name": "fishiesBucket",
       "persistentUuid": "5bd83243-f1aa-4d68-a72b-e2d2dcca135c",
-      "width": 189,
-      "x": 6112,
-      "y": 539,
+      "width": 231,
+      "x": 2384,
+      "y": 512,
       "zOrder": 115,
       "numberProperties": [],
       "stringProperties": [],
@@ -479,8 +479,8 @@
       "name": "chatTriggered1",
       "persistentUuid": "e82509da-0f0c-4e07-a2c1-41c0999c1170",
       "width": 674,
-      "x": 29,
-      "y": 112,
+      "x": 156,
+      "y": 239,
       "zOrder": 117,
       "numberProperties": [],
       "stringProperties": [],
@@ -511,9 +511,40 @@
       "name": "chatTriggered2",
       "persistentUuid": "48f3337e-1b4c-4e3c-9f13-3fc01b5ad220",
       "width": 515,
-      "x": 1188,
-      "y": 108,
+      "x": 1252,
+      "y": 238,
       "zOrder": 119,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 129,
+      "layer": "",
+      "name": "fishShoota",
+      "persistentUuid": "b5bf5544-771d-48bb-abbe-bb324a1c0d55",
+      "width": 537,
+      "x": 2772,
+      "y": 242,
+      "zOrder": 120,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "dinosaul",
+      "name": "healthBar",
+      "persistentUuid": "5d1b0353-d094-4cb5-a1db-5630f4037260",
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 121,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1067,7 +1098,7 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Ceradactlyl",
       "tags": "",
@@ -1081,7 +1112,7 @@
           "type": "Health::Health",
           "Health": 5,
           "CurrentHealth": 0,
-          "MaxHealth": 5,
+          "MaxHealth": 100,
           "DamageCooldown": 0,
           "IsHealthJustDamaged": false,
           "HealthRegenRate": 0,
@@ -1133,20 +1164,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1169,20 +1204,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1205,20 +1244,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1241,20 +1284,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1277,20 +1324,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1313,20 +1364,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1362,20 +1417,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1398,20 +1457,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1434,20 +1497,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1470,20 +1537,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1506,20 +1577,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1542,20 +1617,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1578,20 +1657,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1614,20 +1697,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1650,20 +1737,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1686,20 +1777,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1722,20 +1817,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -1758,681 +1857,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactlyl19",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
+                        "x": 180,
+                        "y": 192
                       },
                       {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Ceradactyl fly",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.24,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly2",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly3",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly4",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly5",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly6",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly7",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly8",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly9",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly10",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly11",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly12",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly13",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly14",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly15",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly16",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Ceradactyl fly17",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 26,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 35
-                      },
-                      {
-                        "x": 125,
-                        "y": 113
-                      },
-                      {
-                        "x": 26,
-                        "y": 113
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2468,20 +1910,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2504,20 +1950,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2540,20 +1990,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2576,20 +2030,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2612,20 +2070,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2648,20 +2110,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2684,20 +2150,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
-                        "y": 35
+                        "x": 230,
+                        "y": 107
                       },
                       {
-                        "x": 125,
-                        "y": 35
+                        "x": 208.5,
+                        "y": 59
                       },
                       {
-                        "x": 125,
-                        "y": 113
+                        "x": 190.5,
+                        "y": 114.5
                       },
                       {
-                        "x": 26,
-                        "y": 113
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
                       }
                     ]
                   ]
@@ -2918,7 +2388,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite12",
+                  "image": "bucket.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3141,6 +2611,36 @@
         "g": 0,
         "r": 0
       }
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": false,
+      "name": "fishShoota",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Text_AutoTyping",
+          "type": "AutoTyping::Text_AutoTyping",
+          "Interval": 0.01,
+          "CharacterJustAdded": false,
+          "CurrentCharacter": ""
+        }
+      ],
+      "string": "Nice! I can now throw these fish using Left Click.",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
     }
   ],
   "events": [
@@ -3197,6 +2697,16 @@
         },
         {
           "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "fishShoota",
+            "Text_AutoTyping",
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "Cache"
           },
           "parameters": [
@@ -3213,12 +2723,42 @@
         },
         {
           "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "fishShoota"
+          ]
+        },
+        {
+          "type": {
             "value": "Health::Health::SetHealth"
           },
           "parameters": [
             "Ceradactlyl",
             "Health",
             "5",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "=",
+            "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::SetHealth"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "",
+            "2",
             ""
           ]
         }
@@ -3345,7 +2885,7 @@
           },
           "parameters": [
             "juvenileTrex",
-            "dafishies",
+            "fishiesBucket",
             "",
             "",
             ""
@@ -3360,6 +2900,25 @@
           "parameters": [
             "canThrow",
             "True"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "fishShoota",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "fishShoota",
+            "Text_AutoTyping",
+            "yes"
           ]
         }
       ]
@@ -3463,6 +3022,33 @@
                 "\"dinoIdle\""
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Distance"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "dafishies",
+            "1500",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "dafishies",
+            ""
           ]
         }
       ]
@@ -3584,6 +3170,55 @@
       ]
     },
     {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Ceradactlyl",
+            "juvenileTrex",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "-",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
+          ]
+        }
+      ]
+    },
+    {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
@@ -3671,6 +3306,50 @@
       ]
     },
     {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "healthBar",
+            "Resizable",
+            "=",
+            "juvenileTrex.Variable(Health) * 128"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::IsDead"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"End Scene\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
@@ -3682,6 +3361,7 @@
       "parameters": []
     },
     {
+      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -3721,7 +3401,7 @@
           "parameters": [
             "Ceradactlyl",
             "juvenileTrex",
-            "1000",
+            "400",
             ""
           ]
         }
