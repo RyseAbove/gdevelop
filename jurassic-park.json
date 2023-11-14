@@ -1675,7 +1675,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl7.png\"}",
         "name": "Ceradactlyl7",
         "smoothed": true,
         "userAdded": true
@@ -1684,7 +1684,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl8.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl8.png\"}",
         "name": "Ceradactlyl8",
         "smoothed": true,
         "userAdded": true
@@ -1693,7 +1693,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl9.png\"}",
         "name": "Ceradactlyl9",
         "smoothed": true,
         "userAdded": true
@@ -1702,7 +1702,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl10.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl10.png\"}",
         "name": "Ceradactlyl10",
         "smoothed": true,
         "userAdded": true
@@ -1711,7 +1711,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl11.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl11.png\"}",
         "name": "Ceradactlyl11",
         "smoothed": true,
         "userAdded": true
@@ -1720,7 +1720,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl12.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl12.png\"}",
         "name": "Ceradactlyl12",
         "smoothed": true,
         "userAdded": true
@@ -1729,7 +1729,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl13.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl13.png\"}",
         "name": "Ceradactlyl13",
         "smoothed": true,
         "userAdded": true
@@ -1738,7 +1738,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl14.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl14.png\"}",
         "name": "Ceradactlyl14",
         "smoothed": true,
         "userAdded": true
@@ -1747,7 +1747,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl15.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl15.png\"}",
         "name": "Ceradactlyl15",
         "smoothed": true,
         "userAdded": true
@@ -1756,7 +1756,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl16.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl16.png\"}",
         "name": "Ceradactlyl16",
         "smoothed": true,
         "userAdded": true
@@ -1765,7 +1765,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl17.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl17.png\"}",
         "name": "Ceradactlyl17",
         "smoothed": true,
         "userAdded": true
@@ -1774,7 +1774,7 @@
         "alwaysLoaded": false,
         "file": "assets/Ceradactlyl18.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactlyl18.png\"}",
         "name": "Ceradactlyl18",
         "smoothed": true,
         "userAdded": true
@@ -2150,10 +2150,30 @@
         "userAdded": false
       },
       {
+        "file": "onlymp3.to - Scary Maze Game Scream original Sound effect-XfQrgDbisAo-192k-1699468351.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "onlymp3.to - Scary Maze Game Scream original Sound effect-XfQrgDbisAo-192k-1699468351.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
         "file": "../../../Downloads/wilhelmscream.mp3",
         "kind": "audio",
         "metadata": "",
         "name": "..\\..\\..\\Downloads\\wilhelmscream.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "onlymp3.to - Scary Maze Game Scream original Sound effect-XfQrgDbisAo-192k-1699468350.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "onlymp3.to - Scary Maze Game Scream original Sound effect-XfQrgDbisAo-192k-1699468350.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
@@ -2170,6 +2190,266 @@
         "userAdded": true
       },
       {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/chatTrigger1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chatTrigger1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/chatTrigger2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/chatTrigger2.png\"}",
+        "name": "chatTrigger2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/chatTrigger3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/chatTrigger3.png\"}",
+        "name": "chatTrigger3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactlyl19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactlyl19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly.png\"}",
+        "name": "Ceradactyl fly",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly2.png\"}",
+        "name": "Ceradactyl fly2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly3.png\"}",
+        "name": "Ceradactyl fly3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly4.png\"}",
+        "name": "Ceradactyl fly4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly5.png\"}",
+        "name": "Ceradactyl fly5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly6.png\"}",
+        "name": "Ceradactyl fly6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly7.png\"}",
+        "name": "Ceradactyl fly7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly8.png\"}",
+        "name": "Ceradactyl fly8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly9.png\"}",
+        "name": "Ceradactyl fly9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly10.png\"}",
+        "name": "Ceradactyl fly10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly11.png\"}",
+        "name": "Ceradactyl fly11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly12.png\"}",
+        "name": "Ceradactyl fly12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly13.png\"}",
+        "name": "Ceradactyl fly13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly14.png\"}",
+        "name": "Ceradactyl fly14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly15.png\"}",
+        "name": "Ceradactyl fly15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly16.png\"}",
+        "name": "Ceradactyl fly16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl fly17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Ceradactyl fly17.png\"}",
+        "name": "Ceradactyl fly17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl die.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactyl die",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl die2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactyl die2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl die3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactyl die3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl die4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactyl die4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl die5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactyl die5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl die6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactyl die6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ceradactyl die7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ceradactyl die7",
+        "smoothed": true
+      },
+      {
         "file": "wilhelmscream.mp3",
         "kind": "audio",
         "metadata": "",
@@ -2177,6 +2457,7 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
+
         "userAdded": true
       }
     ],
@@ -2235,13 +2516,13 @@
           "AmmoQuantity": 0,
           "ShotsPerReload": 0,
           "ReloadDuration": 1,
-          "MaxAmmo": 0,
+          "MaxAmmo": 5,
           "ShotsBeforeNextReload": 0,
           "TotalShotsFired": 0,
           "TotalBulletsCreated": 0,
-          "StartingAmmo": 0,
+          "StartingAmmo": 5,
           "TotalReloadsCompleted": 0,
-          "UnlimitedAmmo": true,
+          "UnlimitedAmmo": false,
           "ReloadInProgress": false,
           "HeatIncreasePerShot": 0,
           "HeatLevel": 0,
