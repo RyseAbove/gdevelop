@@ -76,6 +76,24 @@
             "50",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "4"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Level 1\"",
+            ""
+          ]
         }
       ]
     }
