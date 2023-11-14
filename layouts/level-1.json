@@ -1081,7 +1081,7 @@
           "type": "Health::Health",
           "Health": 5,
           "CurrentHealth": 0,
-          "MaxHealth": 5,
+          "MaxHealth": 100,
           "DamageCooldown": 0,
           "IsHealthJustDamaged": false,
           "HealthRegenRate": 0,

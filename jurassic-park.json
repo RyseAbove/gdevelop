@@ -2447,7 +2447,8 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Ceradactyl die7",
-        "smoothed": true
+        "smoothed": true,
+        "userAdded": false
       },
       {
         "file": "wilhelmscream.mp3",
@@ -2457,7 +2458,15 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
-
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/scawy2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "scawy",
+        "smoothed": true,
         "userAdded": true
       }
     ],
@@ -4257,6 +4266,10 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/health"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/rectanglemovement"
