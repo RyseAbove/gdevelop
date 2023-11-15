@@ -3094,6 +3094,10 @@
       "type": "FlippableCapability::FlippableBehavior"
     },
     {
+      "name": "Health",
+      "type": "Health::Health"
+    },
+    {
       "name": "HorizontalDash",
       "type": "AdvancedJump::HorizontalDash"
     },

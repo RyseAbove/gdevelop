@@ -2646,8 +2646,12 @@
         "file": "fishlife.png",
         "kind": "image",
         "metadata": "",
-        "name": "fishlife.png"
-      },{
+        "name": "fishlife.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
         "file": "hadrosaur_paddock TREE 1.png",
         "kind": "image",
         "metadata": "",
@@ -2684,10 +2688,10 @@
       },
       {
         "alwaysLoaded": false,
-        "name": "fishlife.png5",
         "file": "assets/hadrosaur_paddock TREE 1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
+        "name": "fishlife.png5",
         "smoothed": true,
         "userAdded": false
       },
@@ -2699,6 +2703,33 @@
         "name": "bucket.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fishlife2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fishlife2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fishlife2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "fishlife2.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bucket.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "bucket",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4481,7 +4512,7 @@
       "height": 128,
       "name": "healthBar",
       "tags": "",
-      "texture": "fishlife.png5",
+      "texture": "fishlife2.png2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 128,
       "variables": [],
