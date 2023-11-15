@@ -2646,7 +2646,12 @@
         "file": "fishlife.png",
         "kind": "image",
         "metadata": "",
-        "name": "fishlife.png",
+        "name": "fishlife.png"
+      },{
+        "file": "hadrosaur_paddock TREE 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock TREE 1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -2679,10 +2684,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/fishlife.png5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
         "name": "fishlife.png5",
+        "file": "assets/hadrosaur_paddock TREE 1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
         "smoothed": true,
         "userAdded": false
       },
