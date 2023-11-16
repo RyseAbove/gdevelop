@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3645833333333333,
+    "zoomFactor": 0.29879853636069037,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -35,6 +35,22 @@
       "x": 599,
       "y": 1087,
       "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 56,
+      "layer": "",
+      "name": "thankYouNote",
+      "persistentUuid": "8ad448ae-048e-4ee8-9ac5-46ca43c2c3cc",
+      "width": 1915,
+      "x": 4,
+      "y": 389,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -60,10 +76,40 @@
           "SpeedY": -100
         }
       ],
-      "string": "Cast\nMarius Small as Juvenile T Rex\nNoah Layton as Ceradactyls (all of them)\nChase Hacker as Adult Trex\n\nCrew\nDirected by\nChase Hacker\nMarius Small\nNoah Layton \n\nScreenplay\nChase Hacker\nMarius Small\nNoah Layton \n\nProducers\nChase Hacker\nMarius Small\nNoah Layton \n\nExecutive Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nCo-Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nAssociate Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nLine Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic by\nChase Hacker\n\nCinematography by\nMarius Small\n\nFilm Editing by\nNoah Layton \n\nCasting by\nChase Hacker\n\nProduction Design by\nChase Hacker\nMarius Small\nNoah Layton \n\nHead of Technology\nChase Hacker\n\nArt Direction by\nMarius Small\n\nSet Decoration by\nMarius Small\n\nCostume Design by\nMarius Small\n\nMakeup Department\nNoah Layton\n\nAssistant Directors\nChase Hacker\n\nArt Department\nMarius Small\n\nStoryboard Artists\nChase Hacker\n\nSpecial Effects by\nChase Hacker\n\nVisual Effects by\nChase Hacker\nNoah Layton \n\nAnimation Department\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic Department\nChase Hacker\n\nProperty Department\nChase Hacker\n\nPost-Production Team\nChase Hacker\nMarius Small\nNoah Layton \n\nAssistants\nChase Hacker\nMarius Small\nNoah Layton \n\nTrainers\nChase Hacker\nMarius Small\nNoah Layton \n\nADR\nChase Hacker\nMarius Small\nNoah Layton \n\nStand-Ins\nChase Hacker\nMarius Small\nNoah Layton \n\nStunts\nChase Hacker\nMarius Small\nNoah Layton \n\nMinor Crew\nChase Hacker\nMarius Small\nNoah Layton \n\n\n",
+      "string": "Cast\nMarius Small as Juvenile T Rex\nNoah Layton as Ceradactyls (all of them)\nChase Hacker as Adult Trex\n\nCrew\nDirected by\nChase Hacker\nMarius Small\nNoah Layton \n\nScreenplay\nChase Hacker\nMarius Small\nNoah Layton \n\nProducers\nChase Hacker\nMarius Small\nNoah Layton \n\nExecutive Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nCo-Producers\nChase Hacker\nMarius Small\nNoah Layton \nJohn Video\n\nAssociate Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nLine Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic by\nChase Hacker\nTravis Scott\n\nCinematography by\nMarius Small\nCameraMan from Skibidi Toilet\n\nFilm Editing by\nNoah Layton \n\nCasting by\nChase Hacker\n\nProduction Design by\nChase Hacker\nMarius Small\nNoah Layton \n\nHead of Technology\nChase Hacker\n\nArt Direction by\nMarius Small\n\nSet Decoration by\nMarius Small\n\nCostume Design by\nMarius Small\n\nMakeup Department\nNoah Layton\n\nAssistant Directors\nChase Hacker\n\nArt Department\nMarius Small\n\nStoryboard Artists\nChase Hacker\n\nSpecial Effects by\nChase Hacker\n\nVisual Effects by\nChase Hacker\nNoah Layton \n\nAnimation Department\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic Department\nChase Hacker\n\nProperty Department\nChase Hacker\n\nPost-Production Team\nChase Hacker\nMarius Small\nNoah Layton \n\nAssistants\nChase Hacker\nMarius Small\nNoah Layton \n\nTrainers\nChase Hacker\nMarius Small\nNoah Layton \n\nADR\nChase Hacker\nMarius Small\nNoah Layton \n\nStand-Ins\nChase Hacker\nMarius Small\nNoah Layton \n\nStunts\nChase Hacker\nMarius Small\nNoah Layton \n\nMinor Crew\nChase Hacker\nMarius Small\nNoah Layton \n\n\n",
       "font": "",
       "textAlignment": "center",
       "characterSize": 40,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "thankYouNote",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Text_AutoTyping",
+          "type": "AutoTyping::Text_AutoTyping",
+          "Interval": 0.02,
+          "CharacterJustAdded": false,
+          "CurrentCharacter": ""
+        }
+      ],
+      "string": "Thank you for playing Jurassic Part! We hope you enjoyed.",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 50,
       "color": {
         "b": 255,
         "g": 255,
@@ -106,7 +152,15 @@
             "value": "Wait"
           },
           "parameters": [
-            "5"
+            "4"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "thankYouNote"
           ]
         },
         {
@@ -227,6 +281,10 @@
     {
       "name": "SmoothPlatformerCamera",
       "type": "SmoothCamera::SmoothPlatformerCamera"
+    },
+    {
+      "name": "Text_AutoTyping",
+      "type": "AutoTyping::Text_AutoTyping"
     }
   ]
 }

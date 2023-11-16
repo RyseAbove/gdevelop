@@ -2724,42 +2724,43 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "MicrosoftTeams-image (1)3.png",
+        "file": "hadrosaur_paddock BACKGROUND.png",
         "kind": "image",
         "metadata": "",
-        "name": "MicrosoftTeams-image (1)3.png",
+        "name": "hadrosaur_paddock BACKGROUND.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Metal Bar Border.png",
+        "file": "hadrosaur_paddock BUSH 2.png",
         "kind": "image",
-        "metadata": "",
-        "name": "Metal Bar Border.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Metal Bar Border.png",
-          "name": "Metal Bar Border.png"
-        }
+        "metadata": "{\"localFilePath\":\"hadrosaur_paddock BUSH 2.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "hadrosaur_paddock BUSH 2.png",
+        "smoothed": true,
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Pixel Red Fill Bar.png",
+        "file": "hadrosaur_paddock BUSH FRONT2.png",
         "kind": "image",
         "metadata": "",
-        "name": "Pixel Red Fill Bar.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/3eee053defc4f2944d72ef78b5aebbac31634202712157a3630b84fe08d79cbb_Pixel Red Fill Bar.png",
-          "name": "Pixel Red Fill Bar.png"
-        }
+        "name": "hadrosaur_paddock BUSH FRONT2.png",
+        "smoothed": true,
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Pixel Yellow Fill Bar.png",
+        "file": "assets/hadrosaur_paddock GROUND.png.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "hadrosaur_paddock GROUND.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadrosaur_paddock TREE2.png.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
         "name": "hadrosaur_paddock TREE2.png",
@@ -3287,6 +3288,33 @@
         "name": "adultRexStun4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "weezer.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "weezer.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Level1Trigger.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Level1Trigger",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3338,9 +3366,9 @@
         },
         {
           "folded": true,
-          "name": "canShoot",
-          "type": "boolean",
-          "value": false
+          "name": "Level",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -3352,7 +3380,7 @@
           "HasJustFired": false,
           "FiringArc": 45,
           "BulletQuantity": 1,
-          "AngleVariance": 5,
+          "AngleVariance": 15,
           "RotateBullet": true,
           "AmmoQuantity": 0,
           "ShotsPerReload": 0,
@@ -3363,7 +3391,7 @@
           "TotalBulletsCreated": 0,
           "StartingAmmo": 5,
           "TotalReloadsCompleted": 0,
-          "UnlimitedAmmo": true,
+          "UnlimitedAmmo": false,
           "ReloadInProgress": false,
           "HeatIncreasePerShot": 0,
           "HeatLevel": 0,
@@ -3549,8 +3577,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3599,8 +3627,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3649,8 +3677,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3699,8 +3727,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3749,8 +3777,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3799,8 +3827,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3849,8 +3877,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3899,8 +3927,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -3962,8 +3990,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4016,8 +4044,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4070,8 +4098,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4124,8 +4152,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4178,8 +4206,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4232,8 +4260,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4286,8 +4314,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4353,8 +4381,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4399,8 +4427,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4445,8 +4473,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4491,8 +4519,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4537,8 +4565,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4583,8 +4611,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4629,8 +4657,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -4675,8 +4703,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5135,17 +5163,9 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/controls"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalEvents/tutorial-controls"
     }
   ],
   "eventsFunctionsExtensions": [
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
-    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/health"
