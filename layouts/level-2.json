@@ -335,7 +335,22 @@
       "width": 0,
       "x": 694,
       "y": 585,
-      "zOrder": 11,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "healthBar",
+      "persistentUuid": "7df383e6-38f9-4763-b4c0-1b51c2dabf52",
+      "width": 0,
+      "x": 2,
+      "y": 1,
+      "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1681,6 +1696,42 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Health::Health::SetHealth"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "2",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "Health",
+            "=",
+            "2"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
         {
@@ -1702,8 +1753,126 @@
             "floor",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "healthBar",
+            "Resizable",
+            "=",
+            "juvenileTrex.Variable(Health) * 128"
+          ]
         }
       ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "hero ",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Health",
+                    "<=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Health",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Credits\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "adultRex",
+                "juvenileTrex",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Health",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Health",
+                "1",
+                "no",
+                "no",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     },
     {
       "colorB": 228,
@@ -1926,103 +2095,6 @@
                         "juvenileTrex",
                         "300",
                         "1"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AdvancedJump::HorizontalDash::IsDashing"
-                      },
-                      "parameters": [
-                        "juvenileTrex",
-                        "HorizontalDash",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "juvenileTrex",
-                        "adultRex",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "adultRex",
-                        "Health",
-                        "1",
-                        "no",
-                        "no",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "Health::Health::Health"
-                          },
-                          "parameters": [
-                            "adultRex",
-                            "Health",
-                            "<=",
-                            "0",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "adultRex",
-                            "Animation",
-                            "=",
-                            "\"adultRexStun\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "adultRex",
-                            ""
-                          ]
-                        }
                       ]
                     }
                   ]

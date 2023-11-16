@@ -112,6 +112,32 @@
       "conditions": [
         {
           "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Space"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AdvancedJump::HorizontalDash::SimulateDashKey"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "HorizontalDash",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
             "value": "BuiltinCommonInstructions::Or"
           },
           "parameters": [],
@@ -146,94 +172,6 @@
             "juvenileTrex",
             "HorizontalDash",
             ""
-          ]
-        }
-      ]
-    },
-    {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "MouseButtonPressed"
-          },
-          "parameters": [
-            "",
-            "Left"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Animation",
-            "=",
-            "\"dinoThrow\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "0.3"
-          ]
-        },
-        {
-          "type": {
-            "value": "FireBullet::FireBullet::FireTowardPosition"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "FireBullet",
-            "juvenileTrex.PointX(\"bulletPoint\")",
-            "juvenileTrex.PointY(\"bulletPoint\")",
-            "fish",
-            "CursorX()",
-            "CursorY()",
-            "350",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "MouseButtonReleased"
-          },
-          "parameters": [
-            "",
-            "Left"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "0.3"
-          ]
-        },
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Animation",
-            "=",
-            "\"dinoIdle\""
           ]
         }
       ]
@@ -415,11 +353,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     }
   ]
 }
