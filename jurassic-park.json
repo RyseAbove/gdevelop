@@ -2761,14 +2761,532 @@
         "alwaysLoaded": false,
         "file": "assets/Pixel Yellow Fill Bar.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/Pixel Yellow Fill Bar.png\",\"extension\":\".png\",\"pskl\":{}}",
-        "name": "Pixel Yellow Fill Bar.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/62f87cd20640fba9413cea576a648c6995a6d0e0026ba0adadb937ab3adec1b1_Pixel Yellow Fill Bar.png",
-          "name": "Pixel Yellow Fill Bar.png"
-        }
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "hadrosaur_paddock TREE2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadrosaur_paddock TREE 2.png.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "hadrosaur_paddock TREE 2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadrosaur_paddock TREE 3.png.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "hadrosaur_paddock TREE 3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadrosaur_paddock TREE 4.png.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "hadrosaur_paddock TREE 4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite32",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hadroRun.png\"}",
+        "name": "hadroRun",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hadroRun2.png\"}",
+        "name": "hadroRun2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hadroRun3.png\"}",
+        "name": "hadroRun3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hadroRun4.png\"}",
+        "name": "hadroRun4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hadroRun5.png\"}",
+        "name": "hadroRun5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hadroRun6.png\"}",
+        "name": "hadroRun6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hadroRun7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hadroRun8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hadroRun9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hadroRun10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hadroRun11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroRun12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hadroRun12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite34",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite35",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite36",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex9",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex20",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex21",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex22",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex23",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex24",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRex25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRex25",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexRun.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexRun",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexRun2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexRun2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexRun3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexRun3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexRun4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexRun4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexRun5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexRun5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexRun6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexRun6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexRun7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexRun7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexStun",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexStun2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexStun3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adultRexStun4",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2924,14 +3442,14 @@
           "PlatformerCharacter": "PlatformerObject"
         },
         {
+          "acceleration": 1500,
+          "deceleration": 1000000000,
+          "maxSpeed": 350,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "maxSpeed": 350,
-          "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
-          "deceleration": 1000000000,
           "gravity": 1000,
           "ignoreDefaultControls": false,
           "jumpSpeed": 600,
