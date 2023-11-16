@@ -476,15 +476,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "blob:file:///dc13f9e1-06a7-4c7a-bff9-b10026c7d73c",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoIdle17",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/dinoIdle19.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
