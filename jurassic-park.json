@@ -3287,6 +3287,87 @@
         "name": "adultRexStun4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NIGHT.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NIGHT",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MicrosoftTeams-image (1)3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MicrosoftTeams-image (1)3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/evil fish.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "evil fish",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/johnCera.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "johnCera",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/johnCera2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "johnCera2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/johnCera3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "johnCera3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/johnCera4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "johnCera4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/johnCera5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "johnCera5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/johnCera6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "johnCera6",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3442,11 +3523,11 @@
           "PlatformerCharacter": "PlatformerObject"
         },
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
           "deceleration": 1000000000,
           "maxSpeed": 350,
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
