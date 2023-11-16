@@ -335,7 +335,22 @@
       "width": 0,
       "x": 694,
       "y": 585,
-      "zOrder": 11,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "healthBar",
+      "persistentUuid": "7df383e6-38f9-4763-b4c0-1b51c2dabf52",
+      "width": 0,
+      "x": 2,
+      "y": 1,
+      "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
