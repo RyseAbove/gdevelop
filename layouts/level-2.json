@@ -1106,6 +1106,13 @@
           "IsJustDodged": false,
           "ShieldDamageTaken": 0,
           "HealToBeApplied": 0
+        },
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
         }
       ],
       "animations": [
