@@ -3302,18 +3302,20 @@
         "alwaysLoaded": false,
         "file": "assets/MicrosoftTeams-image (1)3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MicrosoftTeams-image (1)3"
-       
-      }, 
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/MicrosoftTeams-image (1)3.png\"}",
+        "name": "MicrosoftTeams-image (1)3",
+        "smoothed": false,
+        "userAdded": false
+      },
       {
-          "file": "weezer.jpg",
-          "kind": "image",
-          "metadata": "",
-          "name": "weezer.jpg",
-          "smoothed": true,
-          "userAdded": false
-        },
+        "alwaysLoaded": false,
+        "file": "weezer.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "weezer.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
       {
         "alwaysLoaded": false,
         "file": "assets/evil fish.png",
@@ -3376,6 +3378,108 @@
         "name": "johnCera6",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Metal Bar Border3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Metal Bar Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Metal Bar Border.png",
+          "name": "Metal Bar Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pixel Red Fill Bar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Red Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/3eee053defc4f2944d72ef78b5aebbac31634202712157a3630b84fe08d79cbb_Pixel Red Fill Bar.png",
+          "name": "Pixel Red Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pixel Yellow Fill Bar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Yellow Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/62f87cd20640fba9413cea576a648c6995a6d0e0026ba0adadb937ab3adec1b1_Pixel Yellow Fill Bar.png",
+          "name": "Pixel Yellow Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "MicrosoftTeams-image (1).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"MicrosoftTeams-image (1).png\",\"extension\":\".png\"}",
+        "name": "MicrosoftTeams-image (1).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fishInQuestion.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fishInQuestion",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bossTrigger.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "bossTrigger",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite39",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/barrier bottom.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "barrier bottom",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5227,6 +5331,10 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/health"
