@@ -3303,17 +3303,19 @@
         "file": "assets/MicrosoftTeams-image (1)3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "MicrosoftTeams-image (1)3"
-       
-      }, 
+        "name": "MicrosoftTeams-image (1)3",
+        "smoothed": false,
+        "userAdded": false
+      },
       {
-          "file": "weezer.jpg",
-          "kind": "image",
-          "metadata": "",
-          "name": "weezer.jpg",
-          "smoothed": true,
-          "userAdded": false
-        },
+        "alwaysLoaded": false,
+        "file": "weezer.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "weezer.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
       {
         "alwaysLoaded": false,
         "file": "assets/evil fish.png",
@@ -3374,6 +3376,24 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "johnCera6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock TREE3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock TREE3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite10.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -3452,7 +3472,7 @@
           "TotalBulletsCreated": 0,
           "StartingAmmo": 5,
           "TotalReloadsCompleted": 0,
-          "UnlimitedAmmo": false,
+          "UnlimitedAmmo": true,
           "ReloadInProgress": false,
           "HeatIncreasePerShot": 0,
           "HeatLevel": 0,
@@ -3638,8 +3658,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3688,8 +3708,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3738,8 +3758,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3788,8 +3808,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3838,8 +3858,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3888,8 +3908,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3938,8 +3958,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3988,8 +4008,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -5170,6 +5190,67 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "dafishies",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "MicrosoftTeams-image (1)2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 47
+                      },
+                      {
+                        "x": 16,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsGroups": [],
