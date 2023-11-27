@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.207464996163016,
+    "zoomFactor": 0.1700303648902914,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1873,6 +1873,119 @@
                 "1",
                 "no",
                 "no",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoThrow\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::FireTowardPosition"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "FireBullet",
+                "juvenileTrex.PointX(\"bulletPoint\")",
+                "juvenileTrex.PointY(\"bulletPoint\")",
+                "dafishies",
+                "CursorX()",
+                "CursorY()",
+                "350",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoIdle\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "dafishies",
+                "1500",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "dafishies",
                 ""
               ]
             }

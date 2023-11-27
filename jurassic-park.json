@@ -3556,7 +3556,7 @@
           "TotalBulletsCreated": 0,
           "StartingAmmo": 5,
           "TotalReloadsCompleted": 0,
-          "UnlimitedAmmo": false,
+          "UnlimitedAmmo": true,
           "ReloadInProgress": false,
           "HeatIncreasePerShot": 0,
           "HeatLevel": 0,
@@ -3742,8 +3742,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3792,8 +3792,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3842,8 +3842,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3892,8 +3892,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3942,8 +3942,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -3992,8 +3992,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -4042,8 +4042,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -4092,8 +4092,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -5274,6 +5274,67 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "dafishies",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "MicrosoftTeams-image (1)2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 10
+                      },
+                      {
+                        "x": 55,
+                        "y": 47
+                      },
+                      {
+                        "x": 16,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsGroups": [],
