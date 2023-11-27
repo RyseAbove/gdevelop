@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1700303648902914,
+    "zoomFactor": 0.20746499616301603,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -113,8 +113,8 @@
       "name": "hadrosaurBushFront",
       "persistentUuid": "1f99a650-8124-4eb4-b15a-990b214277f3",
       "width": 12288,
-      "x": -2144,
-      "y": 136,
+      "x": -2143,
+      "y": 135,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -351,6 +351,21 @@
       "x": 2,
       "y": 1,
       "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "dafishies",
+      "persistentUuid": "3a1e9b25-cdc0-4ed9-8a9e-1f055227d03c",
+      "width": 0,
+      "x": -1645,
+      "y": -322,
+      "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1952,42 +1967,7 @@
           "conditions": [
             {
               "type": {
-                "value": "FireBullet::FireBullet::HasJustFired"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "FireBullet",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.3"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "Animation",
-                "=",
-                "\"dinoIdle\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
+                "inverted": true,
                 "value": "Distance"
               },
               "parameters": [
