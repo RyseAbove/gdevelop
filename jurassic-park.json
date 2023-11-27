@@ -3329,7 +3329,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera.png\"}",
         "name": "johnCera",
         "smoothed": true,
         "userAdded": true
@@ -3338,7 +3338,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera2.png\"}",
         "name": "johnCera2",
         "smoothed": true,
         "userAdded": true
@@ -3347,7 +3347,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera3.png\"}",
         "name": "johnCera3",
         "smoothed": true,
         "userAdded": true
@@ -3356,7 +3356,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera4.png\"}",
         "name": "johnCera4",
         "smoothed": true,
         "userAdded": true
@@ -3365,7 +3365,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera5.png\"}",
         "name": "johnCera5",
         "smoothed": true,
         "userAdded": true
@@ -3374,7 +3374,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera6.png\"}",
         "name": "johnCera6",
         "smoothed": true,
         "userAdded": true
@@ -3478,6 +3478,96 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "barrier bottom",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death.png\"}",
+        "name": "Death",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death2.png\"}",
+        "name": "Death2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death3.png\"}",
+        "name": "Death3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death4.png\"}",
+        "name": "Death4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death5.png\"}",
+        "name": "Death5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death6.png\"}",
+        "name": "Death6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death7.png\"}",
+        "name": "Death7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death10",
         "smoothed": true,
         "userAdded": false
       }
