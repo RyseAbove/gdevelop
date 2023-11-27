@@ -1902,7 +1902,25 @@
                 "=",
                 "\"dinoThrow\""
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoThrow\""
+              ]
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "value": "Wait"
@@ -1934,11 +1952,12 @@
           "conditions": [
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "FireBullet::FireBullet::HasJustFired"
               },
               "parameters": [
-                "",
-                "Left"
+                "juvenileTrex",
+                "FireBullet",
+                ""
               ]
             }
           ],
@@ -2215,6 +2234,72 @@
                         "juvenileTrex",
                         "300",
                         "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "dafishies",
+                        "adultRex",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::Hit"
+                      },
+                      "parameters": [
+                        "adultRex",
+                        "Health",
+                        "1",
+                        "no",
+                        "no",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::Health"
+                      },
+                      "parameters": [
+                        "adultRex",
+                        "Health",
+                        "<=",
+                        "0",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "adultRex",
+                        ""
                       ]
                     }
                   ]
