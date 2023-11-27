@@ -3124,7 +3124,9 @@
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [],
+      "content": {},
+      "childrenContent": {}
     },
     {
       "adaptCollisionMaskAutomatically": true,
