@@ -1,8 +1,8 @@
 {
   "b": 176,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Level_322_465_32_40droppings_32EC_41",
-  "name": "Level 2.5 (droppings EC)",
+  "mangledName": "Level_322_465_32_40droppings_32EC_41_32HARD",
+  "name": "Level 2.5 (droppings EC) HARD",
   "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.35269049347712345,
+    "zoomFactor": 0.28905162031349224,
     "windowMask": false
   },
   "objectsGroups": [
@@ -26,19 +26,19 @@
       "name": "OW",
       "objects": [
         {
-          "name": "spinning_hadrosaur"
+          "name": "spinning_hadrosaurR"
         },
         {
-          "name": "MISSILE_WHAT"
+          "name": "MISSILE_WHATT"
         },
         {
-          "name": "spinnin_fish"
+          "name": "spinnin_fishH"
         },
         {
-          "name": "spinninbucket"
+          "name": "spinninbucketT"
         },
         {
-          "name": "SPINNING_REX"
+          "name": "SPINNING_REXV"
         }
       ]
     }
@@ -51,7 +51,7 @@
       "depth": 3,
       "height": 203,
       "layer": "",
-      "name": "Compy",
+      "name": "CompyY",
       "persistentUuid": "d87ebfee-8c5f-4d5a-ad6d-2b7e5ed85aba",
       "width": 224,
       "x": 895,
@@ -67,7 +67,7 @@
       "depth": 1,
       "height": 386,
       "layer": "",
-      "name": "baseplatform",
+      "name": "baseplatformM",
       "persistentUuid": "74c2418d-33b5-4422-81d0-723496bc6c57",
       "width": 1920,
       "x": 0,
@@ -83,7 +83,7 @@
       "depth": 1,
       "height": 1120,
       "layer": "",
-      "name": "baseplatform",
+      "name": "baseplatformM",
       "persistentUuid": "08e35b90-4aca-4a22-b550-5473c25b0de6",
       "width": 564,
       "x": -532,
@@ -99,7 +99,7 @@
       "depth": 1,
       "height": 1120,
       "layer": "",
-      "name": "baseplatform",
+      "name": "baseplatformM",
       "persistentUuid": "38e54172-c9eb-40b2-a7fe-5c3e4a979c5f",
       "width": 248,
       "x": 1888,
@@ -114,7 +114,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "BUCKET_FIRE",
+      "name": "BUCKET_FIREE",
       "persistentUuid": "5b0c89f8-4b2a-4b95-b8bd-80fdbe5477d1",
       "width": 0,
       "x": 915,
@@ -129,7 +129,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "BUCKET_FIRE",
+      "name": "BUCKET_FIREE",
       "persistentUuid": "8d54a1af-8b5d-4a60-b7d5-e4e59788cbac",
       "width": 0,
       "x": 893,
@@ -144,7 +144,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "BUCKET_FIRE",
+      "name": "BUCKET_FIREE",
       "persistentUuid": "7297ab9e-e2be-4f30-a6d9-aca0e72648cc",
       "width": 0,
       "x": 741,
@@ -159,7 +159,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "BUCKET_FIRE",
+      "name": "BUCKET_FIREE",
       "persistentUuid": "96316233-df73-496b-91af-bc23ced081f1",
       "width": 0,
       "x": 738,
@@ -174,7 +174,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "BUCKET_FIRE",
+      "name": "BUCKET_FIREE",
       "persistentUuid": "a6c64c7b-f691-4bdb-9bf7-e9d81c31a4ec",
       "width": 0,
       "x": 738,
@@ -189,7 +189,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "BUCKET_FIRE",
+      "name": "BUCKET_FIREE",
       "persistentUuid": "598588b0-c1fd-4e22-9ce6-206425bc6a90",
       "width": 0,
       "x": 882,
@@ -204,7 +204,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "MISSILE_FIE",
+      "name": "MISSILE_FIEE",
       "persistentUuid": "bcd6170d-35a8-4e98-af1d-34721e2d4bae",
       "width": 0,
       "x": 585,
@@ -219,7 +219,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "MISSILE_FIE",
+      "name": "MISSILE_FIEE",
       "persistentUuid": "8bd0c4eb-76a7-4380-8451-7a67273b8d40",
       "width": 0,
       "x": 610,
@@ -234,7 +234,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "MISSILE_FIE",
+      "name": "MISSILE_FIEE",
       "persistentUuid": "f2d93b71-caa4-4b3a-9b8a-5c37edaf0160",
       "width": 0,
       "x": 550,
@@ -249,7 +249,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "MISSILE_FIE",
+      "name": "MISSILE_FIEE",
       "persistentUuid": "50c90ac4-8b8d-43f9-939f-af952292562d",
       "width": 0,
       "x": 439,
@@ -264,7 +264,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "MISSILE_FIE",
+      "name": "MISSILE_FIEE",
       "persistentUuid": "6c99bdec-d73b-4753-88df-f2ee94c164d5",
       "width": 0,
       "x": 417,
@@ -279,7 +279,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "MISSILE_FIE",
+      "name": "MISSILE_FIEE",
       "persistentUuid": "74bbff3f-1df4-4b50-9eb9-e51a3cc4c561",
       "width": 0,
       "x": 410,
@@ -294,7 +294,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "FISHI_SPAW",
+      "name": "FISHI_SPAWW",
       "persistentUuid": "673fd2ee-7be1-4821-957e-51a851176b07",
       "width": 0,
       "x": 272,
@@ -309,7 +309,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "FISHI_SPAW",
+      "name": "FISHI_SPAWW",
       "persistentUuid": "04bbcbed-1880-47dd-b303-cfcb5f26e83a",
       "width": 0,
       "x": 98,
@@ -324,7 +324,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "FISHI_SPAW",
+      "name": "FISHI_SPAWW",
       "persistentUuid": "7ee55f72-0d91-45a8-9619-04906707b3c2",
       "width": 0,
       "x": 94,
@@ -339,7 +339,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "FISHI_SPAW",
+      "name": "FISHI_SPAWW",
       "persistentUuid": "e5cfbcac-7467-42f8-a2b9-b4deb4f63943",
       "width": 0,
       "x": 221,
@@ -354,7 +354,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "FISHI_SPAW",
+      "name": "FISHI_SPAWW",
       "persistentUuid": "a55090e6-d822-488c-99a5-9037b765fd72",
       "width": 0,
       "x": 234,
@@ -369,7 +369,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "FISHI_SPAW",
+      "name": "FISHI_SPAWW",
       "persistentUuid": "40837105-1a7c-4578-9d81-d8bb7e3f6f99",
       "width": 0,
       "x": 83,
@@ -385,7 +385,7 @@
       "depth": 32,
       "height": 26,
       "layer": "timer",
-      "name": "BlueDotBar",
+      "name": "BlueDotBarR",
       "persistentUuid": "9b14ee22-5653-48a4-b6be-ec98386bfffe",
       "width": 992,
       "x": 1381,
@@ -400,7 +400,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "hadro_sawn",
+      "name": "hadro_sawnN",
       "persistentUuid": "00ed6154-b033-4650-9578-84f208fad434",
       "width": 0,
       "x": 1078,
@@ -415,7 +415,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "hadro_sawn",
+      "name": "hadro_sawnN",
       "persistentUuid": "5a26ec5c-13e7-4aa5-ae78-7f2ac8d4f191",
       "width": 0,
       "x": 1073,
@@ -430,7 +430,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "hadro_sawn",
+      "name": "hadro_sawnN",
       "persistentUuid": "830eae99-963a-4bdb-bf01-780beecc175b",
       "width": 0,
       "x": 1063,
@@ -445,7 +445,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "hadro_sawn",
+      "name": "hadro_sawnN",
       "persistentUuid": "67d10be3-0668-4a4f-8be7-971805bf8ad2",
       "width": 0,
       "x": 1218,
@@ -460,7 +460,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "hadro_sawn",
+      "name": "hadro_sawnN",
       "persistentUuid": "46c661a0-3253-4029-856d-dcb1f1f39a59",
       "width": 0,
       "x": 1187,
@@ -475,7 +475,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "hadro_sawn",
+      "name": "hadro_sawnN",
       "persistentUuid": "155e4b84-64c2-4efa-ace4-9a4255b0e374",
       "width": 0,
       "x": 1161,
@@ -490,7 +490,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "REX_SPAWN",
+      "name": "REX_SPAWNN",
       "persistentUuid": "61331db4-8b61-4121-9ab1-5da4312e7c14",
       "width": 0,
       "x": 1346,
@@ -505,7 +505,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "REX_SPAWN",
+      "name": "REX_SPAWNN",
       "persistentUuid": "ad786829-98a4-4560-a1a6-abd252306297",
       "width": 0,
       "x": 1362,
@@ -520,7 +520,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "REX_SPAWN",
+      "name": "REX_SPAWNN",
       "persistentUuid": "fd1131ab-9681-41df-adad-7520d15dcac8",
       "width": 0,
       "x": 1367,
@@ -535,7 +535,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "REX_SPAWN",
+      "name": "REX_SPAWNN",
       "persistentUuid": "6cfad2f1-5f45-468d-946d-0221bf2e58bc",
       "width": 0,
       "x": 1434,
@@ -550,7 +550,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "REX_SPAWN",
+      "name": "REX_SPAWNN",
       "persistentUuid": "103f0b0c-6746-42cd-aff0-f20e19567058",
       "width": 0,
       "x": 1454,
@@ -565,7 +565,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "REX_SPAWN",
+      "name": "REX_SPAWNN",
       "persistentUuid": "d6e33d3e-f165-4921-b89d-9a412adff9e7",
       "width": 0,
       "x": 1454,
@@ -686,7 +686,7 @@
       "depth": 1,
       "height": 1351,
       "layer": "background",
-      "name": "NewSprite",
+      "name": "ISLANDD",
       "persistentUuid": "c4c6ed69-504e-46e4-95f9-4cfd14fddcff",
       "width": 2402,
       "x": -202,
@@ -775,15 +775,14 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 118,
-      "layer": "",
+      "customSize": false,
+      "height": 0,
+      "layer": "timer",
       "name": "timr_er",
-      "persistentUuid": "3e9db9f1-6b7b-4b7a-a417-5f834653acb2",
-      "width": 259,
-      "x": 853,
-      "y": 968,
+      "persistentUuid": "980da497-e1db-4c9c-9530-bf60cc2e4f76",
+      "width": 0,
+      "x": 1173,
+      "y": 963,
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -793,12 +792,12 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "timer",
-      "name": "SECONDS_1",
-      "persistentUuid": "b03e13a9-809f-4db1-b7de-b0ace8f7efcc",
+      "layer": "",
+      "name": "SECOND_4",
+      "persistentUuid": "d1d00455-29b5-416d-a096-934fa011d79b",
       "width": 0,
-      "x": 1114,
-      "y": 989,
+      "x": 1464,
+      "y": 990,
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -809,7 +808,7 @@
     {
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
-      "name": "Compy",
+      "name": "CompyY",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -823,34 +822,6 @@
       ],
       "effects": [],
       "behaviors": [
-        {
-          "name": "Health",
-          "type": "Health::Health",
-          "Health": 100,
-          "CurrentHealth": 0,
-          "MaxHealth": 100,
-          "DamageCooldown": 3,
-          "IsHealthJustDamaged": false,
-          "HealthRegenRate": 0,
-          "HealthRegenDelay": 0,
-          "AllowOverHealing": false,
-          "HitAtLeastOnce": false,
-          "IsJustHealed": false,
-          "CurrentShieldPoints": 0,
-          "MaxShieldPoints": 0,
-          "ShieldDuration": 5,
-          "ShieldRegenRate": 0,
-          "BlockExcessDamage": false,
-          "ShieldRegenDelay": 0,
-          "IsShieldJustDamaged": false,
-          "ChanceToDodge": 0,
-          "DamageToBeApplied": 0,
-          "FlatDamageReduction": 0,
-          "PercentDamageReduction": 0,
-          "IsJustDodged": false,
-          "ShieldDamageTaken": 0,
-          "HealToBeApplied": 0
-        },
         {
           "name": "HorizontalDash",
           "type": "AdvancedJump::HorizontalDash",
@@ -922,7 +893,7 @@
       ],
       "animations": [
         {
-          "name": "Compy Walk",
+          "name": "Compy WalkK",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -932,7 +903,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Compy Walk",
+                  "image": "Compy WalkK",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -948,27 +919,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Compy Walk2",
+                  "image": "Compy WalkK2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -984,27 +955,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Compy Walk3",
+                  "image": "Compy WalkK3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1020,27 +991,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Compy Walk4",
+                  "image": "Compy WalkK4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1056,27 +1027,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Compy Walk5",
+                  "image": "Compy WalkK5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1092,27 +1063,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Compy Walk6",
+                  "image": "Compy WalkK6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1128,27 +1099,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Compy Walk7",
+                  "image": "Compy WalkK7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1164,20 +1135,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1187,7 +1158,7 @@
           ]
         },
         {
-          "name": "Compy Idle",
+          "name": "Compy IdleE",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1213,20 +1184,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1249,20 +1220,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1285,20 +1256,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1321,20 +1292,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1357,20 +1328,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1393,20 +1364,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1429,20 +1400,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1465,20 +1436,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 36.5,
-                        "y": 36
+                        "x": 45.5,
+                        "y": 59
                       },
                       {
-                        "x": 106,
-                        "y": 54
+                        "x": 84,
+                        "y": 56
                       },
                       {
-                        "x": 95.5,
-                        "y": 117.5
+                        "x": 84,
+                        "y": 108
                       },
                       {
-                        "x": 19.5,
-                        "y": 118.5
+                        "x": 41,
+                        "y": 105
                       }
                     ]
                   ]
@@ -1492,7 +1463,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "baseplatform",
+      "name": "baseplatformM",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -1509,7 +1480,7 @@
       ],
       "animations": [
         {
-          "name": "base",
+          "name": "baseE",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1562,7 +1533,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "spinninbucket",
+      "name": "spinninbucketT",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -1579,7 +1550,7 @@
       ],
       "animations": [
         {
-          "name": "spinnin bucket",
+          "name": "spinnin bucketT",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1740,7 +1711,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "spinnin_fish",
+      "name": "spinnin_fishH",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -1757,7 +1728,7 @@
       ],
       "animations": [
         {
-          "name": "spinnin fish",
+          "name": "spinnin fishH",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1918,7 +1889,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "MISSILE_WHAT",
+      "name": "MISSILE_WHATT",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -1935,7 +1906,7 @@
       ],
       "animations": [
         {
-          "name": "MISSILEWHAT",
+          "name": "MISSILEWHATT",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -2524,7 +2495,7 @@
           ]
         },
         {
-          "name": "KABOOM",
+          "name": "KABOOMM",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3153,7 +3124,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "BUCKET_FIRE",
+      "name": "BUCKET_FIREE",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3193,7 +3164,7 @@
       ],
       "animations": [
         {
-          "name": " bucklet",
+          "name": " buckletT",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3246,7 +3217,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "MISSILE_FIE",
+      "name": "MISSILE_FIEE",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3256,7 +3227,7 @@
         {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet",
-          "FireCooldown": 8,
+          "FireCooldown": 2,
           "HasJustFired": false,
           "FiringArc": 45,
           "BulletQuantity": 1,
@@ -3286,7 +3257,7 @@
       ],
       "animations": [
         {
-          "name": "MIFIFIF",
+          "name": "MIFIFIFF",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3339,7 +3310,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "FISHI_SPAW",
+      "name": "FISHI_SPAWW",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3379,7 +3350,7 @@
       ],
       "animations": [
         {
-          "name": "FIFIFI",
+          "name": "FIFIFII",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3431,7 +3402,7 @@
     },
     {
       "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
-      "name": "BlueDotBar",
+      "name": "BlueDotBarR",
       "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
@@ -3455,7 +3426,7 @@
         "PreviousHighValueDuration": 0,
         "ShowLabel": false,
         "InitialValue": 0,
-        "MaxValue": 90
+        "MaxValue": 45
       },
       "childrenContent": {
         "Background": {
@@ -3508,7 +3479,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "spinning_hadrosaur",
+      "name": "spinning_hadrosaurR",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3516,16 +3487,16 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
       "animations": [
         {
-          "name": "spinning hadro",
+          "name": "spinning hadroO",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3686,7 +3657,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "hadro_sawn",
+      "name": "hadro_sawnN",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3726,7 +3697,7 @@
       ],
       "animations": [
         {
-          "name": "NewSprite",
+          "name": "HADROSAURREE",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3777,21 +3748,9 @@
       ]
     },
     {
-      "assetStoreId": "",
-      "height": 32,
-      "name": "NewTiledSprite",
-      "tags": "",
-      "texture": "",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "SPINNING_REX",
+      "name": "SPINNING_REXV",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3799,16 +3758,16 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
       "animations": [
         {
-          "name": "REXY",
+          "name": "REXYY",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3969,7 +3928,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "REX_SPAWN",
+      "name": "REX_SPAWNN",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4009,7 +3968,7 @@
       ],
       "animations": [
         {
-          "name": "REXRRRR",
+          "name": "REXRRRRR",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -4062,7 +4021,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite",
+      "name": "ISLANDD",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4071,7 +4030,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite",
+          "name": "ISLANDD",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -4125,7 +4084,7 @@
       "assetStoreId": "",
       "bold": false,
       "italic": false,
-      "name": "SECONDS_1",
+      "name": "SECOND_4",
       "smoothed": true,
       "tags": "",
       "type": "TextObject::Text",
@@ -4133,10 +4092,10 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "1 MINUTE 30 SECONDS",
+      "string": " SECONDS",
       "font": "CantoraOne-Regular.ttf",
       "textAlignment": "left",
-      "characterSize": 75,
+      "characterSize": 70,
       "color": {
         "b": 194,
         "g": 227,
@@ -4163,7 +4122,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "BlueDotBar",
+            "BlueDotBarR",
             "RepeatTimer",
             ""
           ]
@@ -4206,7 +4165,7 @@
             "value": "AdvancedJump::HorizontalDash::SimulateDashKey"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "HorizontalDash",
             ""
           ]
@@ -4221,7 +4180,7 @@
             "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "PlatformerObject"
           ]
         }
@@ -4232,7 +4191,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "Animation",
             "=",
             "\"Compy Walk\""
@@ -4265,7 +4224,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "3"
+            "1"
           ]
         },
         {
@@ -4273,11 +4232,11 @@
             "value": "FireBullet::FireBullet::Fire"
           },
           "parameters": [
-            "FISHI_SPAW",
+            "FISHI_SPAWW",
             "FireBullet",
             "RandomInRange(40, 1860)",
             "RandomInRange(-600, -32)",
-            "spinnin_fish",
+            "spinnin_fishH",
             "90",
             "500",
             ""
@@ -4302,11 +4261,11 @@
             "value": "FireBullet::FireBullet::Fire"
           },
           "parameters": [
-            "BUCKET_FIRE",
+            "BUCKET_FIREE",
             "FireBullet",
             "RandomInRange(40, 1860)",
             "RandomInRange(-600, -32)",
-            "spinninbucket",
+            "spinninbucketT",
             "90",
             "750",
             ""
@@ -4320,22 +4279,14 @@
       "actions": [
         {
           "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "30"
-          ]
-        },
-        {
-          "type": {
             "value": "FireBullet::FireBullet::Fire"
           },
           "parameters": [
-            "MISSILE_FIE",
+            "MISSILE_FIEE",
             "FireBullet",
             "RandomInRange(40, 1860)",
             "RandomInRange(-600, -32)",
-            "MISSILE_WHAT",
+            "MISSILE_WHATT",
             "90",
             "1500",
             ""
@@ -4351,8 +4302,8 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "MISSILE_WHAT",
-            "baseplatform",
+            "MISSILE_WHATT",
+            "baseplatformM",
             "",
             "",
             ""
@@ -4365,10 +4316,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "MISSILE_WHAT",
+            "MISSILE_WHATT",
             "Animation",
             "=",
-            "\"KABOOM\""
+            "\"KABOOMM\""
           ]
         },
         {
@@ -4384,7 +4335,7 @@
             "value": "Delete"
           },
           "parameters": [
-            "MISSILE_WHAT",
+            "MISSILE_WHATT",
             ""
           ]
         }
@@ -4407,11 +4358,11 @@
             "value": "FireBullet::FireBullet::Fire"
           },
           "parameters": [
-            "hadro_sawn",
+            "hadro_sawnN",
             "FireBullet",
             "RandomInRange(40, 1860)",
             "RandomInRange(-600, -32)",
-            "spinning_hadrosaur",
+            "spinning_hadrosaurR",
             "90",
             "1000",
             ""
@@ -4436,11 +4387,11 @@
             "value": "FireBullet::FireBullet::Fire"
           },
           "parameters": [
-            "REX_SPAWN",
+            "REX_SPAWNN",
             "FireBullet",
             "RandomInRange(40, 1860)",
             "RandomInRange(-600, -32)",
-            "SPINNING_REX",
+            "SPINNING_REXV",
             "90",
             "1000",
             ""
@@ -4483,7 +4434,7 @@
             "value": "PlatformBehavior::SimulateControl"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "PlatformerObject",
             "\"Left\""
           ]
@@ -4493,7 +4444,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "Animation",
             "=",
             "\"Compy WalkK\""
@@ -4504,7 +4455,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "Flippable",
             "no"
           ]
@@ -4530,7 +4481,7 @@
             "value": "PlatformBehavior::SimulateControl"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "PlatformerObject",
             "\"Right\""
           ]
@@ -4540,7 +4491,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "Animation",
             "=",
             "\"Compy WalkK\""
@@ -4551,7 +4502,7 @@
             "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "Flippable",
             "yes"
           ]
@@ -4586,7 +4537,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "BlueDotBar",
+            "BlueDotBarR",
             "RepeatTimer",
             "yes"
           ]
@@ -4601,7 +4552,7 @@
             "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
           },
           "parameters": [
-            "BlueDotBar",
+            "BlueDotBarR",
             "RepeatTimer",
             ""
           ]
@@ -4613,7 +4564,7 @@
             "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
           },
           "parameters": [
-            "BlueDotBar",
+            "BlueDotBarR",
             "+",
             "1",
             ""
@@ -4629,9 +4580,9 @@
             "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
           },
           "parameters": [
-            "BlueDotBar",
+            "BlueDotBarR",
             "=",
-            "90",
+            "45",
             ""
           ]
         }
@@ -4645,6 +4596,22 @@
             "",
             "\"YOU WIN\"",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextObject::String"
+          },
+          "parameters": [
+            "SECOND_4",
+            "=",
+            "LargeNumberToString(Variable(Time))"
           ]
         }
       ]
@@ -4668,7 +4635,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "OW",
             "",
             "",
@@ -4688,7 +4655,7 @@
             "value": "ModVarObjet"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "Health",
             "-",
             "1"
@@ -4715,7 +4682,7 @@
             "value": "VarObjet"
           },
           "parameters": [
-            "Compy",
+            "CompyY",
             "Health",
             "=",
             "0"

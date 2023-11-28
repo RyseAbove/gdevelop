@@ -2897,36 +2897,6 @@
       "effects": [],
       "behaviors": [
         {
-          "name": "FireBullet",
-          "type": "FireBullet::FireBullet",
-          "FireCooldown": 0.5,
-          "HasJustFired": false,
-          "FiringArc": 7,
-          "BulletQuantity": 1,
-          "AngleVariance": 0,
-          "RotateBullet": true,
-          "AmmoQuantity": 0,
-          "ShotsPerReload": 0,
-          "ReloadDuration": 1,
-          "MaxAmmo": 0,
-          "ShotsBeforeNextReload": 0,
-          "TotalShotsFired": 0,
-          "TotalBulletsCreated": 0,
-          "StartingAmmo": 0,
-          "TotalReloadsCompleted": 0,
-          "UnlimitedAmmo": true,
-          "ReloadInProgress": false,
-          "HeatIncreasePerShot": 0,
-          "HeatLevel": 0,
-          "AutomaticReloading": true,
-          "OverheatDuration": 0,
-          "LinearCoolingRate": 0.1,
-          "ExponentialCoolingRate": 0.3,
-          "BulletLayer": "",
-          "RandomizedAngle": 0,
-          "BulletSpeedVariance": 0
-        },
-        {
           "name": "Health",
           "type": "Health::Health",
           "Health": 35,
@@ -2968,13 +2938,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3010,13 +2974,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera2",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3052,13 +3010,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera3",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3094,13 +3046,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera4",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3136,13 +3082,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera5",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3178,13 +3118,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera6",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3228,18 +3162,12 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.1,
+              "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3275,13 +3203,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death8",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3317,13 +3239,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death9",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3359,13 +3275,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death10",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3401,13 +3311,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death2",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3443,13 +3347,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death3",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3485,13 +3383,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death5",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3527,13 +3419,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death6",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3569,13 +3455,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death4",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3611,13 +3491,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death7",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4558,29 +4432,6 @@
             "juvenileTrex",
             "PlatformerObject"
           ]
-        },
-        {
-          "type": {
-            "inverted": true,
-            "value": "AdvancedJump::HorizontalDash::IsDashing"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "HorizontalDash",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "inverted": true,
-            "value": "AnimatableCapability::AnimatableBehavior::Name"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Animation",
-            "=",
-            "\"dinoThrow\""
-          ]
         }
       ],
       "actions": [
@@ -4768,14 +4619,6 @@
             },
             {
               "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.3"
-              ]
-            },
-            {
-              "type": {
                 "value": "FireBullet::FireBullet::FireTowardPosition"
               },
               "parameters": [
@@ -4783,7 +4626,7 @@
                 "FireBullet",
                 "juvenileTrex.PointX(\"bulletPoint\")",
                 "juvenileTrex.PointY(\"bulletPoint\")",
-                "dafishies",
+                "fishAmmo",
                 "CursorX()",
                 "CursorY()",
                 "350",
@@ -4834,12 +4677,11 @@
       "conditions": [
         {
           "type": {
-            "inverted": true,
             "value": "Distance"
           },
           "parameters": [
             "juvenileTrex",
-            "dafishies",
+            "fishAmmo",
             "1500",
             ""
           ]
@@ -5091,7 +4933,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "dafishies",
+            "fishAmmo",
             "Ceradactlyl",
             "",
             "",
@@ -5110,15 +4952,6 @@
             "1",
             "no",
             "no",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "dafishies",
             ""
           ]
         }
@@ -5149,23 +4982,6 @@
             "=",
             "\"Ceradactyl die\""
           ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "1.75"
-          ]
-        },
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "Ceradactlyl",
-            ""
-          ]
         }
       ]
     },
@@ -5191,31 +5007,12 @@
       "conditions": [
         {
           "type": {
-            "value": "BuiltinCommonInstructions::Or"
+            "value": "Health::Health::IsDead"
           },
-          "parameters": [],
-          "subInstructions": [
-            {
-              "type": {
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "Health",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "Health",
-                "<=",
-                "0"
-              ]
-            }
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            ""
           ]
         }
       ],
@@ -5335,7 +5132,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "dafishies",
+            "fishAmmo",
             "johnCera",
             "",
             "",
@@ -5349,7 +5146,7 @@
             "value": "Delete"
           },
           "parameters": [
-            "dafishies",
+            "fishAmmo",
             ""
           ]
         },
@@ -5618,55 +5415,6 @@
             "Animation",
             "=",
             "\"Death\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "FireBullet::FireBullet::FireTowardObject"
-          },
-          "parameters": [
-            "johnCera",
-            "FireBullet",
-            "johnCera.PointX(\"bulletPoint\")",
-            "johnCera.PointY(\"bulletPoint\")",
-            "evil_fish",
-            "juvenileTrex",
-            "300",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "Distance"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "evil_fish",
-            "1500",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "evil_fish",
-            ""
           ]
         }
       ]

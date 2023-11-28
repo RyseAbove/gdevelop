@@ -3852,87 +3852,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow3",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow4",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow17",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow18",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow19",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
-        "name": "dinoThrow20",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow21",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite52.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3942,164 +3861,11 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow22",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow23",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow24",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow25",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow26",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow27",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow28.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow28",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow29.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow29",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow30.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow30",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow31.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow31",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow32.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow32",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow33.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow33",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow34.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow34",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow35.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow35",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow36.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow36",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow37.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow37",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite53.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite53",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow38.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow38",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -4113,29 +3879,11 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow39.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow39",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite55.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite55",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow40.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow40",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -4149,29 +3897,11 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow41.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow41",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite57.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite57.png\"}",
         "name": "NewSprite57",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow42.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow42",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -4185,15 +3915,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow43.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow43",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite59.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite59.png\"}",
@@ -4203,29 +3924,11 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow44.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow44",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite60.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite60.png\"}",
         "name": "NewSprite60",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow45.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow45",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -4347,15 +4050,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoThrow46.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow46",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite74.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4371,132 +4065,6 @@
         "name": "NewSprite75",
         "smoothed": true,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow47.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow47",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow48.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow48",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow49.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow49",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow50.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow50",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow51.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow51",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow52.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow52",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow53.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow53.png\"}",
-        "name": "dinoThrow53",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow54.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow54.png\"}",
-        "name": "dinoThrow54",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow55.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow55.png\"}",
-        "name": "dinoThrow55",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow56.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow56.png\"}",
-        "name": "dinoThrow56",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow57.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow57.png\"}",
-        "name": "dinoThrow57",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow58.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow58.png\"}",
-        "name": "dinoThrow58",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow59.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow59.png\"}",
-        "name": "dinoThrow59",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/dinoThrow60.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow60.png\"}",
-        "name": "dinoThrow60",
-        "smoothed": true,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -4523,6 +4091,857 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/0f15d828199d38d229469b48c953574c22a34b8daeb8941f3eb40df01a8f7d22_Dot Bar Blue Fill Bar.png",
           "name": "Dot Bar Blue Fill Bar.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite76",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite77",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite78",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite79",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite80",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/spinning hadro.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "spinning hadro",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/spinning hadro2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "spinning hadro2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/spinning hadro3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "spinning hadro3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/spinning hadro4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "spinning hadro4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM9",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KABOOM17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "KABOOM17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite81",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite82",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite83",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite84",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite85",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite86",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite87",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite88.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite88",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite89.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite89",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite90.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite90",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite91.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite91",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite92.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite92",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PALM TREE 1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "PALM TREE 1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PALM TREE 2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/PALM TREE 2.png\"}",
+        "name": "PALM TREE 2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/STUMP RIGHT.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "STUMP RIGHT",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite93.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite93",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Button With Shadow_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Shadow_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/71ee2c8d8b72808c7f084252cd36c80c44bc07655a3729e5fe7459c634007e8a_Red Button With Shadow_Hovered.png",
+          "name": "Red Button With Shadow_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Button With Shadow_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Shadow_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6c6bf020fb86d99a9ecc993f8b90064d73d757bc2408050cf353c84bc36f6be2_Red Button With Shadow_Idle.png",
+          "name": "Red Button With Shadow_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Button With Shadow_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Shadow_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b9ce526450d48adedb6875043465ae168fff1f6b01dd1ff7f43b7e7c1568cc21_Red Button With Shadow_Pressed.png",
+          "name": "Red Button With Shadow_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/CantoraOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "CantoraOne-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
+          "name": "CantoraOne-Regular.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite94.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite94",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite95.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite95",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite96.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite96",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite97.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite97",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite98.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite98",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite99.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite99",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite100.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite100",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite101.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite101",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite102.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite102",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite103.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite103",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite104.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite104",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite105.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite105",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite106.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite106",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite107.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite107",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite108.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite108",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite109.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite109",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite110.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite110",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite111.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite111",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite112.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite112",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite113.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite113",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite114.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite114",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite115.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite115",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite116.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite116",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite117.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite117",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite118.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite118",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite119.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite119",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite120.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite120",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite121.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite121",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite122.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite122",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite123.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite123",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite124.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite124",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite125.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite125",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Compy Walk.png\"}",
+        "name": "Compy Walk",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Compy Walk2.png\"}",
+        "name": "Compy Walk2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Compy Walk3.png\"}",
+        "name": "Compy Walk3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Compy Walk4.png\"}",
+        "name": "Compy Walk4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Compy Walk5.png\"}",
+        "name": "Compy Walk5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Walk6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Compy Walk6.png\"}",
+        "name": "Compy Walk6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Walk7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Compy Walk7.png\"}",
+        "name": "Compy Walk7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy WalkK.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy WalkK",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy WalkK2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy WalkK2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy WalkK3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy WalkK3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy WalkK4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy WalkK4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy WalkK5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy WalkK5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy WalkK6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy WalkK6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy WalkK7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy WalkK7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite126.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite126",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4785,8 +5204,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -4820,11 +5239,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -4835,8 +5254,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -4870,11 +5289,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -4885,8 +5304,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -4920,11 +5339,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -4935,8 +5354,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -4970,11 +5389,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -4985,8 +5404,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -5020,11 +5439,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -5035,8 +5454,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -5070,11 +5489,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -5085,8 +5504,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -5120,11 +5539,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -5135,8 +5554,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 299.5,
+                      "y": 148
                     }
                   ],
                   "originPoint": {
@@ -5170,11 +5589,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 400
+                        "y": 443
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 459
                       }
                     ]
                   ]
@@ -5198,8 +5617,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5220,24 +5639,28 @@
                         "y": 325
                       },
                       {
-                        "x": 196.5,
-                        "y": 189
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 419.5,
-                        "y": 87
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 488.5,
-                        "y": 170
+                        "x": 432.5,
+                        "y": 151
                       },
                       {
-                        "x": 293.5,
-                        "y": 400
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
-                        "x": 176.5,
-                        "y": 400
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -5248,8 +5671,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5270,24 +5693,28 @@
                         "y": 325
                       },
                       {
-                        "x": 196.5,
-                        "y": 189
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 419.5,
-                        "y": 87
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 488.5,
-                        "y": 170
+                        "x": 432.5,
+                        "y": 151
                       },
                       {
-                        "x": 293.5,
-                        "y": 400
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
-                        "x": 176.5,
-                        "y": 400
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -5298,8 +5725,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5320,24 +5747,28 @@
                         "y": 325
                       },
                       {
-                        "x": 196.5,
-                        "y": 189
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 419.5,
-                        "y": 87
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 488.5,
-                        "y": 170
+                        "x": 432.5,
+                        "y": 151
                       },
                       {
-                        "x": 293.5,
-                        "y": 400
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
-                        "x": 176.5,
-                        "y": 400
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -5348,8 +5779,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5370,24 +5801,28 @@
                         "y": 325
                       },
                       {
-                        "x": 196.5,
-                        "y": 189
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 419.5,
-                        "y": 87
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 488.5,
-                        "y": 170
+                        "x": 432.5,
+                        "y": 151
                       },
                       {
-                        "x": 293.5,
-                        "y": 400
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
-                        "x": 176.5,
-                        "y": 400
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -5398,8 +5833,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5420,24 +5855,28 @@
                         "y": 325
                       },
                       {
-                        "x": 196.5,
-                        "y": 189
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 419.5,
-                        "y": 87
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 488.5,
-                        "y": 170
+                        "x": 432.5,
+                        "y": 151
                       },
                       {
-                        "x": 293.5,
-                        "y": 400
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
-                        "x": 176.5,
-                        "y": 400
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -5448,8 +5887,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5470,24 +5909,28 @@
                         "y": 325
                       },
                       {
-                        "x": 196.5,
-                        "y": 189
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 419.5,
-                        "y": 87
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 488.5,
-                        "y": 170
+                        "x": 432.5,
+                        "y": 151
                       },
                       {
-                        "x": 293.5,
-                        "y": 400
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
-                        "x": 176.5,
-                        "y": 400
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -5498,8 +5941,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5520,24 +5963,28 @@
                         "y": 325
                       },
                       {
-                        "x": 196.5,
-                        "y": 189
+                        "x": 200.5,
+                        "y": 249
                       },
                       {
-                        "x": 419.5,
-                        "y": 87
+                        "x": 302.5,
+                        "y": 205
                       },
                       {
-                        "x": 488.5,
-                        "y": 170
+                        "x": 432.5,
+                        "y": 151
                       },
                       {
-                        "x": 293.5,
-                        "y": 400
+                        "x": 491.5,
+                        "y": 220
                       },
                       {
-                        "x": 176.5,
-                        "y": 400
+                        "x": 286.5,
+                        "y": 443
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 459
                       }
                     ]
                   ]
@@ -5561,8 +6008,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5580,23 +6027,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5607,8 +6054,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5626,23 +6073,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5653,8 +6100,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5672,23 +6119,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5699,8 +6146,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5718,23 +6165,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5745,8 +6192,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5764,23 +6211,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5791,8 +6238,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5810,23 +6257,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5837,8 +6284,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5856,23 +6303,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5883,8 +6330,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 0,
+                      "y": 0
                     }
                   ],
                   "originPoint": {
@@ -5902,23 +6349,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 217
+                        "y": 273
                       },
                       {
                         "x": 426.5,
-                        "y": 108
+                        "y": 164
                       },
                       {
                         "x": 485.5,
-                        "y": 184
+                        "y": 209
                       },
                       {
                         "x": 295.5,
-                        "y": 400
+                        "y": 451
                       },
                       {
                         "x": 189.5,
-                        "y": 400
+                        "y": 462
                       }
                     ]
                   ]
@@ -5938,12 +6385,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow53",
+                  "image": "dinoThrow9",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -5969,23 +6416,23 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow54",
+                  "image": "dinoThrow10",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -6011,23 +6458,23 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow55",
+                  "image": "dinoThrow11",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -6053,23 +6500,23 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow56",
+                  "image": "dinoThrow12",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -6095,23 +6542,23 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow57",
+                  "image": "dinoThrow13",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -6137,23 +6584,23 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow58",
+                  "image": "dinoThrow14",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -6179,23 +6626,23 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow59",
+                  "image": "dinoThrow15",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -6221,23 +6668,23 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow60",
+                  "image": "dinoThrow16",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 287.5,
-                      "y": 151
+                      "x": 366.5,
+                      "y": 166
                     }
                   ],
                   "originPoint": {
@@ -6263,11 +6710,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 400
+                        "y": 456
                       },
                       {
                         "x": 186.5,
-                        "y": 400
+                        "y": 465
                       }
                     ]
                   ]
@@ -6319,10 +6766,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": false,
+                    "automatic": true,
                     "name": "centre",
-                    "x": 32,
-                    "y": 32
+                    "x": 0,
+                    "y": 0
                   },
                   "customCollisionMask": [
                     [
@@ -6350,6 +6797,312 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "PALM_TREE_LEAVES",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Sway",
+          "type": "Sway::Sway",
+          "AngleLeft": -2,
+          "AngleRight": 2,
+          "AngleTimeMin": 1,
+          "AngleTimeMax": 3,
+          "YScaleMin": 1,
+          "YScaleMax": 1.2,
+          "YScaleTimeMin": 1,
+          "YScaleTimeMax": 3,
+          "TweenBehavior": "Tween"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "PALM TREE LEAVES",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "PALM TREE 1",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 0
+                      },
+                      {
+                        "x": 722.5,
+                        "y": 627.5
+                      },
+                      {
+                        "x": 1.5,
+                        "y": 400.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "PALM_TREE_STUMP",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "PALM TREE STUMP",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "PALM TREE 2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 383,
+                        "y": 182
+                      },
+                      {
+                        "x": 966,
+                        "y": 182
+                      },
+                      {
+                        "x": 966,
+                        "y": 1080
+                      },
+                      {
+                        "x": 383,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "STUMP__RIOGHT",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "STUMP RIGHT",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "STUMP RIGHT",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 185,
+                        "y": 182
+                      },
+                      {
+                        "x": 768,
+                        "y": 182
+                      },
+                      {
+                        "x": 768,
+                        "y": 1080
+                      },
+                      {
+                        "x": 185,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "LEAVES_RIGHT",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Sway",
+          "type": "Sway::Sway",
+          "AngleLeft": -2,
+          "AngleRight": 2,
+          "AngleTimeMin": 1,
+          "AngleTimeMax": 3,
+          "YScaleMin": 1,
+          "YScaleMax": 1.2,
+          "YScaleTimeMin": 1,
+          "YScaleTimeMax": 3,
+          "TweenBehavior": "Tween"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "NewSprite2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite93",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 32,
+                        "y": 49
+                      },
+                      {
+                        "x": 1104,
+                        "y": 49
+                      },
+                      {
+                        "x": 1104,
+                        "y": 580
+                      },
+                      {
+                        "x": 32,
+                        "y": 580
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "timr_er",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "timer:",
+      "font": "CantoraOne-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 100,
+      "color": {
+        "b": 194,
+        "g": 227,
+        "r": 80
+      }
     }
   ],
   "objectsGroups": [],
@@ -6381,6 +7134,10 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-2-5-droppings-ec-hard"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-2-5-droppings-ec"
     },
     {
@@ -6398,6 +7155,18 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/jumpscare"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/you-win"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/game-over"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/dino-title"
     }
   ],
   "externalEvents": [
@@ -6407,6 +7176,14 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/sway"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/repeateveryxseconds"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/behaviorremapper"
