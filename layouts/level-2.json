@@ -1889,27 +1889,6 @@
                 "",
                 "Left"
               ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "PlatformerObject"
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "AdvancedJump::HorizontalDash::IsDashing"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "HorizontalDash",
-                ""
-              ]
             }
           ],
           "actions": [
