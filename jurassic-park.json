@@ -3487,6 +3487,15 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death.png\"}",
         "name": "Death",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite41",
         "smoothed": true,
         "userAdded": false
       },
@@ -3496,6 +3505,15 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death2.png\"}",
         "name": "Death2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite42",
         "smoothed": true,
         "userAdded": false
       },
@@ -3505,6 +3523,15 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death3.png\"}",
         "name": "Death3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite43",
         "smoothed": true,
         "userAdded": false
       },
@@ -3514,6 +3541,15 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death4.png\"}",
         "name": "Death4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite44",
         "smoothed": true,
         "userAdded": false
       },
@@ -3550,6 +3586,69 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Death8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoIdle44",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoIdle45",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoIdle46",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoIdle47",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoIdle48",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite45",
         "smoothed": true,
         "userAdded": false
       },
@@ -3559,6 +3658,24 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Death9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite46",
         "smoothed": true,
         "userAdded": false
       },
@@ -3570,6 +3687,842 @@
         "name": "Death10",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite49",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite50",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite51",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoWalking22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoWalking22",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow18",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow19",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow26.png\"}",
+        "name": "dinoThrow20",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite52",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow22",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow23",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow24",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow25",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow26",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow27",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow28",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow29",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow30",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow31",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow32",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow33",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow34",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow35",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow36",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite57.png\"}",
+        "name": "NewSprite57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite58.png\"}",
+        "name": "NewSprite58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite59.png\"}",
+        "name": "NewSprite59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite60.png\"}",
+        "name": "NewSprite60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite61.png\"}",
+        "name": "NewSprite61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite62.png\"}",
+        "name": "NewSprite62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite63.png\"}",
+        "name": "NewSprite63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite64.png\"}",
+        "name": "NewSprite64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite65.png\"}",
+        "name": "NewSprite65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite66.png\"}",
+        "name": "NewSprite66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite67.png\"}",
+        "name": "NewSprite67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite68.png\"}",
+        "name": "NewSprite68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite69.png\"}",
+        "name": "NewSprite69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite70.png\"}",
+        "name": "NewSprite70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite71.png\"}",
+        "name": "NewSprite71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite72.png\"}",
+        "name": "NewSprite72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite73",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow46",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite75",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow47",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow48",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow49",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow50",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow51",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dinoThrow52",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow53.png\"}",
+        "name": "dinoThrow53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow54.png\"}",
+        "name": "dinoThrow54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow55.png\"}",
+        "name": "dinoThrow55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow56.png\"}",
+        "name": "dinoThrow56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow57.png\"}",
+        "name": "dinoThrow57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow58.png\"}",
+        "name": "dinoThrow58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow59.png\"}",
+        "name": "dinoThrow59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoThrow60.png\"}",
+        "name": "dinoThrow60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/aa81b97c3211cf1e7cd040b96f5409851e3f1141c496b064157588294f09e662_Dot Bar Blue Border.png",
+          "name": "Dot Bar Blue Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/0f15d828199d38d229469b48c953574c22a34b8daeb8941f3eb40df01a8f7d22_Dot Bar Blue Fill Bar.png",
+          "name": "Dot Bar Blue Fill Bar.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -3832,8 +4785,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -3882,8 +4835,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -3932,8 +4885,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -3982,8 +4935,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4032,8 +4985,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4082,8 +5035,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4132,8 +5085,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4182,8 +5135,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 299.5,
-                      "y": 148
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4245,8 +5198,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4267,28 +5220,24 @@
                         "y": 325
                       },
                       {
-                        "x": 200.5,
-                        "y": 249
+                        "x": 196.5,
+                        "y": 189
                       },
                       {
-                        "x": 302.5,
-                        "y": 205
+                        "x": 419.5,
+                        "y": 87
                       },
                       {
-                        "x": 432.5,
-                        "y": 151
+                        "x": 488.5,
+                        "y": 170
                       },
                       {
-                        "x": 491.5,
-                        "y": 220
+                        "x": 293.5,
+                        "y": 425
                       },
                       {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
+                        "x": 176.5,
+                        "y": 428
                       }
                     ]
                   ]
@@ -4299,8 +5248,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4321,28 +5270,24 @@
                         "y": 325
                       },
                       {
-                        "x": 200.5,
-                        "y": 249
+                        "x": 196.5,
+                        "y": 189
                       },
                       {
-                        "x": 302.5,
-                        "y": 205
+                        "x": 419.5,
+                        "y": 87
                       },
                       {
-                        "x": 432.5,
-                        "y": 151
+                        "x": 488.5,
+                        "y": 170
                       },
                       {
-                        "x": 491.5,
-                        "y": 220
+                        "x": 293.5,
+                        "y": 425
                       },
                       {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
+                        "x": 176.5,
+                        "y": 428
                       }
                     ]
                   ]
@@ -4353,8 +5298,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4375,28 +5320,24 @@
                         "y": 325
                       },
                       {
-                        "x": 200.5,
-                        "y": 249
+                        "x": 196.5,
+                        "y": 189
                       },
                       {
-                        "x": 302.5,
-                        "y": 205
+                        "x": 419.5,
+                        "y": 87
                       },
                       {
-                        "x": 432.5,
-                        "y": 151
+                        "x": 488.5,
+                        "y": 170
                       },
                       {
-                        "x": 491.5,
-                        "y": 220
+                        "x": 293.5,
+                        "y": 425
                       },
                       {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
+                        "x": 176.5,
+                        "y": 428
                       }
                     ]
                   ]
@@ -4407,8 +5348,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4429,28 +5370,24 @@
                         "y": 325
                       },
                       {
-                        "x": 200.5,
-                        "y": 249
+                        "x": 196.5,
+                        "y": 189
                       },
                       {
-                        "x": 302.5,
-                        "y": 205
+                        "x": 419.5,
+                        "y": 87
                       },
                       {
-                        "x": 432.5,
-                        "y": 151
+                        "x": 488.5,
+                        "y": 170
                       },
                       {
-                        "x": 491.5,
-                        "y": 220
+                        "x": 293.5,
+                        "y": 425
                       },
                       {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
+                        "x": 176.5,
+                        "y": 428
                       }
                     ]
                   ]
@@ -4461,8 +5398,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4483,28 +5420,24 @@
                         "y": 325
                       },
                       {
-                        "x": 200.5,
-                        "y": 249
+                        "x": 196.5,
+                        "y": 189
                       },
                       {
-                        "x": 302.5,
-                        "y": 205
+                        "x": 419.5,
+                        "y": 87
                       },
                       {
-                        "x": 432.5,
-                        "y": 151
+                        "x": 488.5,
+                        "y": 170
                       },
                       {
-                        "x": 491.5,
-                        "y": 220
+                        "x": 293.5,
+                        "y": 425
                       },
                       {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
+                        "x": 176.5,
+                        "y": 428
                       }
                     ]
                   ]
@@ -4515,8 +5448,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4537,28 +5470,24 @@
                         "y": 325
                       },
                       {
-                        "x": 200.5,
-                        "y": 249
+                        "x": 196.5,
+                        "y": 189
                       },
                       {
-                        "x": 302.5,
-                        "y": 205
+                        "x": 419.5,
+                        "y": 87
                       },
                       {
-                        "x": 432.5,
-                        "y": 151
+                        "x": 488.5,
+                        "y": 170
                       },
                       {
-                        "x": 491.5,
-                        "y": 220
+                        "x": 293.5,
+                        "y": 425
                       },
                       {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
+                        "x": 176.5,
+                        "y": 428
                       }
                     ]
                   ]
@@ -4569,8 +5498,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4591,28 +5520,24 @@
                         "y": 325
                       },
                       {
-                        "x": 200.5,
-                        "y": 249
+                        "x": 196.5,
+                        "y": 189
                       },
                       {
-                        "x": 302.5,
-                        "y": 205
+                        "x": 419.5,
+                        "y": 87
                       },
                       {
-                        "x": 432.5,
-                        "y": 151
+                        "x": 488.5,
+                        "y": 170
                       },
                       {
-                        "x": 491.5,
-                        "y": 220
+                        "x": 293.5,
+                        "y": 425
                       },
                       {
-                        "x": 286.5,
-                        "y": 443
-                      },
-                      {
-                        "x": 186.5,
-                        "y": 459
+                        "x": 176.5,
+                        "y": 428
                       }
                     ]
                   ]
@@ -4636,8 +5561,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4682,8 +5607,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4728,8 +5653,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4774,8 +5699,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4820,8 +5745,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4866,8 +5791,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4912,8 +5837,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -4958,8 +5883,8 @@
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 0,
-                      "y": 0
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5013,12 +5938,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow9",
+                  "image": "dinoThrow53",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5055,12 +5980,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow10",
+                  "image": "dinoThrow54",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5097,12 +6022,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow11",
+                  "image": "dinoThrow55",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5139,12 +6064,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow12",
+                  "image": "dinoThrow56",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5181,12 +6106,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow13",
+                  "image": "dinoThrow57",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5223,12 +6148,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow14",
+                  "image": "dinoThrow58",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5265,12 +6190,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow15",
+                  "image": "dinoThrow59",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5307,12 +6232,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoThrow16",
+                  "image": "dinoThrow60",
                   "points": [
                     {
                       "name": "bulletPoint",
-                      "x": 366.5,
-                      "y": 166
+                      "x": 287.5,
+                      "y": 151
                     }
                   ],
                   "originPoint": {
@@ -5394,10 +6319,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 32,
+                    "y": 32
                   },
                   "customCollisionMask": [
                     [
@@ -5482,6 +6407,14 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/behaviorremapper"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/gamepads"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"

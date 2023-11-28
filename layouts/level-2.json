@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1700303648902914,
+    "zoomFactor": 0.14890670595874442,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -113,8 +113,8 @@
       "name": "hadrosaurBushFront",
       "persistentUuid": "1f99a650-8124-4eb4-b15a-990b214277f3",
       "width": 12288,
-      "x": -2144,
-      "y": 136,
+      "x": -2143,
+      "y": 135,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -1902,7 +1902,25 @@
                 "=",
                 "\"dinoThrow\""
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoThrow\""
+              ]
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "value": "Wait"
@@ -1934,41 +1952,7 @@
           "conditions": [
             {
               "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.3"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "Animation",
-                "=",
-                "\"dinoIdle\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
+                "inverted": true,
                 "value": "Distance"
               },
               "parameters": [
