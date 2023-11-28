@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.14890670595874442,
+    "zoomFactor": 0.0694454716766436,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,13 +28,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1024,
+      "height": 1051,
       "layer": "Layer",
       "name": "hadrosaurGround",
       "persistentUuid": "a3bfd701-8637-40c0-a934-501500a31bd0",
-      "width": 12288,
-      "x": -2144,
-      "y": 122,
+      "width": 12611,
+      "x": -2309,
+      "y": 202,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -44,13 +44,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 74,
+      "height": 76,
       "layer": "Layer",
       "name": "floor",
       "persistentUuid": "6f59b416-1805-4407-a0e9-9c27f33d4007",
-      "width": 12544,
-      "x": -2144,
-      "y": 1020,
+      "width": 12874,
+      "x": -2309,
+      "y": 1124,
       "zOrder": -21,
       "numberProperties": [],
       "stringProperties": [],
@@ -60,13 +60,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 530,
+      "height": 544,
       "layer": "Layer",
       "name": "juvenileTrex",
       "persistentUuid": "27ab838e-e8c4-4bb8-8c53-3b3a9ffbd68b",
-      "width": 530,
-      "x": -808,
-      "y": 544,
+      "width": 544,
+      "x": -938,
+      "y": 635,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -76,13 +76,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1334,
+      "height": 1369,
       "layer": "Layer",
       "name": "hadrosaurBackground2",
       "persistentUuid": "5360c4d8-7a0c-4363-aaca-6663bcf07dba",
-      "width": 12448,
-      "x": -2144,
-      "y": -169,
+      "width": 12776,
+      "x": -2309,
+      "y": -96,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -92,13 +92,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1082,
+      "height": 1110,
       "layer": "Layer",
       "name": "hadrosaurBush",
       "persistentUuid": "0b1bcce6-de3f-4325-a549-fd0eb4f6c2b4",
-      "width": 12288,
-      "x": -2144,
-      "y": 54,
+      "width": 12611,
+      "x": -2309,
+      "y": 132,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -108,13 +108,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1027,
+      "height": 1054,
       "layer": "Layer",
       "name": "hadrosaurBushFront",
       "persistentUuid": "1f99a650-8124-4eb4-b15a-990b214277f3",
-      "width": 12288,
-      "x": -2143,
-      "y": 135,
+      "width": 12611,
+      "x": -2308,
+      "y": 216,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -124,13 +124,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1091,
+      "height": 1119,
       "layer": "Layer",
       "name": "hadrosaurTree1",
       "persistentUuid": "d727dee2-0072-446e-ad6e-e368f1933ffd",
-      "width": 12288,
-      "x": -2144,
-      "y": 54,
+      "width": 12611,
+      "x": -2309,
+      "y": 132,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -140,13 +140,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1093,
+      "height": 1121,
       "layer": "Layer",
       "name": "hadrosaurTree2",
       "persistentUuid": "2746c212-97c8-4334-91de-952bfc254402",
-      "width": 12288,
-      "x": -2144,
-      "y": 54,
+      "width": 12611,
+      "x": -2309,
+      "y": 132,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -156,13 +156,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1094,
+      "height": 1122,
       "layer": "Layer",
       "name": "hadrosaurTree3",
       "persistentUuid": "071160f8-f0db-4c11-b1fa-684a651f2731",
-      "width": 12288,
-      "x": -2144,
-      "y": 54,
+      "width": 12611,
+      "x": -2309,
+      "y": 132,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -172,13 +172,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1094,
+      "height": 1122,
       "layer": "Layer",
       "name": "hadrosaurTree4",
       "persistentUuid": "6bf4ab1e-3868-4b0a-82e7-fbc3fea7867d",
-      "width": 12288,
-      "x": -2144,
-      "y": 54,
+      "width": 12611,
+      "x": -2309,
+      "y": 132,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -188,13 +188,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1856,
+      "height": 1885,
       "layer": "Layer",
       "name": "barrier",
       "persistentUuid": "7fd3de35-39d0-4876-929c-bbc16d16cd6f",
-      "width": 64,
-      "x": -1231,
-      "y": -224,
+      "width": 65,
+      "x": -1315,
+      "y": -152,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -204,13 +204,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 108,
+      "height": 111,
       "layer": "Layer",
       "name": "background2",
       "persistentUuid": "1e27ea64-e034-4a98-b716-23a6d17a2975",
-      "width": 273,
-      "x": 5659,
-      "y": 812,
+      "width": 280,
+      "x": 5699,
+      "y": 910,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -220,13 +220,13 @@
       "angle": 31,
       "customSize": true,
       "depth": 1,
-      "height": 79,
+      "height": 81,
       "layer": "Layer",
       "name": "background2",
       "persistentUuid": "378f0b0f-3649-4676-b885-ea1001597910",
-      "width": 332,
-      "x": 3962,
-      "y": 839,
+      "width": 340,
+      "x": 3957,
+      "y": 939,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -236,43 +236,13 @@
       "angle": 349,
       "customSize": true,
       "depth": 1,
-      "height": 64,
+      "height": 66,
       "layer": "Layer",
       "name": "background2",
       "persistentUuid": "b3802483-e588-4f1d-ac60-82c34c5af699",
-      "width": 282,
-      "x": 4268,
-      "y": 923,
-      "zOrder": 9,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "Layer",
-      "name": "runningHadrosaur",
-      "persistentUuid": "5b85f879-f6b1-4ef5-9bb0-90ef94ff983c",
-      "width": 0,
-      "x": 1140,
-      "y": 585,
-      "zOrder": 10,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "Layer",
-      "name": "runningHadrosaur",
-      "persistentUuid": "b158034e-253b-4229-8108-d9cbbc659372",
-      "width": 0,
-      "x": 910,
-      "y": 585,
+      "width": 289,
+      "x": 4271,
+      "y": 1024,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -281,14 +251,46 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
-      "height": 500,
+      "depth": 1,
+      "height": 513,
+      "layer": "Layer",
+      "name": "runningHadrosaur",
+      "persistentUuid": "5b85f879-f6b1-4ef5-9bb0-90ef94ff983c",
+      "width": 513,
+      "x": 1062,
+      "y": 678,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 513,
+      "layer": "Layer",
+      "name": "runningHadrosaur",
+      "persistentUuid": "b158034e-253b-4229-8108-d9cbbc659372",
+      "width": 513,
+      "x": 825,
+      "y": 678,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 513,
       "layer": "",
       "name": "hadroStop",
       "persistentUuid": "67547dc7-1560-44ab-9721-b09e5a1f8eef",
-      "width": 500,
-      "x": 9223,
-      "y": 585,
+      "width": 513,
+      "x": 9356,
+      "y": 678,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -296,14 +298,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 513,
       "layer": "",
       "name": "hadroFast",
       "persistentUuid": "ab608881-7abd-4f81-95d8-b32fcef6fc6b",
-      "width": 0,
-      "x": 6005,
-      "y": 585,
+      "width": 513,
+      "x": 6055,
+      "y": 678,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -313,13 +316,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 600,
+      "height": 615,
       "layer": "",
       "name": "hadroTrigger",
       "persistentUuid": "78787957-95fa-4e79-b115-21c4c48a53d3",
-      "width": 64,
-      "x": 135,
-      "y": 410,
+      "width": 66,
+      "x": 30,
+      "y": 498,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -327,14 +330,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 513,
       "layer": "Layer",
       "name": "specialHadrosaur",
       "persistentUuid": "1789fbf3-94fa-4618-ab24-b038a4944256",
-      "width": 0,
-      "x": 694,
-      "y": 585,
+      "width": 513,
+      "x": 604,
+      "y": 678,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -342,14 +346,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 131,
       "layer": "",
       "name": "healthBar",
       "persistentUuid": "7df383e6-38f9-4763-b4c0-1b51c2dabf52",
-      "width": 0,
-      "x": 2,
-      "y": 1,
+      "width": 131,
+      "x": -106,
+      "y": 79,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -1788,52 +1793,6 @@
           "conditions": [
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Or"
-              },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "juvenileTrex",
-                    "Health",
-                    "<=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "juvenileTrex",
-                    "Health",
-                    ""
-                  ]
-                }
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Credits\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "CollisionNP"
               },
               "parameters": [
@@ -1883,11 +1842,196 @@
           "conditions": [
             {
               "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Health",
+                    "<=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Health",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Credits\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AdvancedJump::HorizontalDash::IsDashing"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "HorizontalDash",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoThrow\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoIdle\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AdvancedJump::HorizontalDash::IsDashing"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "HorizontalDash",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoDash\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoWalking\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "MouseButtonPressed"
               },
               "parameters": [
                 "",
                 "Left"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AdvancedJump::HorizontalDash::IsDashing"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "HorizontalDash",
+                ""
               ]
             }
           ],
@@ -1902,25 +2046,7 @@
                 "=",
                 "\"dinoThrow\""
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "Animation",
-                "=",
-                "\"dinoThrow\""
-              ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
                 "value": "Wait"
@@ -1943,6 +2069,41 @@
                 "CursorY()",
                 "350",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoIdle\""
               ]
             }
           ]

@@ -4558,6 +4558,29 @@
             "juvenileTrex",
             "PlatformerObject"
           ]
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "AdvancedJump::HorizontalDash::IsDashing"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "HorizontalDash",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoThrow\""
+          ]
         }
       ],
       "actions": [
@@ -4741,6 +4764,14 @@
                 "Animation",
                 "=",
                 "\"dinoThrow\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
               ]
             },
             {
@@ -5160,12 +5191,31 @@
       "conditions": [
         {
           "type": {
-            "value": "Health::Health::IsDead"
+            "value": "BuiltinCommonInstructions::Or"
           },
-          "parameters": [
-            "juvenileTrex",
-            "Health",
-            ""
+          "parameters": [],
+          "subInstructions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Health",
+                "<=",
+                "0"
+              ]
+            }
           ]
         }
       ],
