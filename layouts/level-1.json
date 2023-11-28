@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.17003036489029066,
+    "zoomFactor": 0.13480471535734687,
     "windowMask": false
   },
   "objectsGroups": [
@@ -55,8 +55,10 @@
       "depth": 1,
       "height": 1024,
       "layer": "",
+      "locked": true,
       "name": "daBridge",
       "persistentUuid": "8c9da5f2-6ae6-4114-84e3-1b1b0a08a016",
+      "sealed": true,
       "width": 6626,
       "x": -969,
       "y": 56,
@@ -69,7 +71,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "PILLARS 2",
       "name": "hills_TheWeekend",
       "persistentUuid": "659e077f-b62e-49d0-a550-af525357b4b4",
       "width": 0,
@@ -114,7 +116,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "PILLARS 2",
       "name": "hillsTheSqueakuel",
       "persistentUuid": "ce492fa2-30ac-416f-a215-07fa3df9af3e",
       "width": 0,
@@ -144,7 +146,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "PILLARS 2",
       "name": "hills_TheWeekend",
       "persistentUuid": "2861951c-c625-4ef6-b9a5-3448e40ec77f",
       "width": 0,
@@ -177,9 +179,11 @@
       "depth": 1,
       "height": 1024,
       "layer": "",
+      "locked": true,
       "name": "zaWalkway",
       "persistentUuid": "2de2034d-02b2-46d7-9e2f-bd2e13b7046c",
-      "width": 10126,
+      "sealed": true,
+      "width": 10555,
       "x": 5654,
       "y": 56,
       "zOrder": 104,
@@ -207,12 +211,12 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "PILLARS",
       "name": "reverseReverse",
       "persistentUuid": "5d019cfa-1094-4987-af07-fcceeca5945b",
       "width": 0,
-      "x": 334,
-      "y": 39,
+      "x": 321,
+      "y": -15,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -355,8 +359,8 @@
       "name": "juvenileTrex",
       "persistentUuid": "e72b9c5c-9641-483e-910c-1a2b95415af0",
       "width": 409,
-      "x": 10847,
-      "y": 318,
+      "x": -470,
+      "y": 342,
       "zOrder": 108,
       "numberProperties": [],
       "stringProperties": [],
@@ -569,7 +573,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
+      "layer": "PILLARS 2",
       "name": "hills_TheWeekend",
       "persistentUuid": "250551a4-4b2a-4090-a1cd-bbbed4ed7869",
       "width": 0,
@@ -630,10 +634,10 @@
       "customSize": true,
       "depth": 1,
       "height": 2357,
-      "layer": "",
+      "layer": "NUGHT",
       "name": "NUGHT",
       "persistentUuid": "24e33b48-7c8a-4b58-b167-fc1d67b296ae",
-      "width": 16260,
+      "width": 18283,
       "x": -1536,
       "y": -1184,
       "zOrder": -1,
@@ -740,13 +744,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 2306,
+      "height": 2682,
       "layer": "",
       "name": "barrier_left",
       "persistentUuid": "968093c1-ad54-406b-8262-1ebc9647c24d",
       "width": 64,
       "x": 11400,
-      "y": -1070,
+      "y": -1336,
       "zOrder": 130,
       "numberProperties": [],
       "stringProperties": [],
@@ -762,7 +766,7 @@
       "persistentUuid": "c749a151-f18a-4663-94af-2b57703285d4",
       "width": 64,
       "x": 14656,
-      "y": -1290,
+      "y": -1235,
       "zOrder": 131,
       "numberProperties": [],
       "stringProperties": [],
@@ -2882,9 +2886,45 @@
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "health",
+          "type": "number",
+          "value": 35
+        }
+      ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Health",
+          "type": "Health::Health",
+          "Health": 35,
+          "CurrentHealth": 0,
+          "MaxHealth": 35,
+          "DamageCooldown": 0,
+          "IsHealthJustDamaged": false,
+          "HealthRegenRate": 0,
+          "HealthRegenDelay": 0,
+          "AllowOverHealing": false,
+          "HitAtLeastOnce": false,
+          "IsJustHealed": false,
+          "CurrentShieldPoints": 0,
+          "MaxShieldPoints": 0,
+          "ShieldDuration": 0,
+          "ShieldRegenRate": 0,
+          "BlockExcessDamage": false,
+          "ShieldRegenDelay": 0,
+          "IsShieldJustDamaged": false,
+          "ChanceToDodge": 0,
+          "DamageToBeApplied": 0,
+          "FlatDamageReduction": 0,
+          "PercentDamageReduction": 0,
+          "IsJustDodged": false,
+          "ShieldDamageTaken": 0,
+          "HealToBeApplied": 0
+        }
+      ],
       "animations": [
         {
           "name": "johnCera",
@@ -3114,6 +3154,379 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Death",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3126,7 +3539,33 @@
       "effects": [],
       "behaviors": [],
       "content": {},
-      "childrenContent": {}
+      "childrenContent": {
+        "FillBar": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "2 / 3",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        }
+      }
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -3746,6 +4185,88 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "name": "BACKGROUND",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "NUGHT",
+            "Opacity",
+            "=",
+            "100"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "SetCameraCenterX"
+          },
+          "parameters": [
+            "hills_TheWeekend",
+            "=",
+            "juvenileTrex.X()*0.8",
+            "\"PILLARS 2\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetCameraCenterX"
+          },
+          "parameters": [
+            "hills_TheWeekend",
+            "=",
+            "juvenileTrex.X()*0.6",
+            "\"PILLARS\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetCameraCenterX"
+          },
+          "parameters": [
+            "hills_TheWeekend",
+            "=",
+            "juvenileTrex.X()*0.4",
+            "\"PILLARS 3\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetCameraCenterX"
+          },
+          "parameters": [
+            "",
+            "=",
+            "lerp(CameraX(), juvenileTrex.X(), 0.1)",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
       "name": "Level Start",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3867,22 +4388,7 @@
           "parameters": [
             "bossExplain"
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
+        },
         {
           "type": {
             "value": "Cache"
@@ -4535,32 +5041,18 @@
       "parameters": []
     },
     {
-      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "Distance"
-          },
-          "parameters": [
-            "Ceradactlyl",
-            "juvenileTrex",
-            "4000",
-            ""
-          ]
-        }
-      ],
+      "conditions": [],
       "actions": [
         {
           "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
           },
           "parameters": [
-            "Ceradactlyl",
-            "Animation",
+            "NUGHT",
+            "Opacity",
             "=",
-            "\"Ceradactyl fly\""
+            "100"
           ]
         }
       ]
@@ -4628,23 +5120,6 @@
             "Animation",
             "=",
             "\"Ceradactyl fly\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "NUGHT",
-            "Opacity",
-            "=",
-            "100"
           ]
         }
       ]
@@ -4835,11 +5310,6 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
           "type": {
@@ -4891,9 +5361,162 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Or"
+          },
+          "parameters": [],
+          "subInstructions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "johnCera",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "johnCera",
+                "health",
+                "<=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "boss_barriers",
+            "Platform",
+            "no"
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "johnCera",
+            "Animation",
+            "=",
+            "\"Death\""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "PILLARS 2",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "PILLARS",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "PILLARS 3",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
     {
       "ambientLightColorB": 200,
       "ambientLightColorG": 200,
@@ -4981,7 +5604,7 @@
       "isLocked": false,
       "name": "NUGHT",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {

@@ -1531,7 +1531,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoDash9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoDash9.png\"}",
+        "metadata": "{\"extension\":\".png\"}",
         "name": "dinoDash9",
         "smoothed": true,
         "userAdded": false
@@ -1540,7 +1540,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoDash10.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoDash10.png\"}",
+        "metadata": "{\"extension\":\".png\"}",
         "name": "dinoDash10",
         "smoothed": true,
         "userAdded": false
@@ -1549,7 +1549,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoDash11.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoDash11.png\"}",
+        "metadata": "{\"extension\":\".png\"}",
         "name": "dinoDash11",
         "smoothed": true,
         "userAdded": false
@@ -1558,7 +1558,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoDash12.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoDash12.png\"}",
+        "metadata": "{\"extension\":\".png\"}",
         "name": "dinoDash12",
         "smoothed": true,
         "userAdded": false
@@ -3329,7 +3329,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera.png\"}",
         "name": "johnCera",
         "smoothed": true,
         "userAdded": true
@@ -3338,7 +3338,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera2.png\"}",
         "name": "johnCera2",
         "smoothed": true,
         "userAdded": true
@@ -3347,7 +3347,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera3.png\"}",
         "name": "johnCera3",
         "smoothed": true,
         "userAdded": true
@@ -3356,7 +3356,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera4.png\"}",
         "name": "johnCera4",
         "smoothed": true,
         "userAdded": true
@@ -3365,7 +3365,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera5.png\"}",
         "name": "johnCera5",
         "smoothed": true,
         "userAdded": true
@@ -3374,7 +3374,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnCera6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/johnCera6.png\"}",
         "name": "johnCera6",
         "smoothed": true,
         "userAdded": true
@@ -3483,33 +3483,99 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoIdle17.png",
+        "file": "assets/Death.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death.png\"}",
+        "name": "Death"
+      },
+      {
+        "file": "assets/NewSprite48.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoIdle17",
+        "name": "NewSprite41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death2.png\"}",
+        "name": "Death2"
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death3.png\"}",
+        "name": "Death3"
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death4.png\"}",
+        "name": "Death4"
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death5.png\"}",
+        "name": "Death5",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoIdle42.png",
+        "file": "assets/Death6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoIdle42",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death6.png\"}",
+        "name": "Death6",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/dinoIdle43.png",
+        "file": "assets/Death7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoIdle43",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death7.png\"}",
+        "name": "Death7",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/Death8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death8"
+      },
+      {
         "file": "assets/dinoIdle44.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3558,25 +3624,57 @@
         "file": "assets/dinoWalking16.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoWalking16",
+        "name": "dinoWalking16"
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite45",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/Death9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death9"
+      },
+      {
         "file": "assets/dinoWalking17.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoWalking17",
+        "name": "dinoWalking17"
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite46",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/Death10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
         "file": "assets/dinoWalking18.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoWalking18",
+        "name": "dinoWalking18"
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite47",
         "smoothed": true,
         "userAdded": false
       },
@@ -3585,7 +3683,95 @@
         "file": "assets/dinoWalking19.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoWalking19",
+        "name": "dinoWalking19"
+      },
+      {
+        "file": "assets/Compy Idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Compy Idle8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Compy Idle8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite49",
+
         "smoothed": true,
         "userAdded": true
       },
@@ -3594,7 +3780,13 @@
         "file": "assets/dinoWalking20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoWalking20",
+        "name": "dinoWalking20"
+      },
+      {
+        "file": "assets/NewSprite50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite50",
         "smoothed": true,
         "userAdded": true
       },
@@ -3603,7 +3795,13 @@
         "file": "assets/dinoWalking21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoWalking21",
+        "name": "dinoWalking21"
+      },
+      {
+        "file": "assets/NewSprite51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite51",
         "smoothed": true,
         "userAdded": true
       },
@@ -3693,7 +3891,13 @@
         "file": "assets/dinoThrow27.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow21",
+        "name": "dinoThrow21"
+      },
+      {
+        "file": "assets/NewSprite52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite52",
         "smoothed": true,
         "userAdded": true
       },
@@ -3837,7 +4041,13 @@
         "file": "assets/dinoThrow37.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow37",
+        "name": "dinoThrow37"
+      },
+      {
+        "file": "assets/NewSprite53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite53",
         "smoothed": true,
         "userAdded": false
       },
@@ -3846,7 +4056,13 @@
         "file": "assets/dinoThrow38.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow38",
+        "name": "dinoThrow38"
+      },
+      {
+        "file": "assets/NewSprite54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite54",
         "smoothed": true,
         "userAdded": false
       },
@@ -3855,7 +4071,13 @@
         "file": "assets/dinoThrow39.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow39",
+        "name": "dinoThrow39"
+      },
+      {
+        "file": "assets/NewSprite55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite55",
         "smoothed": true,
         "userAdded": false
       },
@@ -3864,7 +4086,13 @@
         "file": "assets/dinoThrow40.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow40",
+        "name": "dinoThrow40"
+      },
+      {
+        "file": "assets/NewSprite56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite56",
         "smoothed": true,
         "userAdded": false
       },
@@ -3873,7 +4101,13 @@
         "file": "assets/dinoThrow41.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow41",
+        "name": "dinoThrow41"
+      },
+      {
+        "file": "assets/NewSprite57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite57.png\"}",
+        "name": "NewSprite57",
         "smoothed": true,
         "userAdded": false
       },
@@ -3882,7 +4116,13 @@
         "file": "assets/dinoThrow42.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow42",
+        "name": "dinoThrow42"
+      },
+      {
+        "file": "assets/NewSprite58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite58.png\"}",
+        "name": "NewSprite58",
         "smoothed": true,
         "userAdded": false
       },
@@ -3891,7 +4131,13 @@
         "file": "assets/dinoThrow43.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow43",
+        "name": "dinoThrow43"
+      },
+      {
+        "file": "assets/NewSprite59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite59.png\"}",
+        "name": "NewSprite59",
         "smoothed": true,
         "userAdded": false
       },
@@ -3900,7 +4146,13 @@
         "file": "assets/dinoThrow44.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow44",
+        "name": "dinoThrow44"
+      },
+      {
+        "file": "assets/NewSprite60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite60.png\"}",
+        "name": "NewSprite60",
         "smoothed": true,
         "userAdded": false
       },
@@ -3909,7 +4161,121 @@
         "file": "assets/dinoThrow45.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow45",
+        "name": "dinoThrow45"
+      },
+      {
+        "file": "assets/NewSprite61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite61.png\"}",
+        "name": "NewSprite61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite62.png\"}",
+        "name": "NewSprite62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite63.png\"}",
+        "name": "NewSprite63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite64.png\"}",
+        "name": "NewSprite64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite65.png\"}",
+        "name": "NewSprite65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite66.png\"}",
+        "name": "NewSprite66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite67.png\"}",
+        "name": "NewSprite67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite68.png\"}",
+        "name": "NewSprite68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite69.png\"}",
+        "name": "NewSprite69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite70.png\"}",
+        "name": "NewSprite70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite71.png\"}",
+        "name": "NewSprite71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite72.png\"}",
+        "name": "NewSprite72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite73",
         "smoothed": true,
         "userAdded": true
       },
@@ -3918,7 +4284,22 @@
         "file": "assets/dinoThrow46.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "dinoThrow46",
+        "name": "dinoThrow46"
+      },
+      {
+        "file": "assets/NewSprite74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite75",
         "smoothed": true,
         "userAdded": true
       },
@@ -4047,6 +4428,31 @@
         "name": "dinoThrow60",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Dot Bar Blue Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/aa81b97c3211cf1e7cd040b96f5409851e3f1141c496b064157588294f09e662_Dot Bar Blue Border.png",
+          "name": "Dot Bar Blue Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/0f15d828199d38d229469b48c953574c22a34b8daeb8941f3eb40df01a8f7d22_Dot Bar Blue Fill Bar.png",
+          "name": "Dot Bar Blue Fill Bar.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -4305,7 +4711,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle17",
+                  "image": "dinoIdle34",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4355,7 +4761,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle42",
+                  "image": "dinoIdle35",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4405,7 +4811,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle43",
+                  "image": "dinoIdle36",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4455,7 +4861,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle44",
+                  "image": "dinoIdle37",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4505,7 +4911,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle45",
+                  "image": "dinoIdle38",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4555,7 +4961,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle46",
+                  "image": "dinoIdle39",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4605,7 +5011,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle47",
+                  "image": "dinoIdle40",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4655,7 +5061,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoIdle48",
+                  "image": "dinoIdle41",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4718,7 +5124,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking16",
+                  "image": "dinoWalking9",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4768,7 +5174,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking17",
+                  "image": "dinoWalking10",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4818,7 +5224,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking18",
+                  "image": "dinoWalking11",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4868,7 +5274,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking19",
+                  "image": "dinoWalking12",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4918,7 +5324,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking20",
+                  "image": "dinoWalking13",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -4968,7 +5374,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking21",
+                  "image": "dinoWalking14",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -5018,7 +5424,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "dinoWalking22",
+                  "image": "dinoWalking15",
                   "points": [
                     {
                       "name": "bulletPoint",
@@ -5931,6 +6337,14 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/behaviorremapper"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/gamepads"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
