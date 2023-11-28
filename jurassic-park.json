@@ -1225,7 +1225,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoWalking9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoWalking9.png\"}",
         "name": "dinoWalking9",
         "smoothed": true,
         "userAdded": false
@@ -1234,7 +1234,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoWalking10.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoWalking10.png\"}",
         "name": "dinoWalking10",
         "smoothed": true,
         "userAdded": false
@@ -1243,7 +1243,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoWalking11.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoWalking11.png\"}",
         "name": "dinoWalking11",
         "smoothed": true,
         "userAdded": false
@@ -1252,7 +1252,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoWalking12.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoWalking12.png\"}",
         "name": "dinoWalking12",
         "smoothed": true,
         "userAdded": false
@@ -1261,7 +1261,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoWalking13.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoWalking13.png\"}",
         "name": "dinoWalking13",
         "smoothed": true,
         "userAdded": false
@@ -1270,7 +1270,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoWalking14.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoWalking14.png\"}",
         "name": "dinoWalking14",
         "smoothed": true,
         "userAdded": false
@@ -1279,7 +1279,7 @@
         "alwaysLoaded": false,
         "file": "assets/dinoWalking15.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/dinoWalking15.png\"}",
         "name": "dinoWalking15",
         "smoothed": true,
         "userAdded": false
@@ -4523,6 +4523,34 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/0f15d828199d38d229469b48c953574c22a34b8daeb8941f3eb40df01a8f7d22_Dot Bar Blue Fill Bar.png",
           "name": "Dot Bar Blue Fill Bar.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download (1).jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "download (1).jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "download.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "buddy-holly-weezer-guitar-lick.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "buddy-holly-weezer-guitar-lick.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4820,11 +4848,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -4870,11 +4898,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -4920,11 +4948,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -4970,11 +4998,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -5020,11 +5048,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -5070,11 +5098,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -5120,11 +5148,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -5170,11 +5198,11 @@
                       },
                       {
                         "x": 286.5,
-                        "y": 443
+                        "y": 400
                       },
                       {
                         "x": 186.5,
-                        "y": 459
+                        "y": 400
                       }
                     ]
                   ]
@@ -5233,11 +5261,11 @@
                       },
                       {
                         "x": 293.5,
-                        "y": 425
+                        "y": 400
                       },
                       {
                         "x": 176.5,
-                        "y": 428
+                        "y": 400
                       }
                     ]
                   ]
@@ -5283,11 +5311,11 @@
                       },
                       {
                         "x": 293.5,
-                        "y": 425
+                        "y": 400
                       },
                       {
                         "x": 176.5,
-                        "y": 428
+                        "y": 400
                       }
                     ]
                   ]
@@ -5333,11 +5361,11 @@
                       },
                       {
                         "x": 293.5,
-                        "y": 425
+                        "y": 400
                       },
                       {
                         "x": 176.5,
-                        "y": 428
+                        "y": 400
                       }
                     ]
                   ]
@@ -5383,11 +5411,11 @@
                       },
                       {
                         "x": 293.5,
-                        "y": 425
+                        "y": 400
                       },
                       {
                         "x": 176.5,
-                        "y": 428
+                        "y": 400
                       }
                     ]
                   ]
@@ -5433,11 +5461,11 @@
                       },
                       {
                         "x": 293.5,
-                        "y": 425
+                        "y": 400
                       },
                       {
                         "x": 176.5,
-                        "y": 428
+                        "y": 400
                       }
                     ]
                   ]
@@ -5483,11 +5511,11 @@
                       },
                       {
                         "x": 293.5,
-                        "y": 425
+                        "y": 400
                       },
                       {
                         "x": 176.5,
-                        "y": 428
+                        "y": 400
                       }
                     ]
                   ]
@@ -5533,11 +5561,11 @@
                       },
                       {
                         "x": 293.5,
-                        "y": 425
+                        "y": 400
                       },
                       {
                         "x": 176.5,
-                        "y": 428
+                        "y": 400
                       }
                     ]
                   ]
@@ -5580,23 +5608,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5626,23 +5654,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5672,23 +5700,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5718,23 +5746,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5764,23 +5792,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5810,23 +5838,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5856,23 +5884,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5902,23 +5930,23 @@
                     [
                       {
                         "x": 169.5,
-                        "y": 273
+                        "y": 205
                       },
                       {
                         "x": 426.5,
-                        "y": 164
+                        "y": 92
                       },
                       {
                         "x": 485.5,
-                        "y": 209
+                        "y": 168
                       },
                       {
                         "x": 295.5,
-                        "y": 451
+                        "y": 400
                       },
                       {
                         "x": 189.5,
-                        "y": 462
+                        "y": 400
                       }
                     ]
                   ]
@@ -5969,11 +5997,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]
@@ -6011,11 +6039,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]
@@ -6053,11 +6081,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]
@@ -6095,11 +6123,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]
@@ -6137,11 +6165,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]
@@ -6179,11 +6207,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]
@@ -6221,11 +6249,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]
@@ -6263,11 +6291,11 @@
                       },
                       {
                         "x": 322.5,
-                        "y": 456
+                        "y": 400
                       },
                       {
-                        "x": 186.5,
-                        "y": 465
+                        "x": 125,
+                        "y": 400
                       }
                     ]
                   ]

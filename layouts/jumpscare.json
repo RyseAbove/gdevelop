@@ -26,15 +26,14 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 5,
-      "height": 829,
+      "customSize": false,
+      "height": 0,
       "layer": "",
       "name": "girlFace",
-      "persistentUuid": "b4a739bb-9cda-41c1-ba7a-86d64b78ed9e",
-      "width": 829,
-      "x": 497,
-      "y": 89,
+      "persistentUuid": "1ef6a06f-2370-43af-9d20-7e7cae02402f",
+      "width": 0,
+      "x": -140,
+      "y": -31,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -63,7 +62,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "MicrosoftTeams-image (2).png",
+                  "image": "weezer.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -83,16 +82,16 @@
                         "y": 0
                       },
                       {
-                        "x": 179,
+                        "x": 2489,
                         "y": 0
                       },
                       {
-                        "x": 179,
-                        "y": 179
+                        "x": 2489,
+                        "y": 1400
                       },
                       {
                         "x": 0,
-                        "y": 179
+                        "y": 1400
                       }
                     ]
                   ]
@@ -124,9 +123,9 @@
           },
           "parameters": [
             "",
-            "scarysounds.gov.mp3",
+            "buddy-holly-weezer-guitar-lick.mp3",
             "",
-            "5",
+            "100",
             ""
           ]
         },
@@ -135,7 +134,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "2"
+            "1.8"
           ]
         },
         {
