@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1700303648902914,
+    "zoomFactor": 0.23689563725446855,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -351,6 +351,22 @@
       "x": 2,
       "y": 1,
       "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 84,
+      "layer": "",
+      "name": "adultRexHealth",
+      "persistentUuid": "fe39f075-ef58-4e6a-a7c2-c364c93a5140",
+      "width": 339,
+      "x": 750,
+      "y": -2,
+      "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1082,9 +1098,9 @@
         {
           "name": "Health",
           "type": "Health::Health",
-          "Health": 10,
+          "Health": 20,
           "CurrentHealth": 0,
-          "MaxHealth": 6,
+          "MaxHealth": 0,
           "DamageCooldown": 0,
           "IsHealthJustDamaged": false,
           "HealthRegenRate": 0,
@@ -1151,20 +1167,20 @@
                         "y": 319.5
                       },
                       {
-                        "x": 459.5,
-                        "y": 489.5
+                        "x": 391,
+                        "y": 491
                       },
                       {
-                        "x": 596.5,
-                        "y": 652.5
+                        "x": 612.5,
+                        "y": 705.5
                       },
                       {
-                        "x": 638.5,
-                        "y": 909
+                        "x": 645,
+                        "y": 900
                       },
                       {
                         "x": 417.5,
-                        "y": 891
+                        "y": 900
                       }
                     ]
                   ]
@@ -1195,20 +1211,20 @@
                         "y": 319.5
                       },
                       {
-                        "x": 459.5,
-                        "y": 489.5
+                        "x": 391,
+                        "y": 491
                       },
                       {
-                        "x": 596.5,
-                        "y": 652.5
+                        "x": 612.5,
+                        "y": 705.5
                       },
                       {
-                        "x": 638.5,
-                        "y": 909
+                        "x": 645,
+                        "y": 900
                       },
                       {
                         "x": 417.5,
-                        "y": 891
+                        "y": 900
                       }
                     ]
                   ]
@@ -1239,20 +1255,20 @@
                         "y": 319.5
                       },
                       {
-                        "x": 459.5,
-                        "y": 489.5
+                        "x": 391,
+                        "y": 491
                       },
                       {
-                        "x": 596.5,
-                        "y": 652.5
+                        "x": 612.5,
+                        "y": 705.5
                       },
                       {
-                        "x": 638.5,
-                        "y": 909
+                        "x": 645,
+                        "y": 900
                       },
                       {
                         "x": 417.5,
-                        "y": 891
+                        "y": 900
                       }
                     ]
                   ]
@@ -1283,20 +1299,20 @@
                         "y": 319.5
                       },
                       {
-                        "x": 459.5,
-                        "y": 489.5
+                        "x": 391,
+                        "y": 491
                       },
                       {
-                        "x": 596.5,
-                        "y": 652.5
+                        "x": 612.5,
+                        "y": 705.5
                       },
                       {
-                        "x": 638.5,
-                        "y": 909
+                        "x": 645,
+                        "y": 900
                       },
                       {
                         "x": 417.5,
-                        "y": 891
+                        "y": 900
                       }
                     ]
                   ]
@@ -1327,20 +1343,20 @@
                         "y": 319.5
                       },
                       {
-                        "x": 459.5,
-                        "y": 489.5
+                        "x": 391,
+                        "y": 491
                       },
                       {
-                        "x": 596.5,
-                        "y": 652.5
+                        "x": 612.5,
+                        "y": 705.5
                       },
                       {
-                        "x": 638.5,
-                        "y": 909
+                        "x": 645,
+                        "y": 900
                       },
                       {
                         "x": 417.5,
-                        "y": 891
+                        "y": 900
                       }
                     ]
                   ]
@@ -1371,20 +1387,20 @@
                         "y": 319.5
                       },
                       {
-                        "x": 459.5,
-                        "y": 489.5
+                        "x": 391,
+                        "y": 491
                       },
                       {
-                        "x": 596.5,
-                        "y": 652.5
+                        "x": 612.5,
+                        "y": 705.5
                       },
                       {
-                        "x": 638.5,
-                        "y": 909
+                        "x": 645,
+                        "y": 900
                       },
                       {
                         "x": 417.5,
-                        "y": 891
+                        "y": 900
                       }
                     ]
                   ]
@@ -1415,20 +1431,20 @@
                         "y": 319.5
                       },
                       {
-                        "x": 459.5,
-                        "y": 489.5
+                        "x": 391,
+                        "y": 491
                       },
                       {
-                        "x": 596.5,
-                        "y": 652.5
+                        "x": 612.5,
+                        "y": 705.5
                       },
                       {
-                        "x": 638.5,
-                        "y": 909
+                        "x": 645,
+                        "y": 900
                       },
                       {
                         "x": 417.5,
-                        "y": 891
+                        "y": 900
                       }
                     ]
                   ]
@@ -1447,8 +1463,8 @@
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
-                  "image": "adultRexStun",
+                  "hasCustomCollisionMask": true,
+                  "image": "adultRexStun5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1461,10 +1477,29 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 530.5,
+                        "y": 76.5
+                      },
+                      {
+                        "x": 700.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 728,
+                        "y": 900
+                      },
+                      {
+                        "x": 369,
+                        "y": 900
+                      }
+                    ]
+                  ]
                 },
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "adultRexStun2",
                   "points": [],
                   "originPoint": {
@@ -1478,10 +1513,101 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 530.5,
+                        "y": 76.5
+                      },
+                      {
+                        "x": 700.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 728,
+                        "y": 900
+                      },
+                      {
+                        "x": 369,
+                        "y": 900
+                      }
+                    ]
+                  ]
                 },
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
+                  "image": "adultRexStun6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 530.5,
+                        "y": 76.5
+                      },
+                      {
+                        "x": 700.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 728,
+                        "y": 900
+                      },
+                      {
+                        "x": 369,
+                        "y": 900
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adultRexStun7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 530.5,
+                        "y": 76.5
+                      },
+                      {
+                        "x": 700.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 728,
+                        "y": 900
+                      },
+                      {
+                        "x": 369,
+                        "y": 900
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
                   "image": "adultRexStun3",
                   "points": [],
                   "originPoint": {
@@ -1495,11 +1621,30 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 530.5,
+                        "y": 76.5
+                      },
+                      {
+                        "x": 700.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 728,
+                        "y": 900
+                      },
+                      {
+                        "x": 369,
+                        "y": 900
+                      }
+                    ]
+                  ]
                 },
                 {
-                  "hasCustomCollisionMask": false,
-                  "image": "adultRexStun4",
+                  "hasCustomCollisionMask": true,
+                  "image": "adultRexStun8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1512,13 +1657,97 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 530.5,
+                        "y": 76.5
+                      },
+                      {
+                        "x": 700.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 728,
+                        "y": 900
+                      },
+                      {
+                        "x": 369,
+                        "y": 900
+                      }
+                    ]
+                  ]
                 }
               ]
             }
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "17a00ca25428306c8db067b2dd8379e9fe1cb562c10443ae2f65f3d561e54f1e",
+      "name": "adultRexHealth",
+      "tags": "",
+      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "PreviousHighValueDuration": 1,
+        "InitialValue": 20,
+        "MaxValue": 20,
+        "BarTopPadding": 7,
+        "BarLeftPadding": 9,
+        "BarBottomPadding": 7,
+        "BarRightPadding": 9
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 7,
+          "height": 32,
+          "leftMargin": 9,
+          "rightMargin": 9,
+          "texture": "Metal Bar Border.png",
+          "tiled": false,
+          "topMargin": 7,
+          "width": 98
+        },
+        "Buffer": {
+          "bottomMargin": 0,
+          "height": 18,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Pixel Yellow Fill Bar.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 18
+        },
+        "FillBar": {
+          "bottomMargin": 0,
+          "height": 18,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Pixel Red Fill Bar.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 18
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "20 / 20",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        }
+      }
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -1733,6 +1962,14 @@
             "Health",
             "=",
             "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "adultRexHealth"
           ]
         }
       ]
@@ -1965,10 +2202,12 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
+                "inverted": true,
                 "value": "Distance"
               },
               "parameters": [
@@ -2178,6 +2417,15 @@
                 "265",
                 "\"Layer\""
               ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "adultRexHealth",
+                ""
+              ]
             }
           ],
           "events": [
@@ -2221,6 +2469,111 @@
                 }
               ],
               "parameters": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "dafishies",
+                "adultRex",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "dafishies",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "adultRex",
+                "Health",
+                "1",
+                "no",
+                "no",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "adultRexHealth",
+                "-",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "adultRex",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "adultRex",
+                "Animation",
+                "=",
+                "\"adultRexStun\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "adultRex",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "adultRexHealth"
+              ]
             }
           ]
         }
@@ -2365,6 +2718,14 @@
     {
       "name": "SmoothPlatformerCamera",
       "type": "SmoothCamera::SmoothPlatformerCamera"
+    },
+    {
+      "name": "Sway",
+      "type": "Sway::Sway"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }

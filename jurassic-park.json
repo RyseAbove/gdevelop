@@ -3194,7 +3194,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexRun.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexRun.png\"}",
         "name": "adultRexRun",
         "smoothed": true,
         "userAdded": true
@@ -3203,7 +3203,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexRun2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexRun2.png\"}",
         "name": "adultRexRun2",
         "smoothed": true,
         "userAdded": true
@@ -3212,7 +3212,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexRun3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexRun3.png\"}",
         "name": "adultRexRun3",
         "smoothed": true,
         "userAdded": true
@@ -3221,7 +3221,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexRun4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexRun4.png\"}",
         "name": "adultRexRun4",
         "smoothed": true,
         "userAdded": true
@@ -3230,7 +3230,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexRun5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexRun5.png\"}",
         "name": "adultRexRun5",
         "smoothed": true,
         "userAdded": true
@@ -3239,7 +3239,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexRun6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexRun6.png\"}",
         "name": "adultRexRun6",
         "smoothed": true,
         "userAdded": true
@@ -3248,7 +3248,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexRun7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexRun7.png\"}",
         "name": "adultRexRun7",
         "smoothed": true,
         "userAdded": true
@@ -3266,7 +3266,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexStun2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexStun2.png\"}",
         "name": "adultRexStun2",
         "smoothed": true,
         "userAdded": false
@@ -3275,7 +3275,7 @@
         "alwaysLoaded": false,
         "file": "assets/adultRexStun3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexStun3.png\"}",
         "name": "adultRexStun3",
         "smoothed": true,
         "userAdded": false
@@ -4942,6 +4942,42 @@
         "name": "NewSprite126",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexStun5.png\"}",
+        "name": "adultRexStun5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexStun6.png\"}",
+        "name": "adultRexStun6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexStun7.png\"}",
+        "name": "adultRexStun7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/adultRexStun8.png\"}",
+        "name": "adultRexStun8",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5083,7 +5119,7 @@
           "EnableAnimationChanges": true,
           "EnableHorizontalFlipping": true,
           "IdleAnimationName": "Idle",
-          "RunAnimationName": "Run",
+          "RunAnimationName": "dinoWalking",
           "JumpAnimationName": "Jump",
           "FallAnimationName": "Fall",
           "ClimbAnimationName": "Climb",

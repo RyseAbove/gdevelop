@@ -4927,6 +4927,23 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "healthBar",
+            "Resizable",
+            "=",
+            "juvenileTrex.Variable(Health) * 128"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
           "type": {
@@ -4981,23 +4998,6 @@
             "Animation",
             "=",
             "\"Ceradactyl die\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "ResizableCapability::ResizableBehavior::SetWidth"
-          },
-          "parameters": [
-            "healthBar",
-            "Resizable",
-            "=",
-            "juvenileTrex.Variable(Health) * 128"
           ]
         }
       ]
@@ -5691,8 +5691,16 @@
       "type": "SmoothCamera::SmoothPlatformerCamera"
     },
     {
+      "name": "Sway",
+      "type": "Sway::Sway"
+    },
+    {
       "name": "Text_AutoTyping",
       "type": "AutoTyping::Text_AutoTyping"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }

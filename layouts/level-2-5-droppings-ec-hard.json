@@ -4126,6 +4126,35 @@
             "RepeatTimer",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ResetTimer"
+          },
+          "parameters": [
+            "",
+            "\"countdown\""
+          ]
+        },
+        {
+          "type": {
+            "value": "TextObject::String"
+          },
+          "parameters": [
+            "SECOND_4",
+            "=",
+            "\"45 SECONDS\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "Time",
+            "=",
+            "45"
+          ]
         }
       ]
     },
@@ -4198,6 +4227,11 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     },
     {
       "colorB": 228,
@@ -4602,8 +4636,30 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"countdown\"",
+            ">=",
+            "1"
+          ]
+        }
+      ],
       "actions": [
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "Time",
+            "-",
+            "1"
+          ]
+        },
         {
           "type": {
             "value": "TextObject::String"
@@ -4611,7 +4667,16 @@
           "parameters": [
             "SECOND_4",
             "=",
-            "LargeNumberToString(Variable(Time))"
+            "LargeNumberToString(Variable(Time)) + \" SECONDS\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ResetTimer"
+          },
+          "parameters": [
+            "",
+            "\"countdown\""
           ]
         }
       ]
