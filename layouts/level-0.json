@@ -2888,7 +2888,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "trex roar, man scream, chomp sound, go to level one"
+          "comment": "this is gonna take you to level select, not the minigame"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",

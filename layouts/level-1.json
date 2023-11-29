@@ -5003,6 +5003,18 @@
       ]
     },
     {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "this is gonna take you to level select, not the minigame"
+    },
+    {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -5229,6 +5241,18 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "this is gonna take you to level select, not the minigame"
     },
     {
       "type": "BuiltinCommonInstructions::Standard",

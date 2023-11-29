@@ -5644,6 +5644,15 @@
         "name": "dinoThrow84",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite127.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite127",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []

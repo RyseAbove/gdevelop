@@ -39,6 +39,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "deathText",
+      "persistentUuid": "5f630829-8c87-438a-8b8c-aa5c29ed2fe8",
+      "width": 0,
+      "x": 875,
+      "y": 190,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -103,6 +118,28 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "deathText",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "You Died",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
     }
   ],
   "events": [
