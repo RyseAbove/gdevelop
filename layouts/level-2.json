@@ -2311,83 +2311,112 @@
           "conditions": [
             {
               "type": {
-                "value": "MouseButtonPressed"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
               },
               "parameters": [
                 "juvenileTrex",
-                "Animation",
-                "=",
-                "\"dinoThrow\""
+                "PlatformerObject"
               ]
             },
             {
               "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.3"
-              ]
-            },
-            {
-              "type": {
-                "value": "FireBullet::FireBullet::FireTowardPosition"
+                "inverted": true,
+                "value": "AdvancedJump::HorizontalDash::IsDashing"
               },
               "parameters": [
                 "juvenileTrex",
-                "FireBullet",
-                "juvenileTrex.PointX(\"bulletPoint\")",
-                "juvenileTrex.PointY(\"bulletPoint\")",
-                "dafishies",
-                "CursorX()",
-                "CursorY()",
-                "300",
+                "HorizontalDash",
                 ""
               ]
             }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
           ],
-          "actions": [
+          "actions": [],
+          "events": [
             {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.3"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Animation",
+                    "=",
+                    "\"dinoThrow\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::FireTowardPosition"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "FireBullet",
+                    "juvenileTrex.PointX(\"bulletPoint\")",
+                    "juvenileTrex.PointY(\"bulletPoint\")",
+                    "dafishies",
+                    "CursorX()",
+                    "CursorY()",
+                    "300",
+                    ""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "Animation",
-                "=",
-                "\"dinoIdle\""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Animation",
+                    "=",
+                    "\"dinoIdle\""
+                  ]
+                }
               ]
             }
           ]
@@ -2437,6 +2466,14 @@
                 "",
                 "\"DINO TITLE\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "juvenileTrex"
               ]
             }
           ]
@@ -2747,6 +2784,12 @@
                 "Health",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
