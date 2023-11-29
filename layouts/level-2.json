@@ -65,7 +65,7 @@
       "name": "juvenileTrex",
       "persistentUuid": "27ab838e-e8c4-4bb8-8c53-3b3a9ffbd68b",
       "width": 530,
-      "x": -808,
+      "x": -730,
       "y": 544,
       "zOrder": 10,
       "numberProperties": [],
@@ -318,7 +318,7 @@
       "name": "hadroTrigger",
       "persistentUuid": "78787957-95fa-4e79-b115-21c4c48a53d3",
       "width": 64,
-      "x": 135,
+      "x": 190,
       "y": 410,
       "zOrder": 18,
       "numberProperties": [],
@@ -840,6 +840,55 @@
               ]
             }
           ]
+        },
+        {
+          "name": "hadroIdle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "runningHadrosaur",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 12,
+                        "y": 20
+                      },
+                      {
+                        "x": 488,
+                        "y": 20
+                      },
+                      {
+                        "x": 488,
+                        "y": 445
+                      },
+                      {
+                        "x": 12,
+                        "y": 445
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1046,6 +1095,55 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "hadroRun12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 12,
+                        "y": 20
+                      },
+                      {
+                        "x": 488,
+                        "y": 20
+                      },
+                      {
+                        "x": 488,
+                        "y": 445
+                      },
+                      {
+                        "x": 12,
+                        "y": 445
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hadroIdle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "hadroIdle",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1971,6 +2069,28 @@
           "parameters": [
             "adultRexHealth"
           ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "runningHadrosaur",
+            "Animation",
+            "=",
+            "\"hadroIdle\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "specialHadrosaur",
+            "Animation",
+            "=",
+            "\"hadroIdle\""
+          ]
         }
       ]
     },
@@ -2160,7 +2280,7 @@
                 "dafishies",
                 "CursorX()",
                 "CursorY()",
-                "350",
+                "300",
                 ""
               ]
             }
@@ -2197,35 +2317,6 @@
                 "Animation",
                 "=",
                 "\"dinoIdle\""
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "Distance"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "dafishies",
-                "1500",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "dafishies",
-                ""
               ]
             }
           ]
@@ -2573,6 +2664,14 @@
               },
               "parameters": [
                 "adultRexHealth"
+              ]
+            },
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "adultRex"
               ]
             }
           ]
