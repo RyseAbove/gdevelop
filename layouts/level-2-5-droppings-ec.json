@@ -782,7 +782,7 @@
       "name": "timr_er",
       "persistentUuid": "3e9db9f1-6b7b-4b7a-a417-5f834653acb2",
       "width": 259,
-      "x": 853,
+      "x": 1420,
       "y": 968,
       "zOrder": 41,
       "numberProperties": [],
@@ -797,7 +797,7 @@
       "name": "SECONDS_1",
       "persistentUuid": "b03e13a9-809f-4db1-b7de-b0ace8f7efcc",
       "width": 0,
-      "x": 1114,
+      "x": 1701,
       "y": 989,
       "zOrder": 42,
       "numberProperties": [],
@@ -3516,10 +3516,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -3799,10 +3799,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -4123,17 +4123,23 @@
     },
     {
       "assetStoreId": "",
-      "bold": false,
+      "bold": true,
       "italic": false,
       "name": "SECONDS_1",
       "smoothed": true,
       "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
-      "variables": [],
+      "variables": [
+        {
+          "name": "Time",
+          "type": "number",
+          "value": 60
+        }
+      ],
       "effects": [],
       "behaviors": [],
-      "string": "1 MINUTE 30 SECONDS",
+      "string": "60",
       "font": "CantoraOne-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 75,

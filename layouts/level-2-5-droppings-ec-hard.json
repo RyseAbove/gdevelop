@@ -43,7 +43,13 @@
       ]
     }
   ],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Countdown",
+      "type": "string",
+      "value": "45"
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -793,7 +799,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "SECOND_4",
+      "name": "COUNTDOWN1",
       "persistentUuid": "d1d00455-29b5-416d-a096-934fa011d79b",
       "width": 0,
       "x": 1464,
@@ -4082,17 +4088,23 @@
     },
     {
       "assetStoreId": "",
-      "bold": false,
+      "bold": true,
       "italic": false,
-      "name": "SECOND_4",
+      "name": "COUNTDOWN1",
       "smoothed": true,
       "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
-      "variables": [],
+      "variables": [
+        {
+          "name": "Countdown",
+          "type": "string",
+          "value": "45"
+        }
+      ],
       "effects": [],
       "behaviors": [],
-      "string": " SECONDS",
+      "string": "45",
       "font": "CantoraOne-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 70,
@@ -4601,22 +4613,6 @@
       ]
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "TextObject::String"
-          },
-          "parameters": [
-            "SECOND_4",
-            "=",
-            "LargeNumberToString(Variable(Time))"
-          ]
-        }
-      ]
-    },
-    {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
@@ -4697,6 +4693,110 @@
           "parameters": [
             "",
             "\"GAME OVER\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "TEXT TIMER",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ResetTimer"
+          },
+          "parameters": [
+            "",
+            "Countdown"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextObject::String"
+          },
+          "parameters": [
+            "COUNTDOWN1",
+            "=",
+            "LargeNumberToString(Variable(Time))"
+          ]
+        }
+      ]
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextObject::String"
+          },
+          "parameters": [
+            "COUNTDOWN1",
+            "=",
+            "ToString(round(abs(TimerElapsedTime(\"Countdown\")-45)))"
+          ]
+        }
+      ]
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Countdown\"",
+            ">=",
+            "45"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"YOU WIN\"",
             ""
           ]
         }

@@ -5691,8 +5691,16 @@
       "type": "SmoothCamera::SmoothPlatformerCamera"
     },
     {
+      "name": "Sway",
+      "type": "Sway::Sway"
+    },
+    {
       "name": "Text_AutoTyping",
       "type": "AutoTyping::Text_AutoTyping"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }
