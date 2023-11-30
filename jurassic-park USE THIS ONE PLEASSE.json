@@ -4097,7 +4097,9 @@
         "file": "download (1).jpg",
         "kind": "image",
         "metadata": "",
-        "name": "download (1).jpg",
+        "name": "download (1).jpg"
+      },
+      {
         "file": "assets/NewSprite76.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4155,7 +4157,9 @@
         "file": "download.jpg",
         "kind": "image",
         "metadata": "",
-        "name": "download.jpg",
+        "name": "download.jpg"
+      },
+      {
         "file": "assets/spinning hadro2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4170,7 +4174,9 @@
         "name": "buddy-holly-weezer-guitar-lick.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
-        "preloadInCache": false,
+        "preloadInCache": false
+      },
+      {
         "alwaysLoaded": false,
         "file": "assets/spinning hadro3.png",
         "kind": "image",
