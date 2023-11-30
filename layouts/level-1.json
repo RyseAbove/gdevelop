@@ -2857,13 +2857,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2899,13 +2893,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera2",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2941,13 +2929,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera3",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2983,13 +2965,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera4",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3025,13 +3001,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera5",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3067,13 +3037,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera6",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3117,18 +3081,12 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.1,
+              "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3164,13 +3122,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death8",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3206,13 +3158,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death9",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3248,13 +3194,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death10",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3290,13 +3230,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death2",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3332,13 +3266,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death3",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3374,13 +3302,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death5",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3416,13 +3338,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death6",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3458,13 +3374,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death4",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3500,13 +3410,7 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death7",
-                  "points": [
-                    {
-                      "name": "bulletPoint",
-                      "x": 166.5,
-                      "y": 106
-                    }
-                  ],
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4618,7 +4522,7 @@
                 "FireBullet",
                 "juvenileTrex.PointX(\"bulletPoint\")",
                 "juvenileTrex.PointY(\"bulletPoint\")",
-                "dafishies",
+                "fishAmmo",
                 "CursorX()",
                 "CursorY()",
                 "350",
@@ -4635,12 +4539,11 @@
       "conditions": [
         {
           "type": {
-            "inverted": true,
             "value": "Distance"
           },
           "parameters": [
             "juvenileTrex",
-            "dafishies",
+            "fishAmmo",
             "1500",
             ""
           ]
@@ -4892,7 +4795,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "dafishies",
+            "fishAmmo",
             "Ceradactlyl",
             "",
             "",
@@ -4911,15 +4814,6 @@
             "1",
             "no",
             "no",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "dafishies",
             ""
           ]
         }
@@ -4949,23 +4843,6 @@
             "Animation",
             "=",
             "\"Ceradactyl die\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "1.75"
-          ]
-        },
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "Ceradactlyl",
-            ""
           ]
         }
       ]
@@ -5117,7 +4994,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "dafishies",
+            "fishAmmo",
             "johnCera",
             "",
             "",
@@ -5131,7 +5008,7 @@
             "value": "Delete"
           },
           "parameters": [
-            "dafishies",
+            "fishAmmo",
             ""
           ]
         },
@@ -5725,8 +5602,16 @@
       "type": "SmoothCamera::SmoothPlatformerCamera"
     },
     {
+      "name": "Sway",
+      "type": "Sway::Sway"
+    },
+    {
       "name": "Text_AutoTyping",
       "type": "AutoTyping::Text_AutoTyping"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }
