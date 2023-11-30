@@ -75,30 +75,12 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite3",
         "smoothed": true,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
-        "smoothed": true,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -399,15 +381,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "dinoIdle9",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
-        "name": "NewSprite6",
         "smoothed": true,
         "userAdded": true
       },
@@ -1353,15 +1326,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite9",
         "smoothed": true,
         "userAdded": false
       },
@@ -4097,9 +4061,12 @@
         "file": "download (1).jpg",
         "kind": "image",
         "metadata": "",
-        "name": "download (1).jpg"
+        "name": "download (1).jpg",
+        "smoothed": false,
+        "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "assets/NewSprite76.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4157,9 +4124,12 @@
         "file": "download.jpg",
         "kind": "image",
         "metadata": "",
-        "name": "download.jpg"
+        "name": "download.jpg",
+        "smoothed": false,
+        "userAdded": false
       },
       {
+        "alwaysLoaded": false,
         "file": "assets/spinning hadro2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4174,7 +4144,8 @@
         "name": "buddy-holly-weezer-guitar-lick.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
-        "preloadInCache": false
+        "preloadInCache": false,
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -5162,6 +5133,1716 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite135",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\adultRexStun5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\adultRexStun6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\adultRexStun7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adultRexStun8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\adultRexStun8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/aviary BRIDGE3.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\aviary BRIDGE3.png2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoDash2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoDash3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoDash4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoDash4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle42.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle43.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoIdle9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoIdle9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow23.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow24.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow27.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow28.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow30.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow31.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow33.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow34.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow36.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow37.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow38.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow39.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow40.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow41.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow42.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow43.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow44.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow45.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow46.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow47.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow48.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow49.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow49.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow50.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow51.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow51.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow52.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow53.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow54.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow55.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow55.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow56.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow56.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow57.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow58.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow58.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow59.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow59.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow60.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow60.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow61.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow61.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow62.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow62.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow63.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow63.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow64.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow65.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow65.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow66.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow66.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow67.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow67.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow68.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow68.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow69.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow69.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow70.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow70.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow71.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow71.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow72.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow72.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow73.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow73.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow74.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow74.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow75.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow75.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow76.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow76.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow77.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow77.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow78.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow78.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow79.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow79.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow80.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow80.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow81.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow81.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow82.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow82.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow83.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow83.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dinoThrow84.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dinoThrow84.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fishlife.png5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\fishlife.png5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floating Out Button Dark Blue_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Floating Out Button Dark Blue_Hovered.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floating Out Button Dark Blue_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Floating Out Button Dark Blue_Idle.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floating Out Button Dark Blue_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Floating Out Button Dark Blue_Pressed.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Greg.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Greg.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadroIdle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\hadroIdle.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadrosaur_paddock TREE2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\hadrosaur_paddock TREE2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hadrosaur_paddock TREE3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\hadrosaur_paddock TREE3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jeep1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\jeep1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jeep2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\jeep2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Level1Trigger.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Level1Trigger.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/longCloud.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\longCloud.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Metal Bar Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Metal Bar Border.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Metal Bar Border2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Metal Bar Border2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\New image5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite136.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite136.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite137.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite137.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite138.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite139.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite139.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite140.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite140.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite141.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite141.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite142.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite142.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite143.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite144.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite145.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite145.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite146.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite146.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite147.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite147.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite148.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite148.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite149.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite149.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite150.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite150.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite151.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite151.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite152.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite152.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite153.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite153.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite154.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite154.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite155.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite155.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite156.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite156.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite157.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite157.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite158.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite158.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite159.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite159.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite31.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite33.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite34.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite36.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite44.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pixel Red Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Pixel Red Fill Bar.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pixel Red Fill Bar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Pixel Red Fill Bar2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pixel Yellow Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Pixel Yellow Fill Bar.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pixel Yellow Fill Bar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Pixel Yellow Fill Bar2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/runningHadrosaur.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\runningHadrosaur.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/satyAway.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\satyAway.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/satyAway2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\satyAway2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/scawy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\scawy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\test9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Yellow Border_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Transparent Button With White Yellow Border_Hovered.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Yellow Border_Hovered2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Transparent Button With White Yellow Border_Hovered2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Yellow Border_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Transparent Button With White Yellow Border_Idle.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Yellow Border_Idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Transparent Button With White Yellow Border_Idle2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Yellow Border_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Transparent Button With White Yellow Border_Pressed.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Yellow Border_Pressed2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Transparent Button With White Yellow Border_Pressed2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/trigger1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\trigger1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/trigger2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\trigger2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary BRIDGE3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary BRIDGE3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary BRIDGE4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary BRIDGE4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL FRONT1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary HILL FRONT1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary HILL3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary HILL5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "aviary HILL6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aviary HILL6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock BUSH FRONT.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock BUSH FRONT.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock GROUND.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock GROUND.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock TREE 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock TREE 2.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock TREE 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock TREE 3.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock TREE 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock TREE 4.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock TREE2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock TREE2.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hadrosaur_paddock TREE3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hadrosaur_paddock TREE3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "IMG_0950.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_0950.PNG",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "MicrosoftTeams-image (1)3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "MicrosoftTeams-image (1)3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "MicrosoftTeams-image.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "MicrosoftTeams-image.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/johnPizza.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\johnPizza.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -7297,6 +8978,67 @@
         "g": 227,
         "r": 80
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "johnPizza",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\johnPizza.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsGroups": [],

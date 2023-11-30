@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.07929689138667445,
+    "zoomFactor": 0.06081793941801197,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,7 +28,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 226,
+      "height": 262,
       "layer": "",
       "name": "dirtFloor",
       "persistentUuid": "95b8900a-e7e0-41b8-9456-67ed4265f8f6",
@@ -44,13 +44,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 217,
+      "height": 252,
       "layer": "",
       "name": "road",
       "persistentUuid": "2a0e76a7-07b4-4ea0-97e0-f30f5c755212",
       "width": 5041,
       "x": 4657,
-      "y": 879,
+      "y": 880,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -2287,67 +2287,6 @@
         "debugMode": false,
         "texture": ""
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "NewSprite",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "download.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 158,
-                        "y": 0
-                      },
-                      {
-                        "x": 158,
-                        "y": 319
-                      },
-                      {
-                        "x": 0,
-                        "y": 319
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "events": [
