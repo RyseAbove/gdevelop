@@ -88,22 +88,6 @@
       "initialVariables": []
     },
     {
-      "angle": 270,
-      "customSize": true,
-      "depth": 1,
-      "height": 11089,
-      "layer": "",
-      "name": "shadowBorder",
-      "persistentUuid": "cb8a571d-c1f2-4c8b-85e0-9e043baad732",
-      "width": 1012,
-      "x": 2750,
-      "y": -3983,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 0,
       "customSize": true,
       "depth": 1,
@@ -1836,7 +1820,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite6",
+                  "image": "border",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
