@@ -18,7 +18,11 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
+<<<<<<< Updated upstream
     "zoomFactor": 0.31928945896901995,
+=======
+    "zoomFactor": 0.21446078431372828,
+>>>>>>> Stashed changes
     "windowMask": false
   },
   "objectsGroups": [
@@ -2857,7 +2861,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2893,7 +2903,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2929,7 +2945,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2965,7 +2987,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3001,7 +3029,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3037,7 +3071,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3086,7 +3126,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3122,7 +3168,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death8",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3158,7 +3210,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death9",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3194,7 +3252,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death10",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3230,7 +3294,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3266,7 +3336,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3302,7 +3378,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3338,7 +3420,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3374,7 +3462,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3410,7 +3504,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death7",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3446,6 +3546,274 @@
               ]
             }
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "name": "Enraged",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Enraged",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Enraged2",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Enraged3",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Enraged4",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Enraged5",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Enraged6",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 212,
+                      "y": 113.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+>>>>>>> Stashed changes
         }
       ]
     },
