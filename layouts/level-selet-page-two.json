@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.3645833333333333,
+    "zoomFactor": 0.270501260396255,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -444,7 +444,7 @@
           },
           "parameters": [
             "",
-            "\"Level 3\"",
+            "\"LEVEL 3 LOADING\"",
             ""
           ]
         }
@@ -470,7 +470,7 @@
           },
           "parameters": [
             "",
-            "\"DINO TITLE\"",
+            "\"DINO DROPPINGS TITLE LOADING\"",
             ""
           ]
         }
@@ -602,6 +602,10 @@
     {
       "name": "Opacity",
       "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
     },
     {
       "name": "PlatformerCharacterAnimator",

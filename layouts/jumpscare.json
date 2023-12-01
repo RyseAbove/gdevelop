@@ -26,14 +26,15 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 5,
+      "height": 829,
       "layer": "",
       "name": "girlFace",
-      "persistentUuid": "1ef6a06f-2370-43af-9d20-7e7cae02402f",
-      "width": 0,
-      "x": -140,
-      "y": -31,
+      "persistentUuid": "b4a739bb-9cda-41c1-ba7a-86d64b78ed9e",
+      "width": 829,
+      "x": 497,
+      "y": 89,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -62,7 +63,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "weezer.jpg",
+                  "image": "MicrosoftTeams-image (2).png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82,16 +83,16 @@
                         "y": 0
                       },
                       {
-                        "x": 2489,
+                        "x": 179,
                         "y": 0
                       },
                       {
-                        "x": 2489,
-                        "y": 1400
+                        "x": 179,
+                        "y": 179
                       },
                       {
                         "x": 0,
-                        "y": 1400
+                        "y": 179
                       }
                     ]
                   ]
@@ -123,9 +124,13 @@
           },
           "parameters": [
             "",
-            "buddy-holly-weezer-guitar-lick.mp3",
+            "scarysounds.gov.mp3",
             "",
-            "100",
+<<<<<<< Updated upstream
+            "5",
+=======
+            "20",
+>>>>>>> Stashed changes
             ""
           ]
         },
@@ -134,7 +139,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "1.8"
+            "2"
           ]
         },
         {
@@ -223,6 +228,10 @@
     {
       "name": "Opacity",
       "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
     },
     {
       "name": "PlatformerCharacterAnimator",
