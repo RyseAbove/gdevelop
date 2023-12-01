@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.06081793941801197,
+    "zoomFactor": 0.07929689138667445,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,7 +28,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 262,
+      "height": 226,
       "layer": "",
       "name": "dirtFloor",
       "persistentUuid": "95b8900a-e7e0-41b8-9456-67ed4265f8f6",
@@ -44,13 +44,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 252,
+      "height": 217,
       "layer": "",
       "name": "road",
       "persistentUuid": "2a0e76a7-07b4-4ea0-97e0-f30f5c755212",
       "width": 5041,
       "x": 4657,
-      "y": 880,
+      "y": 879,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -83,6 +83,22 @@
       "x": 4210,
       "y": 73,
       "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 270,
+      "customSize": true,
+      "depth": 1,
+      "height": 11089,
+      "layer": "",
+      "name": "shadowBorder",
+      "persistentUuid": "cb8a571d-c1f2-4c8b-85e0-9e043baad732",
+      "width": 1012,
+      "x": 2750,
+      "y": -3983,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1820,7 +1836,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "border",
+                  "image": "NewSprite6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2217,7 +2233,7 @@
           "CurrentCharacter": ""
         }
       ],
-      "string": "Right click on M&K to ram",
+      "string": "Right click on M&K or X on controller to ram",
       "font": "",
       "textAlignment": "left",
       "characterSize": 40,
@@ -2264,13 +2280,7 @@
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
-      "content": {
-        "radius": 1500,
-        "color": "255;255;255",
-        "debugMode": false,
-        "texture": ""
-      }
+      "behaviors": []
     }
   ],
   "events": [
