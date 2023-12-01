@@ -45,11 +45,19 @@
       "customSize": false,
       "height": 0,
       "layer": "",
+<<<<<<< Updated upstream
       "name": "TransparentButtonWithWhiteBlueBorder",
       "persistentUuid": "589c6332-07fc-480f-b789-87ef0e89e9eb",
       "width": 0,
       "x": 798,
       "y": 245,
+=======
+      "name": "TransparentButtonWithWhiteYellowBorder",
+      "persistentUuid": "87bfa70c-dbbe-40f8-98b0-ce49e5edb5b2",
+      "width": 0,
+      "x": 159,
+      "y": 339,
+>>>>>>> Stashed changes
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -120,8 +128,13 @@
       ]
     },
     {
+<<<<<<< Updated upstream
       "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
       "name": "TransparentButtonWithWhiteBlueBorder",
+=======
+      "assetStoreId": "54a9a34bb495b15fe0e00f71075908e1ce52d499723617c966ad527229c77c79",
+      "name": "TransparentButtonWithWhiteYellowBorder",
+>>>>>>> Stashed changes
       "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
@@ -131,7 +144,11 @@
         "LeftPadding": 0,
         "RightPadding": 0,
         "PressedLabelOffsetY": 4,
+<<<<<<< Updated upstream
         "BottomPadding": 6,
+=======
+        "BottomPadding": 0,
+>>>>>>> Stashed changes
         "TopPadding": 0,
         "HoveredFadeOutDuration": 0
       },
@@ -141,7 +158,11 @@
           "height": 64,
           "leftMargin": 6,
           "rightMargin": 6,
+<<<<<<< Updated upstream
           "texture": "Transparent Button With White Blue Border_Hovered.png",
+=======
+          "texture": "Transparent Button With White Yellow Border_Hovered.png",
+>>>>>>> Stashed changes
           "tiled": false,
           "topMargin": 10,
           "width": 192
@@ -151,7 +172,11 @@
           "height": 64,
           "leftMargin": 6,
           "rightMargin": 6,
+<<<<<<< Updated upstream
           "texture": "Transparent Button With White Blue Border_Idle.png",
+=======
+          "texture": "Transparent Button With White Yellow Border_Idle.png",
+>>>>>>> Stashed changes
           "tiled": false,
           "topMargin": 10,
           "width": 192
@@ -162,9 +187,15 @@
           "smoothed": true,
           "underlined": false,
           "string": "Menu",
+<<<<<<< Updated upstream
           "font": "Kenney Mini Square.ttf",
           "textAlignment": "center",
           "characterSize": 45,
+=======
+          "font": "Charm-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 50,
+>>>>>>> Stashed changes
           "color": {
             "b": 255,
             "g": 255,
@@ -176,7 +207,11 @@
           "height": 64,
           "leftMargin": 6,
           "rightMargin": 6,
+<<<<<<< Updated upstream
           "texture": "Transparent Button With White Blue Border_Pressed.png",
+=======
+          "texture": "Transparent Button With White Yellow Border_Pressed.png",
+>>>>>>> Stashed changes
           "tiled": false,
           "topMargin": 10,
           "width": 192
@@ -190,10 +225,50 @@
       "conditions": [
         {
           "type": {
+<<<<<<< Updated upstream
             "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
             "TransparentButtonWithWhiteBlueBorder",
+=======
+            "value": "DepartScene"
+          },
+          "parameters": [
+>>>>>>> Stashed changes
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+<<<<<<< Updated upstream
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+=======
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "buddy-holly-weezer-guitar-lick.mp3",
+            "",
+            "20",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "TransparentButtonWithWhiteYellowBorder",
             ""
           ]
         }
@@ -205,6 +280,7 @@
           },
           "parameters": [
             "",
+>>>>>>> Stashed changes
             "\"Title\"",
             ""
           ]
