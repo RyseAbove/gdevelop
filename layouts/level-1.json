@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.31928945896901995,
+    "zoomFactor": 0.3300560049165962,
     "windowMask": false
   },
   "objectsGroups": [
@@ -4885,7 +4885,7 @@
           },
           "parameters": [
             "",
-            "\"GAME OVER\"",
+            "\"End Scene\"",
             ""
           ]
         }
@@ -5221,39 +5221,6 @@
             "",
             "0"
           ]
-        },
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "bossMusicProto.mp3",
-            "",
-            "50",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "FireBullet::FireBullet::FireTowardObject"
-          },
-          "parameters": [
-            "johnCera",
-            "FireBullet",
-            "johnCera.PointX(\"bulletPoint\")",
-            "johnCera.PointY(\"bulletPoint\")",
-            "evil_fish",
-            "juvenileTrex",
-            "300",
-            ""
-          ]
         }
       ]
     },
@@ -5310,6 +5277,27 @@
             "Animation",
             "=",
             "\"Death\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::FireTowardObject"
+          },
+          "parameters": [
+            "johnCera",
+            "FireBullet",
+            "johnCera.PointX(\"bulletPoint\")",
+            "johnCera.PointY(\"bulletPoint\")",
+            "evil_fish",
+            "juvenileTrex",
+            "300",
+            ""
           ]
         }
       ]
