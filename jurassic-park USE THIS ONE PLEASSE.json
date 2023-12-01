@@ -6845,25 +6845,6 @@
         "name": "assets\\johnPizza.png",
         "smoothed": true,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/border.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "border",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "file": "bossMusicProto.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bossMusicProto.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true
       }
     ],
     "resourceFolders": []
