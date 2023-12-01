@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "LEVEL_323",
-  "name": "LEVEL 3",
+  "mangledName": "Level_323",
+  "name": "Level 3",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3895856273827309,
+    "zoomFactor": 0.2531414001298621,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -83,9 +83,11 @@
       "customSize": true,
       "depth": 1,
       "height": 296,
-      "layer": "GRASS",
+      "layer": "",
+      "locked": true,
       "name": "GRASS_REX",
       "persistentUuid": "70248664-21ef-4eb7-8da4-68b973b1993f",
+      "sealed": true,
       "width": 4092,
       "x": -43,
       "y": 813,
@@ -154,7 +156,7 @@
       "layer": "",
       "name": "REX_PLATFORM",
       "persistentUuid": "49ef1ed0-690d-480a-a20f-ce1db6717b4a",
-      "width": 1690,
+      "width": 4254,
       "x": -135,
       "y": 1053,
       "zOrder": 4,
@@ -171,8 +173,8 @@
       "name": "juvenileTrex",
       "persistentUuid": "cbc28a3c-5c06-4f3e-9a95-2dd0a52cc6ba",
       "width": 264,
-      "x": 884,
-      "y": 814,
+      "x": -59,
+      "y": 864,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -182,7 +184,7 @@
       "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "HEALTH",
+      "layer": "",
       "name": "healthBar",
       "persistentUuid": "79770931-0dcb-4251-b0b3-9e28d7a27e0f",
       "width": 0,
@@ -221,195 +223,6 @@
       "x": -210,
       "y": -88,
       "zOrder": 11,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "adultRex",
-      "persistentUuid": "5dc3bd44-1556-4105-b68d-1fcde34e5da5",
-      "width": 0,
-      "x": 3091,
-      "y": 155,
-      "zOrder": 12,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 20,
-      "layer": "",
-      "name": "POND_PLATFORM",
-      "persistentUuid": "bdea9881-6878-462a-a1f5-3c4a6b8cb411",
-      "width": 990,
-      "x": 1555,
-      "y": 1052,
-      "zOrder": 13,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 64,
-      "layer": "",
-      "name": "REX_PLATFORM",
-      "persistentUuid": "14de870d-0d85-46e6-8061-3f90b0f155ae",
-      "width": 666,
-      "x": 1902,
-      "y": 1326,
-      "zOrder": 15,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 297,
-      "layer": "",
-      "name": "REX_PLATFORM",
-      "persistentUuid": "a1980d61-8328-404b-9bb9-95f92c315fb1",
-      "width": 64,
-      "x": 2544,
-      "y": 1051,
-      "zOrder": 16,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 64,
-      "layer": "",
-      "name": "REX_PLATFORM",
-      "persistentUuid": "d97571e5-a247-45a9-b2cd-bc51c1d0e6ec",
-      "width": 906,
-      "x": 2541,
-      "y": 1051,
-      "zOrder": 17,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 292,
-      "layer": "",
-      "name": "SLANT",
-      "persistentUuid": "ba7e1ba5-d2d6-45e5-b3e1-ba80b4374645",
-      "width": 359,
-      "x": 1547,
-      "y": 1051,
-      "zOrder": 5,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 343,
-      "layer": "",
-      "name": "PONDCOLLISIONMS",
-      "persistentUuid": "8c70fa62-db9c-4c59-8aae-b315e5de5f61",
-      "width": 1036,
-      "x": 1547,
-      "y": 1072,
-      "zOrder": 19,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 32,
-      "height": 26,
-      "layer": "OXYGEN BAR",
-      "name": "BlueDotBar",
-      "persistentUuid": "e17ec6aa-81ff-4f85-8552-1e2d70d30717",
-      "width": 602,
-      "x": 1286,
-      "y": 103,
-      "zOrder": 20,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "OXYGEN BAR",
-      "name": "OXYGEN",
-      "persistentUuid": "82f37608-5623-4b14-823a-c948b301cb4e",
-      "width": 0,
-      "x": 1692,
-      "y": 32,
-      "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "contamination",
-      "persistentUuid": "38578399-0c7d-402c-9e16-75a8f1a105fe",
-      "width": 0,
-      "x": 1649,
-      "y": 956,
-      "zOrder": 22,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 269,
-      "layer": "",
-      "name": "SLANT",
-      "persistentUuid": "70006d57-2727-465d-8045-18fd3d6bb7f1",
-      "width": 452,
-      "x": 909,
-      "y": 292,
-      "zOrder": 23,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 259,
-      "layer": "",
-      "name": "night_rex",
-      "persistentUuid": "6c839d5f-5466-43c9-b2fa-edff34954ccb",
-      "width": 344,
-      "x": 372,
-      "y": 461,
-      "zOrder": 24,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -743,324 +556,6 @@
           ]
         }
       ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "POND_PLATFORM",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior",
-          "canBeGrabbed": true,
-          "platformType": "Jumpthru",
-          "yGrabOffset": 0
-        }
-      ],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite164",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": false,
-      "assetStoreId": "",
-      "name": "SLANT",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior",
-          "canBeGrabbed": true,
-          "platformType": "NormalPlatform",
-          "yGrabOffset": 0
-        }
-      ],
-      "animations": [
-        {
-          "name": "SLANT",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "SLANT",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "PONDCOLLISIONMS",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "POND COLLSISOSN",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite165",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
-      "name": "BlueDotBar",
-      "tags": "",
-      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "RepeatTimer",
-          "type": "RepeatEveryXSeconds::RepeatTimer",
-          "TimerName": "MyTimer",
-          "TimerLength": 1,
-          "Limit": -1,
-          "Counter": 0
-        }
-      ],
-      "content": {
-        "BarTopPadding": 3,
-        "BarLeftPadding": 4,
-        "BarRightPadding": 4,
-        "BarBottomPadding": 4,
-        "EasingDuration": 0,
-        "PreviousHighValueDuration": 0,
-        "ShowLabel": false,
-        "InitialValue": 10,
-        "MaxValue": 10
-      },
-      "childrenContent": {
-        "Background": {
-          "bottomMargin": 4,
-          "height": 26,
-          "leftMargin": 2,
-          "rightMargin": 2,
-          "texture": "Dot Bar Blue Border.png",
-          "tiled": false,
-          "topMargin": 3,
-          "width": 118
-        },
-        "Buffer": {
-          "bottomMargin": 0,
-          "height": 19,
-          "leftMargin": 0,
-          "rightMargin": 0,
-          "texture": "Dot Bar Blue Fill Bar.png",
-          "tiled": true,
-          "topMargin": 0,
-          "width": 21
-        },
-        "FillBar": {
-          "bottomMargin": 0,
-          "height": 19,
-          "leftMargin": 0,
-          "rightMargin": 0,
-          "texture": "Dot Bar Blue Fill Bar.png",
-          "tiled": true,
-          "topMargin": 0,
-          "width": 21
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "OXYGEN",
-          "font": "",
-          "textAlignment": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        }
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "OXYGEN",
-      "smoothed": true,
-      "tags": "",
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "OXYGEN",
-      "font": "CantoraOne-Regular.ttf",
-      "textAlignment": "left",
-      "characterSize": 50,
-      "color": {
-        "b": 255,
-        "g": 158,
-        "r": 80
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "contamination",
-      "smoothed": true,
-      "tags": "",
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "This pond has been contaminated",
-      "font": "",
-      "textAlignment": "left",
-      "characterSize": 40,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      }
     }
   ],
   "events": [
@@ -1070,64 +565,6 @@
         "includeConfig": 0
       },
       "target": "CONTROLS"
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "BAKGROUND",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [],
-      "parameters": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "BlueDotBar"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "RepeatTimer",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "contamination"
-          ]
-        }
-      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -1260,203 +697,6 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": []
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "OXYGEN LEVELS",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [],
-      "parameters": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "PONDCOLLISIONMS",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "BlueDotBar",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetLabelShown"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "yes",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "RepeatTimer",
-            "yes"
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "20"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::ChangePlatformType"
-          },
-          "parameters": [
-            "POND_PLATFORM",
-            "Platform",
-            "\"Platform\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "contamination",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "PONDCOLLISIONMS",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "BlueDotBar"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "RepeatTimer",
-            "no"
-          ]
-        },
-        {
-          "type": {
-            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "=",
-            "10",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "RepeatTimer",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "-",
-            "1",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
-          },
-          "parameters": [
-            "BlueDotBar",
-            "=",
-            "0",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"End Scene\"",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     }
   ],
   "layers": [
@@ -1472,7 +712,7 @@
       "isLocked": false,
       "name": "BACKGROUND",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -1504,7 +744,7 @@
       "isLocked": false,
       "name": "CLOUDS",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -1536,7 +776,7 @@
       "isLocked": false,
       "name": "HILLS 2",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -1568,7 +808,7 @@
       "isLocked": false,
       "name": "HILLS",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -1613,38 +853,6 @@
           "width": 0
         }
       ],
-      "effects": [
-        {
-          "effectType": "Scene3D::HemisphereLight",
-          "name": "3D Light",
-          "doubleParameters": {
-            "elevation": 45,
-            "intensity": 1,
-            "rotation": 0
-          },
-          "stringParameters": {
-            "groundColor": "64;64;64",
-            "skyColor": "255;255;255",
-            "top": "Y-"
-          },
-          "booleanParameters": {}
-        }
-      ]
-    },
-    {
-      "ambientLightColorB": 200,
-      "ambientLightColorG": 200,
-      "ambientLightColorR": 200,
-      "camera3DFarPlaneDistance": 10000,
-      "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 0.1,
-      "followBaseLayerCamera": false,
-      "isLightingLayer": false,
-      "isLocked": false,
-      "name": "GRASS",
-      "renderingType": "",
-      "visibility": false,
-      "cameras": [],
       "effects": [
         {
           "effectType": "Scene3D::HemisphereLight",
@@ -1734,22 +942,6 @@
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
       "camera3DNearPlaneDistance": 0.1,
-      "followBaseLayerCamera": true,
-      "isLightingLayer": true,
-      "isLocked": false,
-      "name": "Lighting",
-      "renderingType": "",
-      "visibility": false,
-      "cameras": [],
-      "effects": []
-    },
-    {
-      "ambientLightColorB": 200,
-      "ambientLightColorG": 200,
-      "ambientLightColorR": 200,
-      "camera3DFarPlaneDistance": 10000,
-      "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 0.1,
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
@@ -1782,30 +974,14 @@
       "camera3DFarPlaneDistance": 10000,
       "camera3DFieldOfView": 45,
       "camera3DNearPlaneDistance": 0.1,
-      "followBaseLayerCamera": false,
-      "isLightingLayer": false,
+      "followBaseLayerCamera": true,
+      "isLightingLayer": true,
       "isLocked": false,
-      "name": "OXYGEN BAR",
+      "name": "Lighting",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
-      "effects": [
-        {
-          "effectType": "Scene3D::HemisphereLight",
-          "name": "3D Light",
-          "doubleParameters": {
-            "elevation": 45,
-            "intensity": 1,
-            "rotation": 0
-          },
-          "stringParameters": {
-            "groundColor": "64;64;64",
-            "skyColor": "255;255;255",
-            "top": "Y-"
-          },
-          "booleanParameters": {}
-        }
-      ]
+      "effects": []
     }
   ],
   "behaviorsSharedData": [
@@ -1852,10 +1028,6 @@
     {
       "name": "PlatformerObject",
       "type": "PlatformBehavior::PlatformerObjectBehavior"
-    },
-    {
-      "name": "RepeatTimer",
-      "type": "RepeatEveryXSeconds::RepeatTimer"
     },
     {
       "name": "Resizable",
