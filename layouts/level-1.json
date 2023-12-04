@@ -2857,7 +2857,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2893,7 +2899,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2929,7 +2941,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2965,7 +2983,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3001,7 +3025,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3037,7 +3067,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3086,7 +3122,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3122,7 +3164,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death8",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3158,7 +3206,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death9",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3194,7 +3248,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death10",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3230,7 +3290,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3266,7 +3332,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3302,7 +3374,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3338,7 +3416,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3374,7 +3458,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3410,7 +3500,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death7",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3453,8 +3549,262 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
-              "sprites": []
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged2.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged3.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged4.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged5.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged6.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 181.5,
+                      "y": 111
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                }
+              ]
             }
           ]
         }
