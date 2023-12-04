@@ -6841,7 +6841,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnPizza.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/johnPizza.png\",\"extension\":\".png\"}",
         "name": "assets\\johnPizza.png",
         "smoothed": true,
         "userAdded": true
@@ -6871,6 +6871,122 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PIZZZAAA.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "PIZZZAAA",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_johnPizza.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\johnPizza",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_johnPizza2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\johnPizza2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_johnPizza3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\johnPizza3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/SLANMRT.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "SLANMRT",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/RSLANR.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "RSLANR",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/OXYEHE NSHICOLLISIOSO.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "OXYEHE NSHICOLLISIOSO",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ponfoklat.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ponfoklat",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Green Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Green Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/e0754c6008a7f3ec35ce32d663263982cd7a67f91974977d1c1247b90891b1b9_Dot Bar Green Border.png",
+          "name": "Dot Bar Green Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Green Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Green Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/11956f33bb9a6ca4997feced357ff80d8b2597367951d4ab34cd67d5a2d8b054_Dot Bar Green Fill Bar.png",
+          "name": "Dot Bar Green Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/anotherone.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "anotherone",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/anothrurponmg.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "anothrurponmg",
         "smoothed": true,
         "userAdded": true
       }
@@ -7169,12 +7285,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7219,12 +7335,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7269,12 +7385,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7319,12 +7435,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7369,12 +7485,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7419,12 +7535,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7469,12 +7585,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7519,12 +7635,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8318,12 +8434,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8360,12 +8476,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8402,12 +8518,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8444,12 +8560,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8486,12 +8602,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8528,12 +8644,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8570,12 +8686,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8612,12 +8728,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -9016,16 +9132,133 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
-          "name": "",
+          "name": "assets\\johnPizza",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\johnPizza",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\johnPizza2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\johnPizza3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                },
                 {
                   "hasCustomCollisionMask": true,
                   "image": "assets\\johnPizza.png",

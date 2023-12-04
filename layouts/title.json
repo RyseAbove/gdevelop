@@ -180,7 +180,7 @@
           "smoothed": true,
           "underlined": false,
           "string": "Start  ",
-          "font": "Charm-Regular.ttf",
+          "font": "CantoraOne-Regular.ttf",
           "textAlignment": "center",
           "characterSize": 125,
           "color": {
@@ -244,7 +244,7 @@
           "smoothed": true,
           "underlined": false,
           "string": "Level Select",
-          "font": "Charm-Regular.ttf",
+          "font": "CantoraOne-Regular.ttf",
           "textAlignment": "center",
           "characterSize": 110,
           "color": {
