@@ -9,7 +9,7 @@
   "title": "",
   "v": 7,
   "uiSettings": {
-    "grid": true,
+    "grid": false,
     "gridType": "rectangular",
     "gridWidth": 32,
     "gridHeight": 32,
@@ -17,7 +17,7 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": true,
+    "snap": false,
     "zoomFactor": 0.3645833333333333,
     "windowMask": false
   },
@@ -284,7 +284,7 @@
           "width": 256
         },
         "Label": {
-          "bold": true,
+          "bold": false,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -348,7 +348,7 @@
           "width": 256
         },
         "Label": {
-          "bold": true,
+          "bold": false,
           "italic": false,
           "smoothed": true,
           "underlined": false,
@@ -576,7 +576,7 @@
           },
           "parameters": [
             "",
-            "\"Level 0\"",
+            "\"LEVEL 0 LOADING\"",
             ""
           ]
         }
@@ -602,7 +602,7 @@
           },
           "parameters": [
             "",
-            "\"Level 1\"",
+            "\"LEVEL 1 LOADING\"",
             ""
           ]
         }
@@ -628,7 +628,7 @@
           },
           "parameters": [
             "",
-            "\"Level 2\"",
+            "\"LEVEL 2 LOADING\"",
             ""
           ]
         }
@@ -708,6 +708,10 @@
     {
       "name": "Opacity",
       "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
     },
     {
       "name": "PlatformerCharacterAnimator",
