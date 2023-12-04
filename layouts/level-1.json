@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.26167741169921793,
+    "zoomFactor": 0.18781732880530613,
     "windowMask": false
   },
   "objectsGroups": [
@@ -3446,6 +3446,17 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Enraged",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": []
+            }
+          ]
         }
       ]
     },
@@ -5234,25 +5245,27 @@
             ""
           ]
         }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
+      ],
+      "events": [
         {
-          "type": {
-            "value": "FireBullet::FireBullet::FireTowardObject"
-          },
-          "parameters": [
-            "johnCera",
-            "FireBullet",
-            "johnCera.PointX(\"bulletPoint\")",
-            "johnCera.PointY(\"bulletPoint\")",
-            "evil_fish",
-            "juvenileTrex",
-            "300",
-            ""
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::FireTowardObject"
+              },
+              "parameters": [
+                "johnCera",
+                "FireBullet",
+                "johnCera.PointX(\"bulletPoint\")",
+                "johnCera.PointY(\"bulletPoint\")",
+                "evil_fish",
+                "juvenileTrex",
+                "300",
+                ""
+              ]
+            }
           ]
         }
       ]
