@@ -225,6 +225,10 @@
       "type": "OpacityCapability::OpacityBehavior"
     },
     {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
       "name": "PlatformerCharacterAnimator",
       "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator"
     },
