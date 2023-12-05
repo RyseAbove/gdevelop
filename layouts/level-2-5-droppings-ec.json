@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.35269049347712345,
+    "zoomFactor": 0.2368956372544661,
     "windowMask": false
   },
   "objectsGroups": [
@@ -39,6 +39,9 @@
         },
         {
           "name": "SPINNING_REX"
+        },
+        {
+          "name": "johnPizza"
         }
       ]
     }
@@ -800,6 +803,96 @@
       "x": 1701,
       "y": 989,
       "zOrder": 42,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "PIZZA_SPAWN",
+      "persistentUuid": "8f3b562e-f6ad-4f37-a03a-15671479d448",
+      "width": 0,
+      "x": 1603,
+      "y": -348,
+      "zOrder": 43,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "PIZZA_SPAWN",
+      "persistentUuid": "ff705af6-5d21-4a7f-90ab-0f5e6a892fe9",
+      "width": 0,
+      "x": 1611,
+      "y": -255,
+      "zOrder": 44,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "PIZZA_SPAWN",
+      "persistentUuid": "b6f4a9d4-3524-47cb-8dce-677eb50768e5",
+      "width": 0,
+      "x": 1628,
+      "y": -141,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "PIZZA_SPAWN",
+      "persistentUuid": "1e076378-8c5d-427b-953e-53573ea99bb6",
+      "width": 0,
+      "x": 1717,
+      "y": -340,
+      "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "PIZZA_SPAWN",
+      "persistentUuid": "4f1395cb-138e-4c43-849d-61356792ce8b",
+      "width": 0,
+      "x": 1721,
+      "y": -242,
+      "zOrder": 47,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "PIZZA_SPAWN",
+      "persistentUuid": "6ce00e51-dd0e-4b46-95d7-086801097ec2",
+      "width": 0,
+      "x": 1713,
+      "y": -141,
+      "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4148,6 +4241,99 @@
         "g": 227,
         "r": 80
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "PIZZA_SPAWN",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet",
+          "FireCooldown": 5,
+          "HasJustFired": false,
+          "FiringArc": 45,
+          "BulletQuantity": 1,
+          "AngleVariance": 0,
+          "RotateBullet": true,
+          "AmmoQuantity": 0,
+          "ShotsPerReload": 0,
+          "ReloadDuration": 1,
+          "MaxAmmo": 1e+23,
+          "ShotsBeforeNextReload": 0,
+          "TotalShotsFired": 0,
+          "TotalBulletsCreated": 0,
+          "StartingAmmo": 1e+22,
+          "TotalReloadsCompleted": 0,
+          "UnlimitedAmmo": true,
+          "ReloadInProgress": false,
+          "HeatIncreasePerShot": 0,
+          "HeatLevel": 0,
+          "AutomaticReloading": true,
+          "OverheatDuration": 0,
+          "LinearCoolingRate": 0.1,
+          "ExponentialCoolingRate": 0.3,
+          "BulletLayer": "",
+          "RandomizedAngle": 0,
+          "BulletSpeedVariance": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "PIZZZAAA",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "PIZZZAAA",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "events": [
@@ -4448,7 +4634,36 @@
             "RandomInRange(-600, -32)",
             "SPINNING_REX",
             "90",
-            "1000",
+            "850",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "25"
+          ]
+        },
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::Fire"
+          },
+          "parameters": [
+            "PIZZA_SPAWN",
+            "FireBullet",
+            "RandomInRange(40, 1860)",
+            "RandomInRange(-600, -32)",
+            "johnPizza",
+            "90",
+            "800",
             ""
           ]
         }
