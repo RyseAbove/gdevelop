@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2216924727500521,
+    "zoomFactor": 0.2531414001298631,
     "windowMask": false
   },
   "objectsGroups": [
@@ -32,6 +32,17 @@
           "name": "SICKNESS2"
         }
       ]
+    },
+    {
+      "name": "pond_plats",
+      "objects": [
+        {
+          "name": "another_jumpothr"
+        },
+        {
+          "name": "pond_platfor"
+        }
+      ]
     }
   ],
   "variables": [],
@@ -40,15 +51,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1145,
+      "height": 2020,
       "layer": "BACKGROUND",
       "locked": true,
       "name": "BACKGROUND_REX",
       "persistentUuid": "eb4968ad-d57a-4e0d-ae02-f67e2c6aab99",
       "sealed": true,
-      "width": 4190,
-      "x": -63,
-      "y": -32,
+      "width": 9137,
+      "x": -3085,
+      "y": -334,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -58,15 +69,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1024,
+      "height": 1040,
       "layer": "FOG",
       "locked": true,
       "name": "FOG2",
       "persistentUuid": "77a0fdcd-d325-4922-8e40-ed165442f3a9",
       "sealed": true,
-      "width": 4124,
-      "x": -60,
-      "y": 72,
+      "width": 9318,
+      "x": -3549,
+      "y": 621,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -82,8 +93,8 @@
       "name": "CLOUDS_REX",
       "persistentUuid": "18075590-3947-4d12-8118-9a6832d2b67c",
       "sealed": true,
-      "width": 4176,
-      "x": -105,
+      "width": 8625,
+      "x": -3035,
       "y": -95,
       "zOrder": 4,
       "numberProperties": [],
@@ -96,12 +107,11 @@
       "depth": 1,
       "height": 296,
       "layer": "GRASS",
-      "locked": true,
       "name": "GRASS_REX",
       "persistentUuid": "70248664-21ef-4eb7-8da4-68b973b1993f",
-      "width": 4092,
-      "x": -43,
-      "y": 813,
+      "width": 8600,
+      "x": -3037,
+      "y": 808,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -115,8 +125,8 @@
       "layer": "HILL FRONT",
       "name": "HILL_FRONT",
       "persistentUuid": "63393d7c-1ea0-461c-a306-b7c3402bdd0d",
-      "width": 4317,
-      "x": -182,
+      "width": 13370,
+      "x": -3268,
       "y": -164,
       "zOrder": 6,
       "numberProperties": [],
@@ -133,8 +143,8 @@
       "name": "HILLS_REX_1",
       "persistentUuid": "04078531-35d7-4a27-8ccd-a0a7cd931a9d",
       "sealed": true,
-      "width": 4212,
-      "x": -72,
+      "width": 8671,
+      "x": -3090,
       "y": 82,
       "zOrder": 7,
       "numberProperties": [],
@@ -151,8 +161,8 @@
       "name": "HILLS_REX_2",
       "persistentUuid": "9a7adaa1-7c95-448f-8567-1d80e5f5f1ea",
       "sealed": true,
-      "width": 4199,
-      "x": -64,
+      "width": 8658,
+      "x": -3043,
       "y": 208,
       "zOrder": 8,
       "numberProperties": [],
@@ -163,12 +173,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 64,
+      "height": 387,
       "layer": "",
       "name": "REX_PLATFORM",
       "persistentUuid": "49ef1ed0-690d-480a-a20f-ce1db6717b4a",
-      "width": 3719,
-      "x": -2920,
+      "width": 408,
+      "x": 156,
       "y": 1074,
       "zOrder": 4,
       "numberProperties": [],
@@ -193,12 +203,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
       "layer": "HEALTH",
       "name": "healthBar",
       "persistentUuid": "79770931-0dcb-4251-b0b3-9e28d7a27e0f",
-      "width": 0,
+      "width": 511,
       "x": 24,
       "y": 18,
       "zOrder": 10,
@@ -210,12 +221,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 271,
+      "height": 726,
       "layer": "HILL FRONT",
       "name": "FRONT_BG",
       "persistentUuid": "a83a40c4-17ce-4ccc-95da-0fc86e1178dc",
-      "width": 4367,
-      "x": -221,
+      "width": 13460,
+      "x": -3300,
       "y": 842,
       "zOrder": 5,
       "numberProperties": [],
@@ -226,13 +237,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1352,
+      "height": 3675,
       "layer": "NIGHT",
       "name": "night_rex",
       "persistentUuid": "5ed09e92-ee8e-46c2-837e-d1cff8f39bda",
       "width": 8556,
       "x": -2935,
-      "y": -88,
+      "y": -377,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -273,12 +284,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 341,
+      "height": 338,
       "layer": "",
       "name": "SLANT",
       "persistentUuid": "a20abdf7-dbb2-433d-a056-e78e4a656503",
-      "width": 423,
-      "x": 777,
+      "width": 664,
+      "x": 539,
       "y": 1075,
       "zOrder": 14,
       "numberProperties": [],
@@ -309,9 +320,9 @@
       "layer": "",
       "name": "OXYGEBCOLLISOSOIN",
       "persistentUuid": "7273b0e3-8eb7-45ab-a395-2bb9238cfb9b",
-      "width": 1122,
-      "x": 786,
-      "y": 1184,
+      "width": 1701,
+      "x": 520,
+      "y": 1193,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -325,7 +336,7 @@
       "layer": "",
       "name": "RSLANT",
       "persistentUuid": "eff5cb88-4a0e-410b-8dd9-0b4b790c3d28",
-      "width": 386,
+      "width": 731,
       "x": 1533,
       "y": 1080,
       "zOrder": 17,
@@ -341,8 +352,8 @@
       "layer": "",
       "name": "pond_platfor",
       "persistentUuid": "82abe58d-711e-4ab3-b5f3-f08783630e9f",
-      "width": 1147,
-      "x": 785,
+      "width": 1686,
+      "x": 578,
       "y": 1076,
       "zOrder": 20,
       "numberProperties": [],
@@ -398,12 +409,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 51,
+      "height": 339,
       "layer": "",
       "name": "REX_PLATFORM",
       "persistentUuid": "47092c18-2eca-4ad3-b42b-0a93c5d75731",
-      "width": 3720,
-      "x": 1903,
+      "width": 807,
+      "x": 2238,
       "y": 1078,
       "zOrder": 27,
       "numberProperties": [],
@@ -414,14 +425,404 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1125,
+      "height": 3742,
       "layer": "DAY",
       "name": "DAY",
       "persistentUuid": "8a55e604-9da7-4118-b567-9eb383b9cc82",
       "width": 8550,
       "x": -2928,
-      "y": -22,
+      "y": -460,
       "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 2207,
+      "layer": "",
+      "name": "basrries",
+      "persistentUuid": "99a46c8f-e21b-4009-b73d-42f61b2bfa60",
+      "width": 1880,
+      "x": 5564,
+      "y": -1083,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 243,
+      "layer": "",
+      "name": "REX_PLATFORM",
+      "persistentUuid": "9a3961d6-215e-45c6-90a5-5492bfbc02ba",
+      "width": 1734,
+      "x": -2944,
+      "y": 1074,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 2205,
+      "layer": "",
+      "name": "basrries",
+      "persistentUuid": "ce1f919c-a378-4ab3-85c4-efa8a6e57fff",
+      "width": 1870,
+      "x": -4781,
+      "y": -1067,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1325,
+      "layer": "",
+      "name": "basrries",
+      "persistentUuid": "e7e34c13-7e4c-4aee-bd43-9045f758272b",
+      "width": 8608,
+      "x": -3012,
+      "y": -1485,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "level_3_rex",
+      "persistentUuid": "a13a9490-ff3c-4a2f-8623-a7985d677d64",
+      "width": 0,
+      "x": 2360,
+      "y": 599,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 316,
+      "layer": "",
+      "name": "RSLANT",
+      "persistentUuid": "a70b90ef-9e6c-4d21-b2b2-0d3483c4b6ab",
+      "width": 600,
+      "x": -416,
+      "y": 1073,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 331,
+      "layer": "",
+      "name": "SLANT",
+      "persistentUuid": "afce437f-feb5-47b0-b8aa-fce7ceaa4b4d",
+      "width": 550,
+      "x": -1221,
+      "y": 1073,
+      "zOrder": 41,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "layer": "",
+      "name": "REX_PLATFORM",
+      "persistentUuid": "9b475d27-cf06-42f9-97ed-f6a47183e19e",
+      "width": 806,
+      "x": -929,
+      "y": 1385,
+      "zOrder": 42,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 264,
+      "layer": "",
+      "name": "OXYGEBCOLLISOSOIN",
+      "persistentUuid": "2c36058e-c3f0-4ff1-8abd-36e9618af538",
+      "width": 1703,
+      "x": -1252,
+      "y": 1177,
+      "zOrder": 43,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 27,
+      "layer": "",
+      "name": "pond_platfor",
+      "persistentUuid": "618bd22c-0b6b-4f57-a8c5-71faacf30463",
+      "width": 1349,
+      "x": -1214,
+      "y": 1074,
+      "zOrder": 44,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 343,
+      "layer": "",
+      "name": "SLANT",
+      "persistentUuid": "a6263c9b-8bde-4548-be31-9fa866ec3e9d",
+      "width": 638,
+      "x": 3024,
+      "y": 1079,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 343,
+      "layer": "",
+      "name": "RSLANT",
+      "persistentUuid": "77dd0a3d-61fe-40c0-95f1-42b683256626",
+      "width": 913,
+      "x": 3936,
+      "y": 1086,
+      "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "layer": "",
+      "name": "REX_PLATFORM",
+      "persistentUuid": "230a0237-ae6b-4bc7-8bb1-c38a6866f1a3",
+      "width": 792,
+      "x": 3396,
+      "y": 1404,
+      "zOrder": 47,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 330,
+      "layer": "",
+      "name": "OXYGEBCOLLISOSOIN",
+      "persistentUuid": "368f44f9-1166-40c2-9fe9-4087171181cd",
+      "width": 1924,
+      "x": 3020,
+      "y": 1161,
+      "zOrder": 48,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "pond_platfor",
+      "persistentUuid": "6fd07b30-bd4f-4cf9-85af-8eee047a5912",
+      "width": 1972,
+      "x": 2909,
+      "y": 1079,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 362,
+      "layer": "",
+      "name": "REX_PLATFORM",
+      "persistentUuid": "14cfaa1a-d47d-4099-b6d6-bf15d336dc43",
+      "width": 1271,
+      "x": 4840,
+      "y": 1085,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "b175beab-2c07-4f35-b60f-26e19f69503a",
+      "width": 0,
+      "x": 3282,
+      "y": 941,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "046643db-729e-4411-82c3-37bd946f8cc9",
+      "width": 0,
+      "x": 3915,
+      "y": 925,
+      "zOrder": 52,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "49982582-4c6a-434c-8999-53b9c98bc295",
+      "width": 0,
+      "x": 4635,
+      "y": 956,
+      "zOrder": 53,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "a08d9650-d43b-4a82-a2fb-69439434431f",
+      "width": 0,
+      "x": 1972,
+      "y": 953,
+      "zOrder": 54,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "5ef93806-0cc7-4458-9aac-9756bb0dba60",
+      "width": 0,
+      "x": 1586,
+      "y": 962,
+      "zOrder": 55,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "ab85281a-d56b-433d-b693-7e21f2fe4cc9",
+      "width": 0,
+      "x": 1038,
+      "y": 950,
+      "zOrder": 56,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "5ee2e10d-3df2-4932-bf71-9ff2168e80f2",
+      "width": 0,
+      "x": -954,
+      "y": 953,
+      "zOrder": 57,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "2623b27e-fe2c-40ca-ba80-fe15111d361f",
+      "width": 0,
+      "x": -503,
+      "y": 950,
+      "zOrder": 58,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "6eacc14e-085a-4134-941d-04caf5bb05e7",
+      "width": 0,
+      "x": -143,
+      "y": 950,
+      "zOrder": 59,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -500,7 +901,16 @@
       "width": 2048,
       "variables": [],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "RepeatTimer",
+          "type": "RepeatEveryXSeconds::RepeatTimer",
+          "TimerName": "MyTimer",
+          "TimerLength": 1,
+          "Limit": -1,
+          "Counter": 0
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -778,7 +1188,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite2",
+                  "image": "taco74dotgoc",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -794,20 +1204,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 6,
-                        "y": 15
+                        "x": 67,
+                        "y": 191
                       },
                       {
-                        "x": 52,
-                        "y": 15
+                        "x": 426,
+                        "y": 191
                       },
                       {
-                        "x": 52,
-                        "y": 56
+                        "x": 426,
+                        "y": 391
                       },
                       {
-                        "x": 6,
-                        "y": 56
+                        "x": 67,
+                        "y": 391
                       }
                     ]
                   ]
@@ -966,6 +1376,14 @@
                         "y": 0
                       },
                       {
+                        "x": 2,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 62.5
+                      },
+                      {
                         "x": 64,
                         "y": 64
                       },
@@ -1029,15 +1447,23 @@
                     [
                       {
                         "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
                         "y": 64
                       },
                       {
                         "x": 0,
                         "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 61.5
+                      },
+                      {
+                        "x": 61.5,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
                       }
                     ]
                   ]
@@ -1590,6 +2016,1101 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "basrries",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "basrries",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floorrex2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "level_3_rex",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ThreeDFlip",
+          "type": "ThreeDFlip::ThreeDFlip",
+          "Duration": 500,
+          "IsFlipped": false,
+          "IsFlipping": false,
+          "Width": 500,
+          "ElapsedTime": 500,
+          "Toggle": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "level3run",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.15,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3run",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3run2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3run3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3run4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3run5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3run6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3run7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "level3stun",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.15,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3stun",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3stun2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3stun3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3stun4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "level3hide",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.15,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3hide",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3hide2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3hide3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3hide4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level3hide5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 160
+                      },
+                      {
+                        "x": 504,
+                        "y": 468
+                      },
+                      {
+                        "x": 8,
+                        "y": 468
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "POND_BUBBLES",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "POND BUBBLRS",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "POND BUBBLRS10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 30,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 24
+                      },
+                      {
+                        "x": 85,
+                        "y": 104
+                      },
+                      {
+                        "x": 30,
+                        "y": 104
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "events": [
@@ -1601,18 +3122,143 @@
       "target": "CONTROLS"
     },
     {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "HEALTH",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
       "actions": [
         {
           "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
+            "value": "Health::Health::SetHealth"
           },
           "parameters": [
-            "FOG2",
-            "Opacity",
+            "juvenileTrex",
+            "Health",
+            "4",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "Health",
             "=",
-            "97"
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Or"
+          },
+          "parameters": [],
+          "subInstructions": [
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Health",
+                "<=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Health",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Credits\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "adultRex",
+            "juvenileTrex",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "-",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
           ]
         }
       ]
@@ -1621,6 +3267,88 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
+        {
+          "type": {
+            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+          },
+          "parameters": [
+            "healthBar",
+            "Resizable",
+            "=",
+            "juvenileTrex.Variable(Health) * 128"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "CONTAMINATION"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "another_hidden_text"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "another_another_hidden_text3"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "DAY",
+            "Opacity",
+            "=",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "OXYGEN_BAR",
+            "RepeatTimer",
+            ""
+          ]
+        },
         {
           "type": {
             "value": "SetCameraCenterX"
@@ -1652,7 +3380,7 @@
           "parameters": [
             "hills_TheWeekend",
             "=",
-            "juvenileTrex.X()*0.5",
+            "juvenileTrex.X()*1.25",
             "\"HILL FRONT\"",
             ""
           ]
@@ -1716,13 +3444,11 @@
         },
         {
           "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
+            "value": "ChangeBlendMode"
           },
           "parameters": [
-            "night_rex",
-            "Opacity",
-            "=",
-            "100"
+            "DAY",
+            "1"
           ]
         },
         {
@@ -1730,16 +3456,10 @@
             "value": "ChangeBlendMode"
           },
           "parameters": [
-            "DAY",
+            "POND_BUBBLES",
             "1"
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
+        },
         {
           "type": {
             "value": "Cache"
@@ -1755,60 +3475,13 @@
           "parameters": [
             "OXYGENTEXT"
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "OXYGEN_BAR",
-            "RepeatTimer",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "CONTAMINATION"
-          ]
         },
         {
           "type": {
             "value": "Cache"
           },
           "parameters": [
-            "another_hidden_text"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "another_another_hidden_text3"
+            "basrries"
           ]
         },
         {
@@ -1816,18 +3489,23 @@
             "value": "OpacityCapability::OpacityBehavior::SetValue"
           },
           "parameters": [
-            "DAY",
+            "FOG2",
             "Opacity",
             "=",
-            "0"
+            "97"
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "night_rex",
+            "Opacity",
+            "=",
+            "100"
+          ]
+        },
         {
           "type": {
             "value": "OpacityCapability::OpacityBehavior::SetValue"
@@ -1849,6 +3527,15 @@
             "=",
             "1"
           ]
+        },
+        {
+          "type": {
+            "value": "SetSceneVariableAsBoolean"
+          },
+          "parameters": [
+            "canThrow",
+            "True"
+          ]
         }
       ]
     },
@@ -1857,7 +3544,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "OXYGEN",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -2025,7 +3711,7 @@
               },
               "parameters": [
                 "",
-                "\"End Scene\"",
+                "\"GAME OVER\"",
                 ""
               ]
             }
@@ -2108,269 +3794,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
-      "name": "OXYGEN",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "another_pondcollisdosj",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "OXYGENTEXT",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "RepeatTimer",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "Distance"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "OXYGEBCOLLISOSOIN",
-                "2000",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "juvenileTrex",
-                "another_pondcollisdosj",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "OXYGEN_BAR"
-              ]
-            },
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "OXYGENTEXT"
-              ]
-            },
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "=",
-                "10",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "RepeatTimer",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "RepeatTimer"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetLabelShown"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "yes",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "-",
-                "1",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "=",
-                "0",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"End Scene\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
-              },
-              "parameters": [
-                "OXYGEN_BAR",
-                "=",
-                "5",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "another_hidden_text",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Visible"
-              },
-              "parameters": [
-                "another_hidden_text"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "90"
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "CONTAMINATION_AGin",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::ChangePlatformType"
-              },
-              "parameters": [
-                "another_jumpothr",
-                "Platform",
-                "\"Platform\""
-              ]
-            }
-          ]
-        }
-      ],
-      "parameters": []
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
       "name": "DAY NIGHT CYCLE",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -2404,6 +3827,570 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
+          },
+          "parameters": [
+            "FOG2",
+            "RepeatTimer",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "FOG2",
+            "Opacity",
+            "-",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::Value"
+          },
+          "parameters": [
+            "DAY",
+            "Opacity",
+            "=",
+            "180"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level_3_rex",
+            "Animation",
+            "=",
+            "\"level_3_rexHide\""
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "fish throw",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoThrow\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoIdle\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "canThrow",
+                "True"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "AdvancedJump::HorizontalDash::IsDashing"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "HorizontalDash",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Animation",
+                    "=",
+                    "\"dinoThrow\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "Animation",
+                    "=",
+                    "\"dinoThrow\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::FireTowardPosition"
+                  },
+                  "parameters": [
+                    "juvenileTrex",
+                    "FireBullet",
+                    "juvenileTrex.PointX(\"bulletPoint\")",
+                    "juvenileTrex.PointY(\"bulletPoint\")",
+                    "fishAmmo",
+                    "CursorX()",
+                    "CursorY()",
+                    "350",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::HasJustFired"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "FireBullet",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::SetOverheatDurationOp"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "FireBullet",
+                "=",
+                "2",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Animation",
+            "=",
+            "\"dinoThrow\""
+          ]
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "Animation",
+                "=",
+                "\"dinoIdle\""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "ADULT REX",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceVers"
+          },
+          "parameters": [
+            "level_3_rex",
+            "juvenileTrex",
+            "1",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "fishAmmo",
+            "level_3_rex",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "fishAmmo",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level_3_rex",
+            "Animation",
+            "=",
+            "\"level3stun\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Arreter"
+          },
+          "parameters": [
+            "level_3_rex"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level_3_rex",
+            "Animation",
+            "=",
+            "\"level3run\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AddForceVers"
+          },
+          "parameters": [
+            "level_3_rex",
+            "juvenileTrex",
+            "1",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "level_3_rex",
+            "REX_PLATFORM",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "level_3_rex",
+            "SLANT",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "level_3_rex",
+            "RSLANT",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "level_3_rex",
+            "basrries",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "level_3_rex",
+            "pond_platfor",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "level_3_rex",
+            "another_jumpothr",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "level_3_rex",
+            "pond_plats",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::ChangePlatformType"
+          },
+          "parameters": [
+            "pond_plats",
+            "Platform",
+            "\"Platform\""
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Distance"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "level_3_rex",
+                "2000",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::ChangePlatformType"
+              },
+              "parameters": [
+                "pond_plats",
+                "Platform",
+                "\"Jumpthru\""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "level_3_rex",
+            "pond_plats",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::ChangePlatformType"
+          },
+          "parameters": [
+            "pond_plats",
+            "Platform",
+            "\"Jumpthru\""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -2419,7 +4406,7 @@
       "isLocked": false,
       "name": "BACKGROUND",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2451,7 +4438,7 @@
       "isLocked": false,
       "name": "CLOUDS",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2483,7 +4470,7 @@
       "isLocked": false,
       "name": "HILLS 2",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2515,7 +4502,7 @@
       "isLocked": false,
       "name": "HILLS",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2588,9 +4575,41 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
+      "name": "rex layer",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
       "name": "GRASS",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2622,7 +4641,7 @@
       "isLocked": false,
       "name": "HILL FRONT",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2654,7 +4673,39 @@
       "isLocked": false,
       "name": "FOG",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "BUBBLES",
+      "renderingType": "",
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2686,7 +4737,7 @@
       "isLocked": false,
       "name": "NIGHT",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": []
     },
@@ -2702,7 +4753,7 @@
       "isLocked": false,
       "name": "DAY",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -2765,38 +4816,6 @@
       "isLightingLayer": false,
       "isLocked": false,
       "name": "HEALTH",
-      "renderingType": "",
-      "visibility": true,
-      "cameras": [],
-      "effects": [
-        {
-          "effectType": "Scene3D::HemisphereLight",
-          "name": "3D Light",
-          "doubleParameters": {
-            "elevation": 45,
-            "intensity": 1,
-            "rotation": 0
-          },
-          "stringParameters": {
-            "groundColor": "64;64;64",
-            "skyColor": "255;255;255",
-            "top": "Y-"
-          },
-          "booleanParameters": {}
-        }
-      ]
-    },
-    {
-      "ambientLightColorB": 200,
-      "ambientLightColorG": 200,
-      "ambientLightColorR": 200,
-      "camera3DFarPlaneDistance": 10000,
-      "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 0.1,
-      "followBaseLayerCamera": false,
-      "isLightingLayer": false,
-      "isLocked": false,
-      "name": "DISEASED",
       "renderingType": "",
       "visibility": true,
       "cameras": [],
@@ -2887,6 +4906,10 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
+    },
+    {
+      "name": "ThreeDFlip",
+      "type": "ThreeDFlip::ThreeDFlip"
     },
     {
       "name": "Tween",

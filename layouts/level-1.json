@@ -2452,68 +2452,6 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "fishiesBucket",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "bucket",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"bucket\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":96,\\\"width\\\":96,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,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\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (imported)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAUdJREFUeF7t00ENAAAMg8DVv+nJuA8zQALrrqMGRunBrwD4CQpQAGwA41tAAbABjG8BBcAGML4FFAAbwPgWUABsAONbQAGwAYxvAQXABjC+BRQAG8D4FlAAbADjW0ABsAGMbwEFwAYwvgUUABvA+BZQAGwA41tAAbABjG8BBcAGML4FFAAbwPgWUABsAONbQAGwAYxvAQXABjC+BRQAG8D4FlAAbADjW0ABsAGMbwEFwAYwvgUUABvA+BZQAGwA41tAAbABjG8BBcAGML4FFAAbwPgWUABsAONbQAGwAYxvAQXABjC+BRQAG8D4FlAAbADjW0ABsAGMbwEFwAYwvgUUABvA+BZQAGwA41tAAbABjG8BBcAGML4FFAAbwPgWUABsAONbQAGwAYxvAQXABjC+BRQAG8D4FlAAbADjW0ABsAGMbwE4wAPsJQBhIWjfGQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (imported)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,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\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"bucket\"],\"name\":\"bucket\"}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "bucket",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 3
-                      },
-                      {
-                        "x": 90,
-                        "y": 3
-                      },
-                      {
-                        "x": 90,
-                        "y": 92
-                      },
-                      {
-                        "x": 6,
-                        "y": 92
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "chatTrigger1",
       "tags": "",
       "type": "Sprite",
@@ -3721,68 +3659,6 @@
           }
         }
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "fishAmmo",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "fishInQuestion",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "fishInQuestion",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 32,
-                        "y": 20
-                      },
-                      {
-                        "x": 110,
-                        "y": 20
-                      },
-                      {
-                        "x": 110,
-                        "y": 94
-                      },
-                      {
-                        "x": 32,
-                        "y": 94
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     },
     {
       "adaptCollisionMaskAutomatically": true,
