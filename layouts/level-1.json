@@ -3409,7 +3409,43 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Death7",
+                  "image": "Death11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Death12",
                   "points": [],
                   "originPoint": {
                     "name": "origine",

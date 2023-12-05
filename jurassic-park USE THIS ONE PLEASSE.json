@@ -3548,7 +3548,7 @@
         "alwaysLoaded": false,
         "file": "assets/Death8.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death8.png\"}",
         "name": "Death8",
         "smoothed": false,
         "userAdded": false
@@ -3620,7 +3620,7 @@
         "alwaysLoaded": false,
         "file": "assets/Death9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death9.png\"}",
         "name": "Death9",
         "smoothed": false,
         "userAdded": false
@@ -3647,7 +3647,7 @@
         "alwaysLoaded": false,
         "file": "assets/Death10.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Death10.png\"}",
         "name": "Death10",
         "smoothed": true,
         "userAdded": false
@@ -7023,6 +7023,24 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death12",
         "smoothed": true,
         "userAdded": true
       }
