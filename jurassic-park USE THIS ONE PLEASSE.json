@@ -6841,7 +6841,7 @@
         "alwaysLoaded": false,
         "file": "assets/johnPizza.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/johnPizza.png\",\"extension\":\".png\"}",
         "name": "assets\\johnPizza.png",
         "smoothed": true,
         "userAdded": true
@@ -6871,6 +6871,28 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Enraged.png\",\"extension\":\".png\"}",
         "name": "assets\\Enraged.png",
+        "file": "assets/NewSprite160.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PIZZZAAA.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "PIZZZAAA",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_johnPizza.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\johnPizza",
         "smoothed": true,
         "userAdded": false
       },
@@ -7214,12 +7236,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7264,12 +7286,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7314,12 +7336,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7364,12 +7386,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7414,12 +7436,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7464,12 +7486,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7514,12 +7536,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -7564,12 +7586,12 @@
                         "y": 151
                       },
                       {
-                        "x": 286.5,
-                        "y": 400
+                        "x": 311.5,
+                        "y": 426
                       },
                       {
-                        "x": 186.5,
-                        "y": 400
+                        "x": 191.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8363,12 +8385,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8405,12 +8427,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8447,12 +8469,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8489,12 +8511,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8531,12 +8553,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8573,12 +8595,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8615,12 +8637,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -8657,12 +8679,12 @@
                         "y": 128
                       },
                       {
-                        "x": 322.5,
-                        "y": 400
+                        "x": 271.5,
+                        "y": 421
                       },
                       {
-                        "x": 125,
-                        "y": 400
+                        "x": 136.5,
+                        "y": 436
                       }
                     ]
                   ]
@@ -9061,16 +9083,133 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
-          "name": "",
+          "name": "assets\\johnPizza",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\johnPizza",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\johnPizza2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\johnPizza3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 18
+                      },
+                      {
+                        "x": 49,
+                        "y": 55
+                      },
+                      {
+                        "x": 11,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                },
                 {
                   "hasCustomCollisionMask": true,
                   "image": "assets\\johnPizza.png",
