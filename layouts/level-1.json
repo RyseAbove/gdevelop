@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.18781732880530613,
+    "zoomFactor": 0.19415059112740993,
     "windowMask": false
   },
   "objectsGroups": [
@@ -122,7 +122,7 @@
       "persistentUuid": "9f41d46b-2002-4111-9599-c407fdf245eb",
       "width": 18408,
       "x": -959,
-      "y": 737,
+      "y": 756,
       "zOrder": 101,
       "numberProperties": [],
       "stringProperties": [],
@@ -218,8 +218,8 @@
       "name": "Ceradactlyl",
       "persistentUuid": "046e72f7-8567-40ad-b522-c0209716d9bf",
       "width": 264,
-      "x": 10466,
-      "y": 274,
+      "x": 10624,
+      "y": 6,
       "zOrder": 107,
       "numberProperties": [],
       "stringProperties": [],
@@ -234,7 +234,7 @@
       "name": "Ceradactlyl",
       "persistentUuid": "c5b0e6a6-e64b-4135-91a2-580e3bed6535",
       "width": 264,
-      "x": 7907,
+      "x": 7370,
       "y": -35,
       "zOrder": 107,
       "numberProperties": [],
@@ -250,8 +250,8 @@
       "name": "Pillars",
       "persistentUuid": "02a3772b-f9ed-4b0c-b6ec-5ae9a0b0ea29",
       "width": 309,
-      "x": 10480,
-      "y": 313,
+      "x": 10638,
+      "y": 45,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -266,7 +266,7 @@
       "name": "Pillars",
       "persistentUuid": "733ced70-999f-4c3b-9d03-bb776254a356",
       "width": 309,
-      "x": 7923,
+      "x": 7386,
       "y": -45,
       "zOrder": 1,
       "numberProperties": [],
@@ -564,7 +564,7 @@
       "name": "Pillars",
       "persistentUuid": "748e35e9-a89d-4945-9854-5dff1dc27519",
       "width": 806,
-      "x": 12947,
+      "x": 18336,
       "y": -526,
       "zOrder": 1,
       "numberProperties": [],
@@ -580,7 +580,7 @@
       "name": "johnCera",
       "persistentUuid": "800dab34-3e35-4183-89c2-955d38362b1a",
       "width": 867,
-      "x": 12833,
+      "x": 18222,
       "y": -714,
       "zOrder": 125,
       "numberProperties": [],
@@ -627,8 +627,8 @@
       "name": "bossTrigger",
       "persistentUuid": "8d787113-7dd7-4bea-9855-f0ff5b317b92",
       "width": 37,
-      "x": 11653,
-      "y": 46,
+      "x": 17042,
+      "y": -73,
       "zOrder": 128,
       "numberProperties": [],
       "stringProperties": [],
@@ -643,7 +643,7 @@
       "name": "bossExplain",
       "persistentUuid": "d7cdf96c-885e-4b2c-87e2-a5b4c73cc99e",
       "width": 487,
-      "x": 11949,
+      "x": 17338,
       "y": 145,
       "zOrder": 129,
       "numberProperties": [],
@@ -659,7 +659,7 @@
       "name": "barrier_left",
       "persistentUuid": "968093c1-ad54-406b-8262-1ebc9647c24d",
       "width": 64,
-      "x": 11400,
+      "x": 16789,
       "y": -1336,
       "zOrder": 130,
       "numberProperties": [],
@@ -675,7 +675,7 @@
       "name": "barrier_right",
       "persistentUuid": "c749a151-f18a-4663-94af-2b57703285d4",
       "width": 64,
-      "x": 14656,
+      "x": 20045,
       "y": -1235,
       "zOrder": 131,
       "numberProperties": [],
@@ -691,7 +691,7 @@
       "name": "barrier_top",
       "persistentUuid": "fdcda694-7de9-4e0b-bf21-ab55be45df53",
       "width": 3224,
-      "x": 11437,
+      "x": 16826,
       "y": -1122,
       "zOrder": 132,
       "numberProperties": [],
@@ -707,7 +707,7 @@
       "name": "barrier_bottom",
       "persistentUuid": "bdbcb26f-a162-49f4-89b8-f6c7ccc8c96d",
       "width": 3283,
-      "x": 11466,
+      "x": 16855,
       "y": 1097,
       "zOrder": 133,
       "numberProperties": [],
@@ -722,10 +722,282 @@
       "layer": "",
       "name": "zaWalkway",
       "persistentUuid": "441d1044-22bc-4f2d-901f-181eac7cf31a",
-      "width": 11673,
+      "width": 15986,
       "x": 5653,
       "y": 55,
       "zOrder": 134,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 1640,
+      "layer": "",
+      "name": "Pillars",
+      "persistentUuid": "7c8ac143-33b9-43b1-a664-3bf91a22cca5",
+      "width": 410,
+      "x": 17853,
+      "y": -112,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylBoss",
+      "persistentUuid": "d770ef30-2769-4da9-82be-5203cae57ad4",
+      "width": 256,
+      "x": 17874,
+      "y": -85,
+      "zOrder": 135,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 1172,
+      "layer": "",
+      "name": "Pillars",
+      "persistentUuid": "2f944a04-f817-4d0f-8df9-5deeac8d9436",
+      "width": 293,
+      "x": 19301,
+      "y": 255,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylBoss",
+      "persistentUuid": "11fefc60-0f9e-46e6-8d8d-a6bbb2f83070",
+      "width": 256,
+      "x": 19300,
+      "y": 191,
+      "zOrder": 136,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 1300,
+      "layer": "",
+      "name": "Pillars",
+      "persistentUuid": "25886e59-af2e-42bf-a4f0-a098cd0e08ce",
+      "width": 325,
+      "x": 17048,
+      "y": 173,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylBoss",
+      "persistentUuid": "fff10ee9-b784-4e04-8674-0cd6167985cd",
+      "width": 256,
+      "x": 17059,
+      "y": 126,
+      "zOrder": 137,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 264,
+      "layer": "",
+      "name": "Ceradactlyl",
+      "persistentUuid": "32e09088-e837-4bdb-ac1d-3b727ef7c709",
+      "width": 264,
+      "x": 9531,
+      "y": 70,
+      "zOrder": 107,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 1236,
+      "layer": "",
+      "name": "Pillars",
+      "persistentUuid": "b31ed9ca-c3e8-401a-bace-6baf7b04f83f",
+      "width": 309,
+      "x": 9545,
+      "y": 109,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 264,
+      "layer": "",
+      "name": "Ceradactlyl",
+      "persistentUuid": "02d7594d-15b2-4aa0-b653-c5e7145c38e7",
+      "width": 264,
+      "x": 8619,
+      "y": -207,
+      "zOrder": 107,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 1236,
+      "layer": "",
+      "name": "Pillars",
+      "persistentUuid": "e61685ea-2c74-4357-ad28-4187386eff7d",
+      "width": 309,
+      "x": 8633,
+      "y": -168,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylDiveDown",
+      "persistentUuid": "3553794c-6b67-412c-abff-bd56763f0684",
+      "width": 256,
+      "x": 11453,
+      "y": 82,
+      "zOrder": 138,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylDiveDown",
+      "persistentUuid": "cf225292-d8cd-4eec-a9d3-db9f85e30a82",
+      "width": 256,
+      "x": 12277,
+      "y": 82,
+      "zOrder": 138,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylDiveDown",
+      "persistentUuid": "88e5e75c-6a49-4854-91c0-028645a2ac11",
+      "width": 256,
+      "x": 13235,
+      "y": 82,
+      "zOrder": 138,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylDiveDown",
+      "persistentUuid": "8e5de01a-0cae-4f4d-ba63-b04c26b2273c",
+      "width": 256,
+      "x": 14035,
+      "y": 82,
+      "zOrder": 138,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylDiveDown",
+      "persistentUuid": "7017e2e1-1661-4e4d-a086-4a8226d909b5",
+      "width": 256,
+      "x": 14896,
+      "y": 82,
+      "zOrder": 138,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 256,
+      "layer": "",
+      "name": "CeradactlylDiveDown",
+      "persistentUuid": "16ef9860-af77-41c6-8047-6e0e1afcd215",
+      "width": 256,
+      "x": 15745,
+      "y": 82,
+      "zOrder": 138,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "layer": "",
+      "name": "brigeplatform",
+      "persistentUuid": "0a21d9d0-4682-4a91-90ae-278b7d8b3dbb",
+      "width": 4824,
+      "x": 16689,
+      "y": 727,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2262,6 +2534,2187 @@
       ]
     },
     {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "CeradactlylBoss",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Health",
+          "type": "Health::Health",
+          "Health": 5,
+          "CurrentHealth": 0,
+          "MaxHealth": 5,
+          "DamageCooldown": 0,
+          "IsHealthJustDamaged": false,
+          "HealthRegenRate": 0,
+          "HealthRegenDelay": 0,
+          "AllowOverHealing": false,
+          "HitAtLeastOnce": false,
+          "IsJustHealed": false,
+          "CurrentShieldPoints": 0,
+          "MaxShieldPoints": 0,
+          "ShieldDuration": 0,
+          "ShieldRegenRate": 0,
+          "BlockExcessDamage": false,
+          "ShieldRegenDelay": 0,
+          "IsShieldJustDamaged": false,
+          "ChanceToDodge": 0,
+          "DamageToBeApplied": 0,
+          "FlatDamageReduction": 0,
+          "PercentDamageReduction": 0,
+          "IsJustDodged": false,
+          "ShieldDamageTaken": 0,
+          "HealToBeApplied": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Ceradactlyl idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ceradactlyl dive",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 102,
+                        "y": 60.5
+                      },
+                      {
+                        "x": 65.5,
+                        "y": 38
+                      },
+                      {
+                        "x": 25.5,
+                        "y": 43
+                      },
+                      {
+                        "x": 19,
+                        "y": 106
+                      },
+                      {
+                        "x": 75.5,
+                        "y": 103.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 93.5,
+                        "y": 51
+                      },
+                      {
+                        "x": 67,
+                        "y": 36
+                      },
+                      {
+                        "x": 16,
+                        "y": 54.5
+                      },
+                      {
+                        "x": 20.5,
+                        "y": 106
+                      },
+                      {
+                        "x": 80,
+                        "y": 102
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 101,
+                        "y": 58.5
+                      },
+                      {
+                        "x": 64.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 16.5,
+                        "y": 64.5
+                      },
+                      {
+                        "x": 28.5,
+                        "y": 110.5
+                      },
+                      {
+                        "x": 79.5,
+                        "y": 102
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 96.5,
+                        "y": 109
+                      },
+                      {
+                        "x": 92,
+                        "y": 71.5
+                      },
+                      {
+                        "x": 54.5,
+                        "y": 69
+                      },
+                      {
+                        "x": 30,
+                        "y": 88
+                      },
+                      {
+                        "x": 71,
+                        "y": 130.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 94.5,
+                        "y": 107.5
+                      },
+                      {
+                        "x": 81,
+                        "y": 62.5
+                      },
+                      {
+                        "x": 25.5,
+                        "y": 86.5
+                      },
+                      {
+                        "x": 60,
+                        "y": 124
+                      },
+                      {
+                        "x": 84.5,
+                        "y": 123
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 87,
+                        "y": 78
+                      },
+                      {
+                        "x": 58,
+                        "y": 68
+                      },
+                      {
+                        "x": 30,
+                        "y": 92
+                      },
+                      {
+                        "x": 62,
+                        "y": 127
+                      },
+                      {
+                        "x": 93,
+                        "y": 117.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 121.5,
+                        "y": 145.5
+                      },
+                      {
+                        "x": 101,
+                        "y": 119.5
+                      },
+                      {
+                        "x": 71,
+                        "y": 162
+                      },
+                      {
+                        "x": 116,
+                        "y": 184
+                      },
+                      {
+                        "x": 126,
+                        "y": 171
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 161
+                      },
+                      {
+                        "x": 105,
+                        "y": 123
+                      },
+                      {
+                        "x": 65.5,
+                        "y": 150
+                      },
+                      {
+                        "x": 101,
+                        "y": 180
+                      },
+                      {
+                        "x": 120.5,
+                        "y": 178
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 140,
+                        "y": 156.5
+                      },
+                      {
+                        "x": 102.5,
+                        "y": 177
+                      },
+                      {
+                        "x": 88.5,
+                        "y": 224
+                      },
+                      {
+                        "x": 162,
+                        "y": 215
+                      },
+                      {
+                        "x": 161.5,
+                        "y": 181.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 207.5,
+                        "y": 208
+                      },
+                      {
+                        "x": 187.5,
+                        "y": 170
+                      },
+                      {
+                        "x": 152.5,
+                        "y": 227
+                      },
+                      {
+                        "x": 157,
+                        "y": 276.5
+                      },
+                      {
+                        "x": 222,
+                        "y": 251.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 228,
+                        "y": 181.5
+                      },
+                      {
+                        "x": 198,
+                        "y": 119
+                      },
+                      {
+                        "x": 180,
+                        "y": 161.5
+                      },
+                      {
+                        "x": 171,
+                        "y": 244.5
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 241.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 230,
+                        "y": 107
+                      },
+                      {
+                        "x": 208.5,
+                        "y": 59
+                      },
+                      {
+                        "x": 190.5,
+                        "y": 114.5
+                      },
+                      {
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ceradactyl die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 220,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 191.5,
+                        "y": 80
+                      },
+                      {
+                        "x": 148.5,
+                        "y": 115
+                      },
+                      {
+                        "x": 169.5,
+                        "y": 182.5
+                      },
+                      {
+                        "x": 223.5,
+                        "y": 191
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 220,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 172.5,
+                        "y": 64.5
+                      },
+                      {
+                        "x": 137.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 129.5,
+                        "y": 129.5
+                      },
+                      {
+                        "x": 192,
+                        "y": 161
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 178,
+                        "y": 67
+                      },
+                      {
+                        "x": 135.5,
+                        "y": 32
+                      },
+                      {
+                        "x": 92,
+                        "y": 92.5
+                      },
+                      {
+                        "x": 107.5,
+                        "y": 132.5
+                      },
+                      {
+                        "x": 146,
+                        "y": 113.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 135.5,
+                        "y": 89.5
+                      },
+                      {
+                        "x": 106.5,
+                        "y": 57
+                      },
+                      {
+                        "x": 69,
+                        "y": 89.5
+                      },
+                      {
+                        "x": 66.5,
+                        "y": 169
+                      },
+                      {
+                        "x": 134,
+                        "y": 169
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 136,
+                        "y": 152
+                      },
+                      {
+                        "x": 116.5,
+                        "y": 111.5
+                      },
+                      {
+                        "x": 67,
+                        "y": 159
+                      },
+                      {
+                        "x": 64.5,
+                        "y": 236
+                      },
+                      {
+                        "x": 136,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 127,
+                        "y": 265.5
+                      },
+                      {
+                        "x": 108.5,
+                        "y": 223.5
+                      },
+                      {
+                        "x": 65,
+                        "y": 256
+                      },
+                      {
+                        "x": 61.5,
+                        "y": 361
+                      },
+                      {
+                        "x": 129.5,
+                        "y": 354.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 220,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 172.5,
+                        "y": 64.5
+                      },
+                      {
+                        "x": 137.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 129.5,
+                        "y": 129.5
+                      },
+                      {
+                        "x": 192,
+                        "y": 161
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "CeradactlylDiveDown",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Ceradactlyl idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31,
+                        "y": 76
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 126.5,
+                        "y": 65
+                      },
+                      {
+                        "x": 103,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 74.5,
+                        "y": 115.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 108.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ceradactlyl dive",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.15,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 102,
+                        "y": 60.5
+                      },
+                      {
+                        "x": 65.5,
+                        "y": 38
+                      },
+                      {
+                        "x": 25.5,
+                        "y": 43
+                      },
+                      {
+                        "x": 19,
+                        "y": 106
+                      },
+                      {
+                        "x": 75.5,
+                        "y": 103.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 93.5,
+                        "y": 51
+                      },
+                      {
+                        "x": 67,
+                        "y": 36
+                      },
+                      {
+                        "x": 16,
+                        "y": 54.5
+                      },
+                      {
+                        "x": 20.5,
+                        "y": 106
+                      },
+                      {
+                        "x": 80,
+                        "y": 102
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 101,
+                        "y": 58.5
+                      },
+                      {
+                        "x": 64.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 16.5,
+                        "y": 64.5
+                      },
+                      {
+                        "x": 28.5,
+                        "y": 110.5
+                      },
+                      {
+                        "x": 79.5,
+                        "y": 102
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 96.5,
+                        "y": 109
+                      },
+                      {
+                        "x": 92,
+                        "y": 71.5
+                      },
+                      {
+                        "x": 54.5,
+                        "y": 69
+                      },
+                      {
+                        "x": 30,
+                        "y": 88
+                      },
+                      {
+                        "x": 71,
+                        "y": 130.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 94.5,
+                        "y": 107.5
+                      },
+                      {
+                        "x": 81,
+                        "y": 62.5
+                      },
+                      {
+                        "x": 25.5,
+                        "y": 86.5
+                      },
+                      {
+                        "x": 60,
+                        "y": 124
+                      },
+                      {
+                        "x": 84.5,
+                        "y": 123
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 87,
+                        "y": 78
+                      },
+                      {
+                        "x": 58,
+                        "y": 68
+                      },
+                      {
+                        "x": 30,
+                        "y": 92
+                      },
+                      {
+                        "x": 62,
+                        "y": 127
+                      },
+                      {
+                        "x": 93,
+                        "y": 117.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 121.5,
+                        "y": 145.5
+                      },
+                      {
+                        "x": 101,
+                        "y": 119.5
+                      },
+                      {
+                        "x": 71,
+                        "y": 162
+                      },
+                      {
+                        "x": 116,
+                        "y": 184
+                      },
+                      {
+                        "x": 126,
+                        "y": 171
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 161
+                      },
+                      {
+                        "x": 105,
+                        "y": 123
+                      },
+                      {
+                        "x": 65.5,
+                        "y": 150
+                      },
+                      {
+                        "x": 101,
+                        "y": 180
+                      },
+                      {
+                        "x": 120.5,
+                        "y": 178
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 140,
+                        "y": 156.5
+                      },
+                      {
+                        "x": 102.5,
+                        "y": 177
+                      },
+                      {
+                        "x": 88.5,
+                        "y": 224
+                      },
+                      {
+                        "x": 162,
+                        "y": 215
+                      },
+                      {
+                        "x": 161.5,
+                        "y": 181.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 207.5,
+                        "y": 208
+                      },
+                      {
+                        "x": 187.5,
+                        "y": 170
+                      },
+                      {
+                        "x": 152.5,
+                        "y": 227
+                      },
+                      {
+                        "x": 157,
+                        "y": 276.5
+                      },
+                      {
+                        "x": 222,
+                        "y": 251.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 228,
+                        "y": 181.5
+                      },
+                      {
+                        "x": 198,
+                        "y": 119
+                      },
+                      {
+                        "x": 180,
+                        "y": 161.5
+                      },
+                      {
+                        "x": 171,
+                        "y": 244.5
+                      },
+                      {
+                        "x": 234.5,
+                        "y": 241.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactlyl18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 230,
+                        "y": 107
+                      },
+                      {
+                        "x": 208.5,
+                        "y": 59
+                      },
+                      {
+                        "x": 190.5,
+                        "y": 114.5
+                      },
+                      {
+                        "x": 180,
+                        "y": 192
+                      },
+                      {
+                        "x": 249,
+                        "y": 185
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ceradactyl die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 220,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 191.5,
+                        "y": 80
+                      },
+                      {
+                        "x": 148.5,
+                        "y": 115
+                      },
+                      {
+                        "x": 169.5,
+                        "y": 182.5
+                      },
+                      {
+                        "x": 223.5,
+                        "y": 191
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 220,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 172.5,
+                        "y": 64.5
+                      },
+                      {
+                        "x": 137.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 129.5,
+                        "y": 129.5
+                      },
+                      {
+                        "x": 192,
+                        "y": 161
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 178,
+                        "y": 67
+                      },
+                      {
+                        "x": 135.5,
+                        "y": 32
+                      },
+                      {
+                        "x": 92,
+                        "y": 92.5
+                      },
+                      {
+                        "x": 107.5,
+                        "y": 132.5
+                      },
+                      {
+                        "x": 146,
+                        "y": 113.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 135.5,
+                        "y": 89.5
+                      },
+                      {
+                        "x": 106.5,
+                        "y": 57
+                      },
+                      {
+                        "x": 69,
+                        "y": 89.5
+                      },
+                      {
+                        "x": 66.5,
+                        "y": 169
+                      },
+                      {
+                        "x": 134,
+                        "y": 169
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 136,
+                        "y": 152
+                      },
+                      {
+                        "x": 116.5,
+                        "y": 111.5
+                      },
+                      {
+                        "x": 67,
+                        "y": 159
+                      },
+                      {
+                        "x": 64.5,
+                        "y": 236
+                      },
+                      {
+                        "x": 136,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 127,
+                        "y": 265.5
+                      },
+                      {
+                        "x": 108.5,
+                        "y": 223.5
+                      },
+                      {
+                        "x": 65,
+                        "y": 256
+                      },
+                      {
+                        "x": 61.5,
+                        "y": 361
+                      },
+                      {
+                        "x": 129.5,
+                        "y": 354.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Ceradactyl die7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 220,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 172.5,
+                        "y": 64.5
+                      },
+                      {
+                        "x": 137.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 129.5,
+                        "y": 129.5
+                      },
+                      {
+                        "x": 192,
+                        "y": 161
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Clowd",
@@ -2788,7 +5241,7 @@
         {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet",
-          "FireCooldown": 1,
+          "FireCooldown": 1.5,
           "HasJustFired": false,
           "FiringArc": 7,
           "BulletQuantity": 1,
@@ -2857,7 +5310,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2893,7 +5352,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2929,7 +5394,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -2965,7 +5436,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3001,7 +5478,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3037,7 +5520,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "johnCera6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3086,7 +5575,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3122,7 +5617,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death8",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3158,7 +5659,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death9",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3194,7 +5701,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death10",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3230,7 +5743,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3266,7 +5785,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3302,7 +5827,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3338,7 +5869,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3374,7 +5911,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3410,7 +5953,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death11",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3446,7 +5995,13 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Death12",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -3488,9 +6043,263 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": []
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.12,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged2.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged3.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged4.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged5.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Enraged6.png",
+                  "points": [
+                    {
+                      "name": "bulletPoint",
+                      "x": 172.5,
+                      "y": 100
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 70,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 73
+                      },
+                      {
+                        "x": 246,
+                        "y": 222
+                      },
+                      {
+                        "x": 70,
+                        "y": 222
+                      }
+                    ]
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -3617,7 +6426,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "evil fish",
+                  "image": "evil fish2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3633,20 +6442,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 16,
-                        "y": 10
+                        "x": 32,
+                        "y": 20
                       },
                       {
-                        "x": 55,
-                        "y": 10
+                        "x": 110,
+                        "y": 20
                       },
                       {
-                        "x": 55,
-                        "y": 47
+                        "x": 110,
+                        "y": 94
                       },
                       {
-                        "x": 16,
-                        "y": 47
+                        "x": 32,
+                        "y": 94
                       }
                     ]
                   ]
@@ -4871,6 +7680,38 @@
       "conditions": [
         {
           "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "fishAmmo",
+            "CeradactlylBoss",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
             "value": "Health::Health::IsDead"
           },
           "parameters": [
@@ -4890,6 +7731,68 @@
             "Animation",
             "=",
             "\"Ceradactyl die\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "Ceradactlyl",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::IsDead"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "Health",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "Animation",
+            "=",
+            "\"Ceradactyl die\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "Ceradactlyl",
+            ""
           ]
         }
       ]
@@ -4974,8 +7877,8 @@
             "value": "Distance"
           },
           "parameters": [
-            "Ceradactlyl",
             "juvenileTrex",
+            "Ceradactlyl",
             "400",
             ""
           ]
@@ -4996,6 +7899,7 @@
       ]
     },
     {
+      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -5026,6 +7930,45 @@
           },
           "parameters": [
             "Ceradactlyl",
+            "Animation",
+            "=",
+            "\"Ceradactyl fly\""
+          ]
+        }
+      ]
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "Animation",
+            "=",
+            "\"Ceradactlyl dive\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "Animation"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "CeradactlylBoss",
             "Animation",
             "=",
             "\"Ceradactyl fly\""
@@ -5162,8 +8105,275 @@
           },
           "parameters": [
             "",
-            "\"End Scene\"",
+            "\"GAME OVER\"",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "bossTrigger",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "boss_barriers",
+            "Platform",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "ZoomCamera"
+          },
+          "parameters": [
+            "",
+            ".5",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ClampCamera"
+          },
+          "parameters": [
+            "",
+            "barrier_left.BoundingBoxLeft()",
+            "barrier_top.BoundingBoxTop()",
+            "barrier_right.BoundingBoxRight()",
+            "barrier_bottom.BoundingBoxBottom()",
+            "",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "bossMusicProto.mp3",
+            "yes",
+            "50",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BehaviorActivated"
+          },
+          "parameters": [
+            "boss_barriers",
+            "Platform"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::FireTowardObject"
+          },
+          "parameters": [
+            "johnCera",
+            "FireBullet",
+            "johnCera.PointX(\"bulletPoint\")",
+            "johnCera.PointY(\"bulletPoint\")",
+            "evil_fish",
+            "juvenileTrex",
+            "300",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::Health"
+          },
+          "parameters": [
+            "johnCera",
+            "Health",
+            "<=",
+            "0",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "johnCera",
+            "Animation",
+            "=",
+            "\"Death\""
+          ]
+        },
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::SetCooldownOp"
+          },
+          "parameters": [
+            "johnCera",
+            "FireBullet",
+            "=",
+            "10000000000",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::Health"
+          },
+          "parameters": [
+            "johnCera",
+            "Health",
+            "<=",
+            "5",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "johnCera",
+            "Animation",
+            "=",
+            "\"Enraged\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+          },
+          "parameters": [
+            "CeraBossHealthBar",
+            "=",
+            "45",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::SetMaxHealthOp"
+          },
+          "parameters": [
+            "johnCera",
+            "Health",
+            "=",
+            "45",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+          },
+          "parameters": [
+            "johnCeraHealth",
+            "=",
+            "45",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::Heal"
+          },
+          "parameters": [
+            "johnCera",
+            "Health",
+            "45",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "johnCera",
+            "health",
+            "=",
+            "45"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Distance"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "CeradactlylBoss",
+            "400",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "Animation",
+            "=",
+            "\"Ceradactlyl dive\""
           ]
         }
       ]
@@ -5222,152 +8432,6 @@
       "conditions": [
         {
           "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "bossTrigger",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "boss_barriers",
-            "Platform",
-            "yes"
-          ]
-        },
-        {
-          "type": {
-            "value": "ZoomCamera"
-          },
-          "parameters": [
-            "",
-            ".5",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ClampCamera"
-          },
-          "parameters": [
-            "",
-            "barrier_left.BoundingBoxLeft()",
-            "barrier_top.BoundingBoxTop()",
-            "barrier_right.BoundingBoxRight()",
-            "barrier_bottom.BoundingBoxBottom()",
-            "",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "bossMusicProto.mp3",
-            "",
-            "50",
-            ""
-          ]
-        }
-      ],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "FireBullet::FireBullet::FireTowardObject"
-              },
-              "parameters": [
-                "johnCera",
-                "FireBullet",
-                "johnCera.PointX(\"bulletPoint\")",
-                "johnCera.PointY(\"bulletPoint\")",
-                "evil_fish",
-                "juvenileTrex",
-                "300",
-                ""
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Or"
-          },
-          "parameters": [],
-          "subInstructions": [
-            {
-              "type": {
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "johnCera",
-                "Health",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "johnCera",
-                "health",
-                "<=",
-                "0"
-              ]
-            }
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "boss_barriers",
-            "Platform",
-            "no"
-          ]
-        },
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "johnCera",
-            "Animation",
-            "=",
-            "\"Death\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
             "inverted": true,
             "value": "Distance"
           },
@@ -5387,6 +8451,23 @@
           "parameters": [
             "evil_fish",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "CeradactlylDiveDown",
+            "Animation",
+            "=",
+            "\"Ceradactlyl dive\""
           ]
         }
       ]
