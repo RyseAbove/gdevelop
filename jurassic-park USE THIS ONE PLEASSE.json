@@ -6864,9 +6864,14 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+<<<<<<< HEAD
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/Enraged.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged.png",
         "file": "assets/NewSprite160.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6894,101 +6899,50 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/assets_johnPizza2.png",
+        "file": "assets/Enraged2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "assets\\johnPizza2",
+        "metadata": "{\"localFilePath\":\"assets/Enraged2.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged3.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged4.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged5.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged6.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged6.png",
         "smoothed": true,
         "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/assets_johnPizza3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "assets\\johnPizza3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/SLANMRT.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "SLANMRT",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/RSLANR.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "RSLANR",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/OXYEHE NSHICOLLISIOSO.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "OXYEHE NSHICOLLISIOSO",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/ponfoklat.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "ponfoklat",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Dot Bar Green Border.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Dot Bar Green Border.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/e0754c6008a7f3ec35ce32d663263982cd7a67f91974977d1c1247b90891b1b9_Dot Bar Green Border.png",
-          "name": "Dot Bar Green Border.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Dot Bar Green Fill Bar.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Dot Bar Green Fill Bar.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/11956f33bb9a6ca4997feced357ff80d8b2597367951d4ab34cd67d5a2d8b054_Dot Bar Green Fill Bar.png",
-          "name": "Dot Bar Green Fill Bar.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/anotherone.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "anotherone",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/anothrurponmg.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "anothrurponmg",
-        "smoothed": true,
-        "userAdded": true
+=======
+>>>>>>> parent of c1385be (uhhh)
       }
     ],
     "resourceFolders": []
