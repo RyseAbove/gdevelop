@@ -6867,15 +6867,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite160.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/PIZZZAAA.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6894,10 +6885,46 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/assets_johnPizza2.png",
+        "file": "assets/Enraged2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "assets\\johnPizza2",
+        "metadata": "{\"localFilePath\":\"assets/Enraged2.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged3.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged4.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged5.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enraged6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Enraged6.png\",\"extension\":\".png\"}",
+        "name": "assets\\Enraged6.png",
         "smoothed": true,
         "userAdded": false
       },
