@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.19415059112740993,
+    "zoomFactor": 0.12615340253748744,
     "windowMask": false
   },
   "objectsGroups": [
@@ -120,7 +120,7 @@
       "layer": "",
       "name": "brigeplatform",
       "persistentUuid": "9f41d46b-2002-4111-9599-c407fdf245eb",
-      "width": 18408,
+      "width": 22340,
       "x": -959,
       "y": 756,
       "zOrder": 101,
@@ -142,22 +142,6 @@
       "x": 5654,
       "y": 56,
       "zOrder": 104,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 4,
-      "height": 291,
-      "layer": "",
-      "name": "dafishies",
-      "persistentUuid": "3425b37d-7064-4866-b820-aaece0723206",
-      "width": 291,
-      "x": -777,
-      "y": -1124,
-      "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -605,21 +589,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "fishAmmo",
-      "persistentUuid": "9717120b-7bb2-4ace-a090-91c1a2b9615a",
-      "width": 0,
-      "x": -1128,
-      "y": -644,
-      "zOrder": 127,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 1053,
@@ -899,7 +868,7 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "3553794c-6b67-412c-abff-bd56763f0684",
       "width": 256,
-      "x": 11453,
+      "x": 11294,
       "y": 82,
       "zOrder": 138,
       "numberProperties": [],
@@ -915,7 +884,7 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "cf225292-d8cd-4eec-a9d3-db9f85e30a82",
       "width": 256,
-      "x": 12277,
+      "x": 12316,
       "y": 82,
       "zOrder": 138,
       "numberProperties": [],
@@ -931,7 +900,7 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "88e5e75c-6a49-4854-91c0-028645a2ac11",
       "width": 256,
-      "x": 13235,
+      "x": 13489,
       "y": 82,
       "zOrder": 138,
       "numberProperties": [],
@@ -947,23 +916,7 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "8e5de01a-0cae-4f4d-ba63-b04c26b2273c",
       "width": 256,
-      "x": 14035,
-      "y": 82,
-      "zOrder": 138,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 256,
-      "layer": "",
-      "name": "CeradactlylDiveDown",
-      "persistentUuid": "7017e2e1-1661-4e4d-a086-4a8226d909b5",
-      "width": 256,
-      "x": 14896,
+      "x": 14569,
       "y": 82,
       "zOrder": 138,
       "numberProperties": [],
@@ -979,25 +932,9 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "16ef9860-af77-41c6-8047-6e0e1afcd215",
       "width": 256,
-      "x": 15745,
+      "x": 15784,
       "y": 82,
       "zOrder": 138,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 64,
-      "layer": "",
-      "name": "brigeplatform",
-      "persistentUuid": "0a21d9d0-4682-4a91-90ae-278b7d8b3dbb",
-      "width": 4824,
-      "x": 16689,
-      "y": 727,
-      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3933,7 +3870,7 @@
             {
               "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.15,
+              "timeBetweenFrames": 0.12,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -4233,24 +4170,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 125,
-                        "y": 161
+                        "x": 132,
+                        "y": 154
                       },
                       {
-                        "x": 105,
-                        "y": 123
+                        "x": 105.5,
+                        "y": 109.5
                       },
                       {
-                        "x": 65.5,
-                        "y": 150
+                        "x": 49,
+                        "y": 140.5
                       },
                       {
-                        "x": 101,
-                        "y": 180
+                        "x": 95.5,
+                        "y": 195.5
                       },
                       {
-                        "x": 120.5,
-                        "y": 178
+                        "x": 135,
+                        "y": 188.5
                       }
                     ]
                   ]
@@ -4273,24 +4210,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 140,
-                        "y": 156.5
+                        "x": 137.5,
+                        "y": 149
                       },
                       {
-                        "x": 102.5,
-                        "y": 177
+                        "x": 83.5,
+                        "y": 149
                       },
                       {
-                        "x": 88.5,
-                        "y": 224
+                        "x": 54,
+                        "y": 242.5
                       },
                       {
-                        "x": 162,
-                        "y": 215
+                        "x": 174.5,
+                        "y": 241
                       },
                       {
-                        "x": 161.5,
-                        "y": 181.5
+                        "x": 170,
+                        "y": 155
                       }
                     ]
                   ]
@@ -4313,24 +4250,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 207.5,
-                        "y": 208
+                        "x": 224.5,
+                        "y": 191
                       },
                       {
-                        "x": 187.5,
-                        "y": 170
+                        "x": 193.5,
+                        "y": 157
                       },
                       {
-                        "x": 152.5,
-                        "y": 227
+                        "x": 145.5,
+                        "y": 206.5
                       },
                       {
-                        "x": 157,
-                        "y": 276.5
+                        "x": 150.5,
+                        "y": 282
                       },
                       {
-                        "x": 222,
-                        "y": 251.5
+                        "x": 230,
+                        "y": 279
                       }
                     ]
                   ]
@@ -4353,24 +4290,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 228,
-                        "y": 181.5
+                        "x": 233.5,
+                        "y": 167
                       },
                       {
                         "x": 198,
                         "y": 119
                       },
                       {
-                        "x": 180,
-                        "y": 161.5
+                        "x": 162.5,
+                        "y": 168
                       },
                       {
-                        "x": 171,
-                        "y": 244.5
+                        "x": 159.5,
+                        "y": 254
                       },
                       {
-                        "x": 234.5,
-                        "y": 241.5
+                        "x": 242,
+                        "y": 254.5
                       }
                     ]
                   ]
@@ -4393,24 +4330,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 230,
-                        "y": 107
+                        "x": 239,
+                        "y": 94.5
                       },
                       {
                         "x": 208.5,
                         "y": 59
                       },
                       {
-                        "x": 190.5,
-                        "y": 114.5
+                        "x": 170.5,
+                        "y": 115
                       },
                       {
-                        "x": 180,
-                        "y": 192
+                        "x": 168,
+                        "y": 206.5
                       },
                       {
-                        "x": 249,
-                        "y": 185
+                        "x": 250,
+                        "y": 196
                       }
                     ]
                   ]
@@ -7493,20 +7430,102 @@
       ]
     },
     {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "Parallax",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [],
-      "parameters": []
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "juvenileTrex",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "-",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "CeradactlylDiveDown",
+            "juvenileTrex",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "-",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
+          ]
+        }
+      ]
     },
     {
       "colorB": 228,
