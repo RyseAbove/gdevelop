@@ -138,6 +138,38 @@
       "conditions": [
         {
           "type": {
+            "value": "MouseButtonPressed"
+          },
+          "parameters": [
+            "",
+            "Right"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AdvancedJump::HorizontalDash::SimulateDashKey"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "HorizontalDash",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
             "value": "BuiltinCommonInstructions::Or"
           },
           "parameters": [],
