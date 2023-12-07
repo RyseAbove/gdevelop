@@ -635,6 +635,10 @@
       "type": "PlatformBehavior::PlatformerObjectBehavior"
     },
     {
+      "name": "RepeatTimer",
+      "type": "RepeatEveryXSeconds::RepeatTimer"
+    },
+    {
       "name": "Resizable",
       "type": "ResizableCapability::ResizableBehavior"
     },
