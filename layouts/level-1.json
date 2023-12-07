@@ -6816,7 +6816,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fadeLevel1",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6978,6 +6977,9 @@
       },
       {
         "objectName": "barrier_bottom"
+      },
+      {
+        "objectName": "fadeLevel1"
       }
     ]
   },

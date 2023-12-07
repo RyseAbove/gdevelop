@@ -2016,7 +2016,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MULDOON_AND_GENNARO",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3995,6 +3994,9 @@
       },
       {
         "objectName": "chasem"
+      },
+      {
+        "objectName": "MULDOON_AND_GENNARO"
       }
     ]
   },

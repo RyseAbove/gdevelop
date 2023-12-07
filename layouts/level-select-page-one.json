@@ -593,7 +593,7 @@
           },
           "parameters": [
             "",
-            "\"Level 0\"",
+            "\"LEVEL 0 LOADING\"",
             ""
           ]
         }
@@ -619,7 +619,7 @@
           },
           "parameters": [
             "",
-            "\"Level 1\"",
+            "\"LEVEL 1 LOADING\"",
             ""
           ]
         }
@@ -645,7 +645,7 @@
           },
           "parameters": [
             "",
-            "\"Level 2\"",
+            "\"LEVEL 2 LOADING\"",
             ""
           ]
         }

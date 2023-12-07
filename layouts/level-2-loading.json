@@ -48,9 +48,25 @@
       "name": "HADROLOADING",
       "persistentUuid": "63409604-6585-4414-9600-d18ec9f68551",
       "width": 293,
-      "x": 785,
+      "x": 817,
       "y": 358,
       "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 26,
+      "layer": "",
+      "name": "LOADING_BAR",
+      "persistentUuid": "be2c5b8d-404e-4bce-9b58-9cec57e12f77",
+      "width": 803,
+      "x": 585,
+      "y": 730,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -150,7 +166,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "HADROLOADING",
+          "name": "HADROLOAFING",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -160,7 +176,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite140",
+                  "image": "HADROLOAFING",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -176,27 +192,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 2,
-                        "y": 6
+                        "x": 3,
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 6
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 111
+                        "y": 114
                       },
                       {
-                        "x": 2,
-                        "y": 111
+                        "x": 3,
+                        "y": 114
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite141",
+                  "image": "HADROLOAFING2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -212,27 +228,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 2,
-                        "y": 6
+                        "x": 3,
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 6
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 111
+                        "y": 114
                       },
                       {
-                        "x": 2,
-                        "y": 111
+                        "x": 3,
+                        "y": 114
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite142",
+                  "image": "HADROLOAFING3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -248,27 +264,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 2,
-                        "y": 6
+                        "x": 3,
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 6
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 111
+                        "y": 114
                       },
                       {
-                        "x": 2,
-                        "y": 111
+                        "x": 3,
+                        "y": 114
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite143",
+                  "image": "HADROLOAFING4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -284,27 +300,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 2,
-                        "y": 6
+                        "x": 3,
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 6
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 111
+                        "y": 114
                       },
                       {
-                        "x": 2,
-                        "y": 111
+                        "x": 3,
+                        "y": 114
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite144",
+                  "image": "HADROLOAFING5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -320,27 +336,27 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 2,
-                        "y": 6
+                        "x": 3,
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 6
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 111
+                        "y": 114
                       },
                       {
-                        "x": 2,
-                        "y": 111
+                        "x": 3,
+                        "y": 114
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite145",
+                  "image": "HADROLOAFING6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -356,20 +372,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 2,
-                        "y": 6
+                        "x": 3,
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 6
+                        "y": 5
                       },
                       {
                         "x": 125,
-                        "y": 111
+                        "y": 114
                       },
                       {
-                        "x": 2,
-                        "y": 111
+                        "x": 3,
+                        "y": 114
                       }
                     ]
                   ]
@@ -395,7 +411,102 @@
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LOADING_BAR",
+            "RepeatTimer",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
+          },
+          "parameters": [
+            "LOADING_BAR",
+            "RepeatTimer",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+          },
+          "parameters": [
+            "LOADING_BAR",
+            "+",
+            "1",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
+          },
+          "parameters": [
+            "LOADING_BAR",
+            "=",
+            "3",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Level 2\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,

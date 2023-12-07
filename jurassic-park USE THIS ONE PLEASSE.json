@@ -6878,7 +6878,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_johnPizza.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_johnPizza.png\"}",
         "name": "assets\\johnPizza",
         "smoothed": true,
         "userAdded": false
@@ -6932,7 +6932,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_johnPizza3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_johnPizza3.png\"}",
         "name": "assets\\johnPizza3",
         "smoothed": true,
         "userAdded": false
@@ -7942,6 +7942,213 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fadeLevel1.png\"}",
         "name": "fadeLevel1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HADROLOAFING.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HADROLOAFING",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HADROLOAFING2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HADROLOAFING2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HADROLOAFING3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HADROLOAFING3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HADROLOAFING4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HADROLOAFING4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HADROLOAFING5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HADROLOAFING5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HADROLOAFING6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HADROLOAFING6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NMMISISDKSL16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NMMISISDKSL16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_johnPizza4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\johnPizza2",
         "smoothed": true,
         "userAdded": true
       }
@@ -10109,13 +10316,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\johnPizza",
+                  "image": "assets\\johnPizza2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10151,7 +10358,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\johnPizza2",
+                  "image": "assets\\johnPizza",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -11594,6 +11801,81 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
+      "name": "LOADING_BAR",
+      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "RepeatTimer",
+          "type": "RepeatEveryXSeconds::RepeatTimer",
+          "TimerName": "MyTimer",
+          "TimerLength": 1,
+          "Limit": -1,
+          "Counter": 0
+        }
+      ],
+      "content": {
+        "BarTopPadding": 3,
+        "BarLeftPadding": 4,
+        "BarRightPadding": 4,
+        "BarBottomPadding": 4,
+        "EasingDuration": 0,
+        "PreviousHighValueDuration": 0,
+        "ShowLabel": false,
+        "InitialValue": 0,
+        "MaxValue": 3
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 4,
+          "height": 26,
+          "leftMargin": 2,
+          "rightMargin": 2,
+          "texture": "Dot Bar Blue Border.png",
+          "tiled": false,
+          "topMargin": 3,
+          "width": 118
+        },
+        "Buffer": {
+          "bottomMargin": 0,
+          "height": 19,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Dot Bar Blue Fill Bar.png",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 21
+        },
+        "FillBar": {
+          "bottomMargin": 0,
+          "height": 19,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Dot Bar Blue Fill Bar.png",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 21
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "2 / 3",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -11643,6 +11925,9 @@
       },
       {
         "objectName": "MULDOON_AND_GENNARO"
+      },
+      {
+        "objectName": "LOADING_BAR"
       }
     ]
   },
@@ -11720,6 +12005,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-selet-page-two"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/dino-drop-loading"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-3-loading"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
