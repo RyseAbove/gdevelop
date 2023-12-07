@@ -21,7 +21,7 @@
     "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "jurassic-part",
-    "description": "",
+    "description": "juracisc parkt",
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
@@ -52,7 +52,10 @@
     },
     "authorIds": [],
     "authorUsernames": [],
-    "categories": [],
+    "categories": [
+      "action",
+      "adventure"
+    ],
     "playableDevices": [],
     "extensionProperties": [],
     "platforms": [
@@ -1792,7 +1795,7 @@
         "alwaysLoaded": false,
         "file": "assets/deceased dinosaur.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/deceased dinosaur.png\"}",
         "name": "deceased dinosaur",
         "smoothed": true,
         "userAdded": false
@@ -7511,6 +7514,24 @@
         "name": "evil fish2",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite163.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite140",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/deadHadro.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "deadHadro",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
