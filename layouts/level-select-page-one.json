@@ -124,6 +124,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "PAGE_1",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -184,6 +185,7 @@
     {
       "assetStoreId": "615de0316452630b9f4f6a39decc82e2449b82c1afd1ff24d6470dad2922177b",
       "name": "THE_AVIARY",
+      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -247,6 +249,7 @@
     {
       "assetStoreId": "615de0316452630b9f4f6a39decc82e2449b82c1afd1ff24d6470dad2922177b",
       "name": "THE_TUTORIAL",
+      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -310,6 +313,7 @@
     {
       "assetStoreId": "615de0316452630b9f4f6a39decc82e2449b82c1afd1ff24d6470dad2922177b",
       "name": "THE_HADROSAURS",
+      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -373,6 +377,7 @@
     {
       "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
       "name": "the_page_2",
+      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -436,6 +441,7 @@
     {
       "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
       "name": "the_menu",
+      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -497,29 +503,6 @@
       }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "PAGE_1"
-      },
-      {
-        "objectName": "THE_AVIARY"
-      },
-      {
-        "objectName": "THE_TUTORIAL"
-      },
-      {
-        "objectName": "THE_HADROSAURS"
-      },
-      {
-        "objectName": "the_page_2"
-      },
-      {
-        "objectName": "the_menu"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -593,7 +576,7 @@
           },
           "parameters": [
             "",
-            "\"LEVEL 0 LOADING\"",
+            "\"Level 0\"",
             ""
           ]
         }
@@ -619,7 +602,7 @@
           },
           "parameters": [
             "",
-            "\"LEVEL 1 LOADING\"",
+            "\"Level 1\"",
             ""
           ]
         }
@@ -645,7 +628,7 @@
           },
           "parameters": [
             "",
-            "\"LEVEL 2 LOADING\"",
+            "\"Level 2\"",
             ""
           ]
         }
@@ -761,10 +744,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
