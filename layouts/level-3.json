@@ -4641,7 +4641,7 @@
       "isLocked": false,
       "name": "HILL FRONT",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -4673,7 +4673,7 @@
       "isLocked": false,
       "name": "FOG",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -4705,7 +4705,7 @@
       "isLocked": false,
       "name": "BUBBLES",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -4737,7 +4737,7 @@
       "isLocked": false,
       "name": "NIGHT",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": []
     },
@@ -4753,7 +4753,7 @@
       "isLocked": false,
       "name": "DAY",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {

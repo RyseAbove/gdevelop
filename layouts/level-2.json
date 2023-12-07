@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.10687685869697906,
+    "zoomFactor": 0.15911838846838744,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -48,8 +48,8 @@
       "layer": "Layer",
       "name": "floor",
       "persistentUuid": "6f59b416-1805-4407-a0e9-9c27f33d4007",
-      "width": 12544,
-      "x": -2144,
+      "width": 15554,
+      "x": -5154,
       "y": 1020,
       "zOrder": -21,
       "numberProperties": [],
@@ -65,8 +65,8 @@
       "name": "juvenileTrex",
       "persistentUuid": "27ab838e-e8c4-4bb8-8c53-3b3a9ffbd68b",
       "width": 530,
-      "x": -808,
-      "y": 544,
+      "x": -940,
+      "y": 525,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -364,7 +364,7 @@
       "name": "food",
       "persistentUuid": "0517673f-aed6-4cda-b6fa-e9671b678360",
       "width": 902,
-      "x": -339,
+      "x": 120,
       "y": 267,
       "zOrder": 20,
       "numberProperties": [],
@@ -423,6 +423,54 @@
           "value": 0
         }
       ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 56,
+      "layer": "",
+      "name": "juvenileRun",
+      "persistentUuid": "76e1e311-e5af-4e6c-a2b0-b682a6f51f44",
+      "width": 655,
+      "x": 7168,
+      "y": 379,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 8,
+      "height": 491,
+      "layer": "",
+      "name": "johnPizza",
+      "persistentUuid": "a2692421-8e12-4f00-a4d7-b697a0b91e4b",
+      "width": 491,
+      "x": 6564,
+      "y": 644,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 2113,
+      "layer": "",
+      "name": "levelEnd",
+      "persistentUuid": "651fbbdd-5eb9-46f5-93c0-5fe10f2fce11",
+      "width": 64,
+      "x": -3652,
+      "y": -599,
+      "zOrder": 23,
+      "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
@@ -1452,6 +1500,79 @@
         "g": 255,
         "r": 255
       }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "juvenileRun",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Text_AutoTyping",
+          "type": "AutoTyping::Text_AutoTyping",
+          "Interval": 0.05,
+          "CharacterJustAdded": false,
+          "CurrentCharacter": ""
+        }
+      ],
+      "string": "What's that sound?  I dont think I should go this way anymore.",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "levelEnd",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite142",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "events": [
@@ -1495,6 +1616,24 @@
             "=",
             "2"
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "juvenileRun",
+            "Text_AutoTyping",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "juvenileRun"
+          ]
         }
       ]
     },
@@ -1507,7 +1646,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "10"
+            "6"
           ]
         },
         {
@@ -1554,6 +1693,14 @@
             "Resizable",
             "=",
             "juvenileTrex.Variable(Health) * 128"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "johnPizza"
           ]
         }
       ]
@@ -1607,7 +1754,7 @@
               },
               "parameters": [
                 "",
-                "\"End Scene\"",
+                "\"GAME OVER\"",
                 ""
               ]
             }
@@ -1828,6 +1975,35 @@
       ]
     },
     {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "levelEnd",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Level 3\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
@@ -1836,6 +2012,44 @@
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "johnPizza",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "juvenileRun",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "juvenileRun",
+                "Text_AutoTyping",
+                "yes"
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -1882,7 +2096,7 @@
               "parameters": [
                 "runningHadrosaur",
                 "hadroStop",
-                "400",
+                "300",
                 "1"
               ]
             },
@@ -1893,7 +2107,7 @@
               "parameters": [
                 "specialHadrosaur",
                 "hadroStop",
-                "400",
+                "300",
                 "1"
               ]
             }
@@ -1923,7 +2137,7 @@
               "parameters": [
                 "runningHadrosaur",
                 "hadroStop",
-                "430",
+                "350",
                 "1"
               ]
             }
@@ -1953,7 +2167,7 @@
               "parameters": [
                 "specialHadrosaur",
                 "hadroStop",
-                "430",
+                "350",
                 "1"
               ]
             }
@@ -2040,7 +2254,7 @@
                       "parameters": [
                         "adultRex",
                         "juvenileTrex",
-                        "300",
+                        "200",
                         "1"
                       ]
                     }
