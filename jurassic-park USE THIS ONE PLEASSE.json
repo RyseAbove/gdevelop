@@ -1792,7 +1792,7 @@
         "alwaysLoaded": false,
         "file": "assets/deceased dinosaur.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/deceased dinosaur.png\"}",
         "name": "deceased dinosaur",
         "smoothed": true,
         "userAdded": false
@@ -7942,6 +7942,33 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fadeLevel1.png\"}",
         "name": "fadeLevel1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite163.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite140",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite164.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite141",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/deceased flip.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "deceased flip",
         "smoothed": true,
         "userAdded": true
       }

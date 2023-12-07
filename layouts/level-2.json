@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1700303648902914,
+    "zoomFactor": 0.10687685869697906,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,8 +32,8 @@
       "layer": "Layer",
       "name": "hadrosaurGround",
       "persistentUuid": "a3bfd701-8637-40c0-a934-501500a31bd0",
-      "width": 12288,
-      "x": -2144,
+      "width": 17637,
+      "x": -4643,
       "y": 122,
       "zOrder": 10,
       "numberProperties": [],
@@ -80,8 +80,8 @@
       "layer": "Layer",
       "name": "hadrosaurBackground2",
       "persistentUuid": "5360c4d8-7a0c-4363-aaca-6663bcf07dba",
-      "width": 12448,
-      "x": -2144,
+      "width": 17649,
+      "x": -4643,
       "y": -169,
       "zOrder": 1,
       "numberProperties": [],
@@ -96,8 +96,8 @@
       "layer": "Layer",
       "name": "hadrosaurBush",
       "persistentUuid": "0b1bcce6-de3f-4325-a549-fd0eb4f6c2b4",
-      "width": 12288,
-      "x": -2144,
+      "width": 17648,
+      "x": -4643,
       "y": 54,
       "zOrder": 7,
       "numberProperties": [],
@@ -112,9 +112,9 @@
       "layer": "Layer",
       "name": "hadrosaurBushFront",
       "persistentUuid": "1f99a650-8124-4eb4-b15a-990b214277f3",
-      "width": 12288,
-      "x": -2144,
-      "y": 136,
+      "width": 17648,
+      "x": -4635,
+      "y": 142,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -128,8 +128,8 @@
       "layer": "Layer",
       "name": "hadrosaurTree1",
       "persistentUuid": "d727dee2-0072-446e-ad6e-e368f1933ffd",
-      "width": 12288,
-      "x": -2144,
+      "width": 17648,
+      "x": -4643,
       "y": 54,
       "zOrder": 9,
       "numberProperties": [],
@@ -144,8 +144,8 @@
       "layer": "Layer",
       "name": "hadrosaurTree2",
       "persistentUuid": "2746c212-97c8-4334-91de-952bfc254402",
-      "width": 12288,
-      "x": -2144,
+      "width": 17648,
+      "x": -4643,
       "y": 54,
       "zOrder": 6,
       "numberProperties": [],
@@ -160,8 +160,8 @@
       "layer": "Layer",
       "name": "hadrosaurTree3",
       "persistentUuid": "071160f8-f0db-4c11-b1fa-684a651f2731",
-      "width": 12288,
-      "x": -2144,
+      "width": 17648,
+      "x": -4643,
       "y": 54,
       "zOrder": 6,
       "numberProperties": [],
@@ -176,8 +176,8 @@
       "layer": "Layer",
       "name": "hadrosaurTree4",
       "persistentUuid": "6bf4ab1e-3868-4b0a-82e7-fbc3fea7867d",
-      "width": 12288,
-      "x": -2144,
+      "width": 17648,
+      "x": -4643,
       "y": 54,
       "zOrder": 5,
       "numberProperties": [],
@@ -193,7 +193,7 @@
       "name": "barrier",
       "persistentUuid": "7fd3de35-39d0-4876-929c-bbc16d16cd6f",
       "width": 64,
-      "x": -1231,
+      "x": -1128,
       "y": -224,
       "zOrder": 12,
       "numberProperties": [],
@@ -287,7 +287,7 @@
       "name": "hadroStop",
       "persistentUuid": "67547dc7-1560-44ab-9721-b09e5a1f8eef",
       "width": 500,
-      "x": 9223,
+      "x": 12097,
       "y": 585,
       "zOrder": 16,
       "numberProperties": [],
@@ -302,7 +302,7 @@
       "name": "hadroFast",
       "persistentUuid": "ab608881-7abd-4f81-95d8-b32fcef6fc6b",
       "width": 0,
-      "x": 6005,
+      "x": 6860,
       "y": 585,
       "zOrder": 17,
       "numberProperties": [],
@@ -368,6 +368,61 @@
       "y": 267,
       "zOrder": 20,
       "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Layer",
+      "name": "deadHadro",
+      "persistentUuid": "ff596eea-b35a-40bd-829d-430e9ab2256c",
+      "width": 0,
+      "x": 8345,
+      "y": 511,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Layer",
+      "name": "deadHadro",
+      "persistentUuid": "b94a09f0-6716-4738-87d7-81e237f70c2b",
+      "width": 0,
+      "x": 10129,
+      "y": 479,
+      "zOrder": 10,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Layer",
+      "name": "deadHadro",
+      "persistentUuid": "c88ef1ce-d4c0-4cbb-b292-63f89b84c357",
+      "width": 0,
+      "x": 9226,
+      "y": 383,
+      "zOrder": 10,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
       "stringProperties": [],
       "initialVariables": []
     }
@@ -1088,6 +1143,117 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
+      "name": "deadHadro",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "deceased",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite141",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 98,
+                        "y": 405
+                      },
+                      {
+                        "x": 662,
+                        "y": 405
+                      },
+                      {
+                        "x": 662,
+                        "y": 607
+                      },
+                      {
+                        "x": 98,
+                        "y": 607
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "deceased flip",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "deceased flip",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 98,
+                        "y": 405
+                      },
+                      {
+                        "x": 662,
+                        "y": 405
+                      },
+                      {
+                        "x": 662,
+                        "y": 607
+                      },
+                      {
+                        "x": 98,
+                        "y": 607
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
       "name": "hadroStop",
       "tags": "",
       "type": "Sprite",
@@ -1642,7 +1808,7 @@
           },
           "parameters": [
             "juvenileTrex",
-            "hadroFast",
+            "hadroTrigger",
             "",
             "",
             ""
@@ -1652,10 +1818,11 @@
       "actions": [
         {
           "type": {
-            "value": "Cache"
+            "value": "Delete"
           },
           "parameters": [
-            "barrier"
+            "barrier",
+            ""
           ]
         }
       ]
@@ -1683,12 +1850,6 @@
                 "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             }
           ],
           "actions": [
