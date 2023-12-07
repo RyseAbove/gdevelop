@@ -25,6 +25,9 @@
   "variables": [],
   "instances": [],
   "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
   "events": [],
   "layers": [
     {
@@ -135,6 +138,10 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
