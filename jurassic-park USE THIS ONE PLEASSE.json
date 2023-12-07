@@ -7935,6 +7935,15 @@
         "name": "MOVE TRIGGER",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fadeLevel1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fadeLevel1.png\"}",
+        "name": "fadeLevel1",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

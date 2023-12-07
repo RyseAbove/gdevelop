@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.19415059112740993,
+    "zoomFactor": 0.06286874040998787,
     "windowMask": false
   },
   "objectsGroups": [
@@ -314,8 +314,8 @@
       "name": "juvenileTrex",
       "persistentUuid": "e72b9c5c-9641-483e-910c-1a2b95415af0",
       "width": 409,
-      "x": -470,
-      "y": 342,
+      "x": -540,
+      "y": 372,
       "zOrder": 108,
       "numberProperties": [],
       "stringProperties": [],
@@ -723,7 +723,7 @@
       "name": "zaWalkway",
       "persistentUuid": "441d1044-22bc-4f2d-901f-181eac7cf31a",
       "width": 15986,
-      "x": 5653,
+      "x": 5979,
       "y": 55,
       "zOrder": 134,
       "numberProperties": [],
@@ -998,6 +998,22 @@
       "x": 16689,
       "y": 727,
       "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 4618,
+      "layer": "",
+      "name": "fadeLevel1",
+      "persistentUuid": "009dd778-0d41-40b6-887b-ff585525b742",
+      "width": 7284,
+      "x": 14878,
+      "y": -1974,
+      "zOrder": 139,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -5172,6 +5188,12 @@
           "name": "health",
           "type": "number",
           "value": 35
+        },
+        {
+          "folded": true,
+          "name": "Regen",
+          "type": "boolean",
+          "value": true
         }
       ],
       "effects": [],
@@ -6821,6 +6843,73 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "fadeLevel1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "fadeLevel1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "fadeLevel1",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "events": [
@@ -7057,6 +7146,31 @@
             "Platform",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "fadeLevel1",
+            "Opacity",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::AddObjectOpacityTween"
+          },
+          "parameters": [
+            "fadeLevel1",
+            "Tween",
+            "\"fadeOpacity\"",
+            "0",
+            "\"linear\"",
+            "10",
+            ""
+          ]
         }
       ]
     },
@@ -7167,7 +7281,7 @@
           },
           "parameters": [
             "canThrow",
-            "True"
+            "False"
           ]
         }
       ],
@@ -8101,51 +8215,18 @@
             "johnCera",
             "Health",
             "<=",
-            "0",
+            "5",
             ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "johnCera",
-            "Animation",
-            "=",
-            "\"Death\""
           ]
         },
         {
           "type": {
-            "value": "FireBullet::FireBullet::SetCooldownOp"
+            "value": "ObjectVariableAsBoolean"
           },
           "parameters": [
             "johnCera",
-            "FireBullet",
-            "=",
-            "10000000000",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "Health::Health::Health"
-          },
-          "parameters": [
-            "johnCera",
-            "Health",
-            "<=",
-            "5",
-            ""
+            "Regen",
+            "True"
           ]
         },
         {
@@ -8180,11 +8261,10 @@
         },
         {
           "type": {
-            "value": "Health::Health::SetMaxHealthOp"
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
           },
           "parameters": [
-            "johnCera",
-            "Health",
+            "johnCeraHealth",
             "=",
             "45",
             ""
@@ -8192,10 +8272,11 @@
         },
         {
           "type": {
-            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+            "value": "Health::Health::SetMaxHealthOp"
           },
           "parameters": [
-            "johnCeraHealth",
+            "johnCera",
+            "Health",
             "=",
             "45",
             ""
@@ -8221,6 +8302,109 @@
             "health",
             "=",
             "45"
+          ]
+        },
+        {
+          "type": {
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+          },
+          "parameters": [
+            "CeraBossHealthBar",
+            "=",
+            "45",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "johnCera",
+            "Regen",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::Health"
+          },
+          "parameters": [
+            "johnCera",
+            "Health",
+            "<=",
+            "0",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "johnCera",
+            "Animation",
+            "=",
+            "\"Death\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "CeraBossHealthBar"
+          ]
+        },
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::SetCooldownOp"
+          },
+          "parameters": [
+            "johnCera",
+            "FireBullet",
+            "=",
+            "10000000000",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::AddObjectOpacityTween"
+          },
+          "parameters": [
+            "fadeLevel1",
+            "Tween",
+            "\"fadeOpacity\"",
+            "255",
+            "\"linear\"",
+            "3000",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "8"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"LEVEL SELECT PAGE ONE\"",
+            ""
           ]
         }
       ]
@@ -8344,6 +8528,55 @@
             "Animation",
             "=",
             "\"Ceradactlyl dive\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "CeradactlylDiveDown",
+            "juvenileTrex",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "-",
+            "1"
           ]
         }
       ]
