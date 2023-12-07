@@ -7952,38 +7952,25 @@
     {
       "assetStoreId": "",
       "name": "carLight",
-      "tags": "",
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "content": {
-        "radius": 250,
-        "color": "255;255;255",
-        "debugMode": false,
-        "texture": ""
-      }
+      "content": {}
     },
     {
       "assetStoreId": "",
       "name": "explosionLight",
-      "tags": "",
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "content": {
-        "radius": 1000,
-        "color": "255;255;255",
-        "debugMode": false,
-        "texture": ""
-      }
+      "content": {}
     },
     {
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "juvenileTrex",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [
@@ -9731,7 +9718,6 @@
       "assetStoreId": "",
       "height": 128,
       "name": "healthBar",
-      "tags": "",
       "texture": "fishlife2.png2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 128,
@@ -9743,7 +9729,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "dafishies",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -9804,7 +9789,6 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "PALM_TREE_LEAVES",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -9884,7 +9868,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "PALM_TREE_STUMP",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -9946,7 +9929,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "STUMP__RIOGHT",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10008,7 +9990,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "LEAVES_RIGHT",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10090,7 +10071,6 @@
       "italic": false,
       "name": "timr_er",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -10110,7 +10090,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "johnPizza",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10288,7 +10267,6 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "adultRex",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10932,7 +10910,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fishAmmo",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10994,7 +10971,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fishiesBucket",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11051,8 +11027,625 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "MULDOON_AND_GENNARO",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet",
+          "FireCooldown": 3,
+          "HasJustFired": false,
+          "FiringArc": 45,
+          "BulletQuantity": 1,
+          "AngleVariance": 0,
+          "RotateBullet": true,
+          "AmmoQuantity": 0,
+          "ShotsPerReload": 0,
+          "ReloadDuration": 4,
+          "MaxAmmo": 10000,
+          "ShotsBeforeNextReload": 0,
+          "TotalShotsFired": 0,
+          "TotalBulletsCreated": 0,
+          "StartingAmmo": 10000,
+          "TotalReloadsCompleted": 0,
+          "UnlimitedAmmo": true,
+          "ReloadInProgress": false,
+          "HeatIncreasePerShot": 2,
+          "HeatLevel": 0,
+          "AutomaticReloading": true,
+          "OverheatDuration": 2,
+          "LinearCoolingRate": 0.1,
+          "ExponentialCoolingRate": 0.3,
+          "BulletLayer": "",
+          "RandomizedAngle": 0,
+          "BulletSpeedVariance": 0
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "CARRRAAHH",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH2",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH3",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH4",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH5",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH6",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH7",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH8",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH9",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH10",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH11",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "CARRRAAHH12",
+                  "points": [
+                    {
+                      "name": "MISSILE",
+                      "x": 116.5,
+                      "y": 55.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 33
+                      },
+                      {
+                        "x": 118,
+                        "y": 113
+                      },
+                      {
+                        "x": 6,
+                        "y": 113
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "carLight"
+      },
+      {
+        "objectName": "explosionLight"
+      },
+      {
+        "objectName": "juvenileTrex"
+      },
+      {
+        "objectName": "healthBar"
+      },
+      {
+        "objectName": "dafishies"
+      },
+      {
+        "objectName": "PALM_TREE_LEAVES"
+      },
+      {
+        "objectName": "PALM_TREE_STUMP"
+      },
+      {
+        "objectName": "STUMP__RIOGHT"
+      },
+      {
+        "objectName": "LEAVES_RIGHT"
+      },
+      {
+        "objectName": "timr_er"
+      },
+      {
+        "objectName": "johnPizza"
+      },
+      {
+        "objectName": "adultRex"
+      },
+      {
+        "objectName": "fishAmmo"
+      },
+      {
+        "objectName": "fishiesBucket"
+      },
+      {
+        "objectName": "MULDOON_AND_GENNARO"
+      }
+    ]
+  },
   "objectsGroups": [],
   "variables": [],
   "layouts": [
@@ -11130,7 +11723,19 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-2-loading"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-1-loading"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-0-loading"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/car-crash"
     }
   ],
   "externalEvents": [

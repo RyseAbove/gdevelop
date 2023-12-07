@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.29879853636069037,
+    "zoomFactor": 0.0935990520402269,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -79,7 +79,6 @@
       "italic": false,
       "name": "Credits",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -108,7 +107,6 @@
       "italic": false,
       "name": "thankYouNote",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -138,7 +136,6 @@
       "italic": false,
       "name": "gudbye",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -163,6 +160,20 @@
       }
     }
   ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Credits"
+      },
+      {
+        "objectName": "thankYouNote"
+      },
+      {
+        "objectName": "gudbye"
+      }
+    ]
+  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -415,6 +426,10 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Text_AutoTyping",

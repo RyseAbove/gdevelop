@@ -29,27 +29,28 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "SPRITE_1",
-      "persistentUuid": "8b31eda6-310d-490d-8eaf-64cd039e6470",
-      "width": 0,
-      "x": 639,
-      "y": -5,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
       "name": "silly",
       "persistentUuid": "dc6f98a8-040f-4314-8120-7e691d6587cc",
       "width": 0,
       "x": 829,
       "y": 626,
       "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 250,
+      "layer": "",
+      "name": "fishiesBucket",
+      "persistentUuid": "79c9ee47-9750-47f3-a851-d27edf016c0e",
+      "width": 250,
+      "x": 843,
+      "y": 385,
+      "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -60,7 +61,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "SPRITE_1",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -124,7 +124,6 @@
       "italic": false,
       "name": "silly",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -141,6 +140,17 @@
       }
     }
   ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "SPRITE_1"
+      },
+      {
+        "objectName": "silly"
+      }
+    ]
+  },
   "events": [],
   "layers": [
     {
@@ -251,6 +261,10 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
