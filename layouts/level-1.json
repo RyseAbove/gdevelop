@@ -18,7 +18,11 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
+<<<<<<< HEAD
     "zoomFactor": 0.12615340253748744,
+=======
+    "zoomFactor": 0.19415059112740993,
+>>>>>>> parent of 79e2a35 (level one completion)
     "windowMask": false
   },
   "objectsGroups": [
@@ -922,6 +926,25 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+<<<<<<< HEAD
+=======
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "layer": "",
+      "name": "brigeplatform",
+      "persistentUuid": "0a21d9d0-4682-4a91-90ae-278b7d8b3dbb",
+      "width": 4824,
+      "x": 16689,
+      "y": 727,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+>>>>>>> parent of 79e2a35 (level one completion)
     }
   ],
   "objects": [

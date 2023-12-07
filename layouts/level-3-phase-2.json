@@ -2052,10 +2052,10 @@
           "BulletSpeedVariance": 0
         },
         {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior",
           "canBeGrabbed": true,
+          "name": "Platform",
           "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
           "yGrabOffset": 0
         }
       ],
