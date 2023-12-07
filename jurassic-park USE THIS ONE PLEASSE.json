@@ -7513,46 +7513,427 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/femce again.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "femce again",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/femce_again.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "femce_again",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/femce_again2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "femce_again2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/femce_again3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "femce_again3",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "file": "TREX_CUTSCENE_.mp4",
-        "kind": "video",
+        "file": "dinoDroppings.mp3",
+        "kind": "audio",
         "metadata": "",
-        "name": "TREX_CUTSCENE_.mp4",
+        "name": "dinoDroppings.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CARRRAAHH12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "CARRRAAHH12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW9",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/THE LAW16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "THE LAW16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM9",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MISSSILE EXPLOSIONM17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MISSSILE EXPLOSIONM17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MOVE TRIGGER.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MOVE TRIGGER",
+        "smoothed": true,
         "userAdded": true
       }
     ],
@@ -7600,8 +7981,8 @@
         {
           "folded": true,
           "name": "Health",
-          "type": "string",
-          "value": "2"
+          "type": "number",
+          "value": 2
         },
         {
           "folded": true,
@@ -7678,7 +8059,7 @@
           "DashInitialSpeed": 1000,
           "DashSustainDurationMin": 0,
           "DashSustainDurationMax": 0.25,
-          "DashSustainAcceleration": 1500,
+          "DashSustainAcceleration": 15000,
           "DashSustainSpeedMax": 750,
           "DashSustainGravity": 0,
           "DashDecceleration": 2000,
@@ -9901,14 +10282,7 @@
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [
-        {
-          "folded": true,
-          "name": "Health",
-          "type": "number",
-          "value": 10
-        }
-      ],
+      "variables": [],
       "effects": [],
       "behaviors": [
         {
@@ -9916,7 +10290,7 @@
           "type": "Health::Health",
           "Health": 10,
           "CurrentHealth": 0,
-          "MaxHealth": 10,
+          "MaxHealth": 6,
           "DamageCooldown": 0,
           "IsHealthJustDamaged": false,
           "HealthRegenRate": 0,
@@ -10668,21 +11042,6 @@
           ]
         }
       ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "fenceLight",
-      "tags": "",
-      "type": "Lighting::LightObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "radius": 1500,
-        "color": "255;255;255",
-        "debugMode": false,
-        "texture": ""
-      }
     }
   ],
   "objectsGroups": [],
@@ -10719,6 +11078,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-2-5-droppings-ec"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-3-phase-2"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -10759,10 +11122,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-1-loading"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/trex-cutscene"
     }
   ],
   "externalEvents": [

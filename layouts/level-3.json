@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2531414001298631,
+    "zoomFactor": 0.1941505911274083,
     "windowMask": false
   },
   "objectsGroups": [
@@ -446,8 +446,8 @@
       "name": "basrries",
       "persistentUuid": "99a46c8f-e21b-4009-b73d-42f61b2bfa60",
       "width": 1880,
-      "x": 5564,
-      "y": -1083,
+      "x": 5011,
+      "y": -1063,
       "zOrder": 35,
       "numberProperties": [],
       "stringProperties": [],
@@ -478,8 +478,8 @@
       "name": "basrries",
       "persistentUuid": "ce1f919c-a378-4ab3-85c4-efa8a6e57fff",
       "width": 1870,
-      "x": -4781,
-      "y": -1067,
+      "x": -3509,
+      "y": -1063,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -3222,7 +3222,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "adultRex",
+            "level_3_rex",
             "juvenileTrex",
             "",
             "",
@@ -3762,7 +3762,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "90"
+                "180"
               ]
             },
             {
@@ -4141,7 +4141,7 @@
           "parameters": [
             "level_3_rex",
             "juvenileTrex",
-            "1",
+            ".7",
             "1"
           ]
         }
@@ -4218,7 +4218,7 @@
           "parameters": [
             "level_3_rex",
             "juvenileTrex",
-            "1",
+            ".7",
             "1"
           ]
         }
@@ -4641,7 +4641,7 @@
       "isLocked": false,
       "name": "HILL FRONT",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -4673,7 +4673,7 @@
       "isLocked": false,
       "name": "FOG",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -4705,7 +4705,7 @@
       "isLocked": false,
       "name": "BUBBLES",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -4737,7 +4737,7 @@
       "isLocked": false,
       "name": "NIGHT",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": []
     },
@@ -4753,7 +4753,7 @@
       "isLocked": false,
       "name": "DAY",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {

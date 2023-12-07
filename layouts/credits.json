@@ -48,9 +48,25 @@
       "name": "thankYouNote",
       "persistentUuid": "8ad448ae-048e-4ee8-9ac5-46ca43c2c3cc",
       "width": 1915,
-      "x": 4,
-      "y": 389,
+      "x": 0,
+      "y": 714,
       "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 191,
+      "layer": "",
+      "name": "gudbye",
+      "persistentUuid": "3a9b1bc2-b0b8-49e5-97df-deca8a0a031d",
+      "width": 2106,
+      "x": -98,
+      "y": 207,
+      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -115,6 +131,36 @@
         "g": 255,
         "r": 255
       }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "gudbye",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Text_AutoTyping",
+          "type": "AutoTyping::Text_AutoTyping",
+          "Interval": 0.05,
+          "CharacterJustAdded": false,
+          "CurrentCharacter": ""
+        }
+      ],
+      "string": "After defeating the last of the humans, the island is free. You will now be able to hunt and live in peace....\n\nAtleast, until the other T-Rex comes back.",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 40,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      }
     }
   ],
   "events": [
@@ -140,6 +186,24 @@
             "LinearMovement",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "gudbye",
+            "Text_AutoTyping",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "thankYouNote"
+          ]
         }
       ]
     },
@@ -147,6 +211,60 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "gudbye",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "gudbye",
+            "Text_AutoTyping",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "5"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "gudbye"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "thankYouNote",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Credits",
+            "LinearMovement",
+            "yes"
+          ]
+        },
         {
           "type": {
             "value": "Wait"
@@ -165,11 +283,19 @@
         },
         {
           "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "gudbye"
+          ]
+        },
+        {
+          "type": {
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "Credits",
-            "LinearMovement",
+            "thankYouNote",
+            "Text_AutoTyping",
             "yes"
           ]
         }
