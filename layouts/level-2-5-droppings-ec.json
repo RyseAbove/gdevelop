@@ -903,6 +903,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Compy",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [
@@ -1585,6 +1586,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "baseplatform",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1654,6 +1656,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "spinninbucket",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1831,6 +1834,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "spinnin_fish",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2008,6 +2012,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MISSILE_WHAT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3242,6 +3247,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "BUCKET_FIRE",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3334,6 +3340,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MISSILE_FIE",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3426,6 +3433,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "FISHI_SPAW",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3517,6 +3525,7 @@
     {
       "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
       "name": "BlueDotBar",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -3593,6 +3602,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "spinning_hadrosaur",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3770,6 +3780,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hadro_sawn",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3862,6 +3873,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "NewTiledSprite",
+      "tags": "",
       "texture": "",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
@@ -3873,6 +3885,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "SPINNING_REX",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4050,6 +4063,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "REX_SPAWN",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4142,6 +4156,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "NewSprite",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4205,6 +4220,7 @@
       "italic": false,
       "name": "SECONDS_1",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [
@@ -4230,6 +4246,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "PIZZA_SPAWN",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4319,62 +4336,6 @@
       ]
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "Compy"
-      },
-      {
-        "objectName": "baseplatform"
-      },
-      {
-        "objectName": "spinninbucket"
-      },
-      {
-        "objectName": "spinnin_fish"
-      },
-      {
-        "objectName": "MISSILE_WHAT"
-      },
-      {
-        "objectName": "BUCKET_FIRE"
-      },
-      {
-        "objectName": "MISSILE_FIE"
-      },
-      {
-        "objectName": "FISHI_SPAW"
-      },
-      {
-        "objectName": "BlueDotBar"
-      },
-      {
-        "objectName": "spinning_hadrosaur"
-      },
-      {
-        "objectName": "hadro_sawn"
-      },
-      {
-        "objectName": "NewTiledSprite"
-      },
-      {
-        "objectName": "SPINNING_REX"
-      },
-      {
-        "objectName": "REX_SPAWN"
-      },
-      {
-        "objectName": "NewSprite"
-      },
-      {
-        "objectName": "SECONDS_1"
-      },
-      {
-        "objectName": "PIZZA_SPAWN"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -5209,10 +5170,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
