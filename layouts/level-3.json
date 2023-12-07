@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.09675524297022119,
+    "zoomFactor": 0.2531414001298631,
     "windowMask": false
   },
   "objectsGroups": [
@@ -107,13 +107,11 @@
       "depth": 1,
       "height": 296,
       "layer": "GRASS",
-      "locked": true,
       "name": "GRASS_REX",
       "persistentUuid": "70248664-21ef-4eb7-8da4-68b973b1993f",
-      "sealed": true,
       "width": 8600,
-      "x": -3035,
-      "y": 778,
+      "x": -3037,
+      "y": 808,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -448,8 +446,8 @@
       "name": "basrries",
       "persistentUuid": "99a46c8f-e21b-4009-b73d-42f61b2bfa60",
       "width": 1880,
-      "x": 5011,
-      "y": -1063,
+      "x": 5564,
+      "y": -1083,
       "zOrder": 35,
       "numberProperties": [],
       "stringProperties": [],
@@ -480,8 +478,8 @@
       "name": "basrries",
       "persistentUuid": "ce1f919c-a378-4ab3-85c4-efa8a6e57fff",
       "width": 1870,
-      "x": -3509,
-      "y": -1063,
+      "x": -4781,
+      "y": -1067,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -828,37 +826,6 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "CARVROOM",
-      "persistentUuid": "b402efb8-7305-4994-9b65-8c79a9c220be",
-      "width": 0,
-      "x": -1433,
-      "y": 1025,
-      "zOrder": 60,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 4,
-      "height": 453,
-      "layer": "",
-      "name": "MULDOON_AND_GENNARO",
-      "persistentUuid": "e4479286-fa62-4b78-bc3f-02dab50ba912",
-      "width": 453,
-      "x": 4435,
-      "y": 666,
-      "zOrder": 61,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
     }
   ],
   "objects": [
@@ -866,6 +833,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "BACKGROUND_REX",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -927,6 +895,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "FOG2",
+      "tags": "",
       "texture": "FO2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -947,6 +916,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "CLOUDS_REX",
+      "tags": "",
       "texture": "New image2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -958,6 +928,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "REX_PLATFORM",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1027,6 +998,7 @@
       "assetStoreId": "",
       "height": 300,
       "name": "GRASS_REX",
+      "tags": "",
       "texture": "New image3",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1100,
@@ -1038,6 +1010,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILL_FRONT",
+      "tags": "",
       "texture": "New image4",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1049,6 +1022,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILLS_REX_1",
+      "tags": "",
       "texture": "New image5",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1060,6 +1034,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILLS_REX_2",
+      "tags": "",
       "texture": "New image6",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1071,6 +1046,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "FRONT_BG",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1132,6 +1108,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "night_rex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1193,6 +1170,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "taco74dotgov",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1253,6 +1231,7 @@
     {
       "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
       "name": "OXYGEN_BAR",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -1331,6 +1310,7 @@
       "italic": false,
       "name": "OXYGENTEXT",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1350,6 +1330,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "SLANT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1423,6 +1404,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "RSLANT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1496,6 +1478,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "OXYGEBCOLLISOSOIN",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1557,6 +1540,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "pond_platfor",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1628,6 +1612,7 @@
       "italic": false,
       "name": "CONTAMINATION",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1646,6 +1631,7 @@
     {
       "assetStoreId": "45827f5ecff9d1cc17847c948a055323dbd4ca63159a0ed696d49ddf18bd071e",
       "name": "SICKNESS",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -1724,6 +1710,7 @@
       "italic": false,
       "name": "SICKNESS2",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1745,6 +1732,7 @@
       "italic": false,
       "name": "CONTAMINATION_AGin",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1766,6 +1754,7 @@
       "italic": false,
       "name": "hidden_text",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1787,6 +1776,7 @@
       "italic": false,
       "name": "another_hidden_text",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1808,6 +1798,7 @@
       "italic": false,
       "name": "another_another_hidden_text3",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1827,6 +1818,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "another_pondcollisdosj",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1888,6 +1880,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "another_jumpothr",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1957,6 +1950,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "DAY",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2027,6 +2021,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "basrries",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2096,6 +2091,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "level_3_rex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2734,6 +2730,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "POND_BUBBLES",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3114,167 +3111,8 @@
           ]
         }
       ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "CARVROOM",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "VROOM",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "VROOM",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 9,
-                        "y": 16
-                      },
-                      {
-                        "x": 43,
-                        "y": 16
-                      },
-                      {
-                        "x": 43,
-                        "y": 45
-                      },
-                      {
-                        "x": 9,
-                        "y": 45
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "BACKGROUND_REX"
-      },
-      {
-        "objectName": "FOG2"
-      },
-      {
-        "objectName": "CLOUDS_REX"
-      },
-      {
-        "objectName": "REX_PLATFORM"
-      },
-      {
-        "objectName": "GRASS_REX"
-      },
-      {
-        "objectName": "HILL_FRONT"
-      },
-      {
-        "objectName": "HILLS_REX_1"
-      },
-      {
-        "objectName": "HILLS_REX_2"
-      },
-      {
-        "objectName": "FRONT_BG"
-      },
-      {
-        "objectName": "night_rex"
-      },
-      {
-        "objectName": "taco74dotgov"
-      },
-      {
-        "objectName": "OXYGEN_BAR"
-      },
-      {
-        "objectName": "OXYGENTEXT"
-      },
-      {
-        "objectName": "SLANT"
-      },
-      {
-        "objectName": "RSLANT"
-      },
-      {
-        "objectName": "OXYGEBCOLLISOSOIN"
-      },
-      {
-        "objectName": "pond_platfor"
-      },
-      {
-        "objectName": "CONTAMINATION"
-      },
-      {
-        "objectName": "SICKNESS"
-      },
-      {
-        "objectName": "SICKNESS2"
-      },
-      {
-        "objectName": "CONTAMINATION_AGin"
-      },
-      {
-        "objectName": "hidden_text"
-      },
-      {
-        "objectName": "another_hidden_text"
-      },
-      {
-        "objectName": "another_another_hidden_text3"
-      },
-      {
-        "objectName": "another_pondcollisdosj"
-      },
-      {
-        "objectName": "another_jumpothr"
-      },
-      {
-        "objectName": "DAY"
-      },
-      {
-        "objectName": "basrries"
-      },
-      {
-        "objectName": "level_3_rex"
-      },
-      {
-        "objectName": "POND_BUBBLES"
-      },
-      {
-        "objectName": "CARVROOM"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Link",
@@ -3326,14 +3164,6 @@
             "Health",
             "=",
             "4"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "MULDOON_AND_GENNARO"
           ]
         }
       ]
@@ -3392,7 +3222,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "level_3_rex",
+            "adultRex",
             "juvenileTrex",
             "",
             "",
@@ -3932,7 +3762,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "180"
+                "90"
               ]
             },
             {
@@ -4051,63 +3881,6 @@
             "Animation",
             "=",
             "\"level_3_rexHide\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "3"
-          ]
-        },
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "MULDOON_AND_GENNARO",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "AddForceVers"
-          },
-          "parameters": [
-            "MULDOON_AND_GENNARO",
-            "CARVROOM",
-            "400",
-            "1"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "MULDOON_AND_GENNARO",
-            "CARVROOM",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Level 3 PHASE 2\"",
-            ""
           ]
         }
       ]
@@ -4368,7 +4141,7 @@
           "parameters": [
             "level_3_rex",
             "juvenileTrex",
-            ".7",
+            "1",
             "1"
           ]
         }
@@ -4445,7 +4218,7 @@
           "parameters": [
             "level_3_rex",
             "juvenileTrex",
-            ".7",
+            "1",
             "1"
           ]
         }
@@ -4512,36 +4285,6 @@
           "parameters": [
             "level_3_rex",
             "another_jumpothr",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "SeparateFromObjects"
-          },
-          "parameters": [
-            "level_3_rex",
-            "REX_PLATFORM",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "SeparateFromObjects"
-          },
-          "parameters": [
-            "level_3_rex",
-            "another_jumpothr",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "SeparateFromObjects"
-          },
-          "parameters": [
-            "level_3_rex",
-            "pond_platfor",
             ""
           ]
         }
@@ -4898,7 +4641,7 @@
       "isLocked": false,
       "name": "HILL FRONT",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -4930,7 +4673,7 @@
       "isLocked": false,
       "name": "FOG",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -4994,7 +4737,7 @@
       "isLocked": false,
       "name": "NIGHT",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": []
     },
@@ -5010,7 +4753,7 @@
       "isLocked": false,
       "name": "DAY",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -5163,10 +4906,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "ThreeDFlip",

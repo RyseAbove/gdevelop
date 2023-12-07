@@ -528,6 +528,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "fence",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -710,6 +711,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "tree",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -771,6 +773,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fish",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -832,6 +835,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "jeep",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1050,6 +1054,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "guyRunning",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1448,6 +1453,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "building",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1509,6 +1515,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "dirtFloor",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1578,6 +1585,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "road",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1647,6 +1655,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "dinoCarcass",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1708,6 +1717,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "treeBackground",
+      "tags": "",
       "texture": "TUT TREES2.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1719,6 +1729,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "grassBackground",
+      "tags": "",
       "texture": "TUT GRASS.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1730,6 +1741,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "background",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1790,6 +1802,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "shadowBorder",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1851,6 +1864,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "blue_tint",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1912,6 +1926,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "trigger1",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1954,6 +1969,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "trigger2",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1996,6 +2012,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "trigger3",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2038,6 +2055,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "trigger4",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2080,6 +2098,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "trigger5",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2124,6 +2143,7 @@
       "italic": false,
       "name": "tutorialText",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -2153,6 +2173,7 @@
       "italic": false,
       "name": "tutorialText2",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -2182,6 +2203,7 @@
       "italic": false,
       "name": "tutorialText3",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -2211,6 +2233,7 @@
       "italic": false,
       "name": "tutorialText4",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -2237,90 +2260,19 @@
     {
       "assetStoreId": "",
       "name": "fenceLight",
+      "tags": "",
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "content": {}
+      "content": {
+        "radius": 1500,
+        "color": "255;255;255",
+        "debugMode": false,
+        "texture": ""
+      }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "fence"
-      },
-      {
-        "objectName": "tree"
-      },
-      {
-        "objectName": "fish"
-      },
-      {
-        "objectName": "jeep"
-      },
-      {
-        "objectName": "guyRunning"
-      },
-      {
-        "objectName": "building"
-      },
-      {
-        "objectName": "dirtFloor"
-      },
-      {
-        "objectName": "road"
-      },
-      {
-        "objectName": "dinoCarcass"
-      },
-      {
-        "objectName": "treeBackground"
-      },
-      {
-        "objectName": "grassBackground"
-      },
-      {
-        "objectName": "background"
-      },
-      {
-        "objectName": "shadowBorder"
-      },
-      {
-        "objectName": "blue_tint"
-      },
-      {
-        "objectName": "trigger1"
-      },
-      {
-        "objectName": "trigger2"
-      },
-      {
-        "objectName": "trigger3"
-      },
-      {
-        "objectName": "trigger4"
-      },
-      {
-        "objectName": "trigger5"
-      },
-      {
-        "objectName": "tutorialText"
-      },
-      {
-        "objectName": "tutorialText2"
-      },
-      {
-        "objectName": "tutorialText3"
-      },
-      {
-        "objectName": "tutorialText4"
-      },
-      {
-        "objectName": "fenceLight"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Link",
@@ -3176,10 +3128,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Text_AutoTyping",

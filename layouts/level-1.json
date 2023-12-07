@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.06286874040998787,
+    "zoomFactor": 0.12615340253748744,
     "windowMask": false
   },
   "objectsGroups": [
@@ -120,7 +120,7 @@
       "layer": "",
       "name": "brigeplatform",
       "persistentUuid": "9f41d46b-2002-4111-9599-c407fdf245eb",
-      "width": 18408,
+      "width": 22340,
       "x": -959,
       "y": 756,
       "zOrder": 101,
@@ -142,22 +142,6 @@
       "x": 5654,
       "y": 56,
       "zOrder": 104,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 4,
-      "height": 291,
-      "layer": "",
-      "name": "dafishies",
-      "persistentUuid": "3425b37d-7064-4866-b820-aaece0723206",
-      "width": 291,
-      "x": -777,
-      "y": -1124,
-      "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -314,8 +298,8 @@
       "name": "juvenileTrex",
       "persistentUuid": "e72b9c5c-9641-483e-910c-1a2b95415af0",
       "width": 409,
-      "x": -540,
-      "y": 372,
+      "x": -470,
+      "y": 342,
       "zOrder": 108,
       "numberProperties": [],
       "stringProperties": [],
@@ -605,21 +589,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "fishAmmo",
-      "persistentUuid": "9717120b-7bb2-4ace-a090-91c1a2b9615a",
-      "width": 0,
-      "x": -1128,
-      "y": -644,
-      "zOrder": 127,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 1053,
@@ -644,7 +613,7 @@
       "persistentUuid": "d7cdf96c-885e-4b2c-87e2-a5b4c73cc99e",
       "width": 487,
       "x": 17338,
-      "y": 145,
+      "y": 60,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -723,7 +692,7 @@
       "name": "zaWalkway",
       "persistentUuid": "441d1044-22bc-4f2d-901f-181eac7cf31a",
       "width": 15986,
-      "x": 5979,
+      "x": 5653,
       "y": 55,
       "zOrder": 134,
       "numberProperties": [],
@@ -803,7 +772,7 @@
       "name": "Pillars",
       "persistentUuid": "25886e59-af2e-42bf-a4f0-a098cd0e08ce",
       "width": 325,
-      "x": 17048,
+      "x": 17159,
       "y": 173,
       "zOrder": 1,
       "numberProperties": [],
@@ -819,7 +788,7 @@
       "name": "CeradactlylBoss",
       "persistentUuid": "fff10ee9-b784-4e04-8674-0cd6167985cd",
       "width": 256,
-      "x": 17059,
+      "x": 17170,
       "y": 126,
       "zOrder": 137,
       "numberProperties": [],
@@ -899,7 +868,7 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "3553794c-6b67-412c-abff-bd56763f0684",
       "width": 256,
-      "x": 11453,
+      "x": 11857,
       "y": 82,
       "zOrder": 138,
       "numberProperties": [],
@@ -915,23 +884,7 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "cf225292-d8cd-4eec-a9d3-db9f85e30a82",
       "width": 256,
-      "x": 12277,
-      "y": 82,
-      "zOrder": 138,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 256,
-      "layer": "",
-      "name": "CeradactlylDiveDown",
-      "persistentUuid": "88e5e75c-6a49-4854-91c0-028645a2ac11",
-      "width": 256,
-      "x": 13235,
+      "x": 13077,
       "y": 82,
       "zOrder": 138,
       "numberProperties": [],
@@ -947,23 +900,7 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "8e5de01a-0cae-4f4d-ba63-b04c26b2273c",
       "width": 256,
-      "x": 14035,
-      "y": 82,
-      "zOrder": 138,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 256,
-      "layer": "",
-      "name": "CeradactlylDiveDown",
-      "persistentUuid": "7017e2e1-1661-4e4d-a086-4a8226d909b5",
-      "width": 256,
-      "x": 14896,
+      "x": 14284,
       "y": 82,
       "zOrder": 138,
       "numberProperties": [],
@@ -979,41 +916,9 @@
       "name": "CeradactlylDiveDown",
       "persistentUuid": "16ef9860-af77-41c6-8047-6e0e1afcd215",
       "width": 256,
-      "x": 15745,
+      "x": 15419,
       "y": 82,
       "zOrder": 138,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 64,
-      "layer": "",
-      "name": "brigeplatform",
-      "persistentUuid": "0a21d9d0-4682-4a91-90ae-278b7d8b3dbb",
-      "width": 4824,
-      "x": 16689,
-      "y": 727,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 4618,
-      "layer": "",
-      "name": "fadeLevel1",
-      "persistentUuid": "009dd778-0d41-40b6-887b-ff585525b742",
-      "width": 7284,
-      "x": 14878,
-      "y": -1974,
-      "zOrder": 139,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1024,6 +929,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "waterThose",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1107,6 +1013,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "daBridge",
+      "tags": "",
       "texture": "aviary BRIDGE2.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1118,6 +1025,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hills_TheWeekend",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1178,6 +1086,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "daHillary",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1238,6 +1147,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "brigeplatform",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1307,6 +1217,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "zaWalkway",
+      "tags": "",
       "texture": "aviary BRIDGE5.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1318,6 +1229,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "reverseReverse",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1379,6 +1291,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Pillars",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1440,6 +1353,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Ceradactlyl",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2544,6 +2458,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "CeradactlylBoss",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3648,6 +3563,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "CeradactlylDiveDown",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3938,7 +3854,7 @@
             {
               "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.15,
+              "timeBetweenFrames": 0.12,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -4238,24 +4154,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 125,
-                        "y": 161
+                        "x": 132,
+                        "y": 154
                       },
                       {
-                        "x": 105,
-                        "y": 123
+                        "x": 105.5,
+                        "y": 109.5
                       },
                       {
-                        "x": 65.5,
-                        "y": 150
+                        "x": 49,
+                        "y": 140.5
                       },
                       {
-                        "x": 101,
-                        "y": 180
+                        "x": 95.5,
+                        "y": 195.5
                       },
                       {
-                        "x": 120.5,
-                        "y": 178
+                        "x": 135,
+                        "y": 188.5
                       }
                     ]
                   ]
@@ -4278,24 +4194,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 140,
-                        "y": 156.5
+                        "x": 137.5,
+                        "y": 149
                       },
                       {
-                        "x": 102.5,
-                        "y": 177
+                        "x": 83.5,
+                        "y": 149
                       },
                       {
-                        "x": 88.5,
-                        "y": 224
+                        "x": 54,
+                        "y": 242.5
                       },
                       {
-                        "x": 162,
-                        "y": 215
+                        "x": 174.5,
+                        "y": 241
                       },
                       {
-                        "x": 161.5,
-                        "y": 181.5
+                        "x": 170,
+                        "y": 155
                       }
                     ]
                   ]
@@ -4318,24 +4234,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 207.5,
-                        "y": 208
+                        "x": 224.5,
+                        "y": 191
                       },
                       {
-                        "x": 187.5,
-                        "y": 170
+                        "x": 193.5,
+                        "y": 157
                       },
                       {
-                        "x": 152.5,
-                        "y": 227
+                        "x": 145.5,
+                        "y": 206.5
                       },
                       {
-                        "x": 157,
-                        "y": 276.5
+                        "x": 150.5,
+                        "y": 282
                       },
                       {
-                        "x": 222,
-                        "y": 251.5
+                        "x": 230,
+                        "y": 279
                       }
                     ]
                   ]
@@ -4358,24 +4274,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 228,
-                        "y": 181.5
+                        "x": 233.5,
+                        "y": 167
                       },
                       {
                         "x": 198,
                         "y": 119
                       },
                       {
-                        "x": 180,
-                        "y": 161.5
+                        "x": 162.5,
+                        "y": 168
                       },
                       {
-                        "x": 171,
-                        "y": 244.5
+                        "x": 159.5,
+                        "y": 254
                       },
                       {
-                        "x": 234.5,
-                        "y": 241.5
+                        "x": 242,
+                        "y": 254.5
                       }
                     ]
                   ]
@@ -4398,24 +4314,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 230,
-                        "y": 107
+                        "x": 239,
+                        "y": 94.5
                       },
                       {
                         "x": 208.5,
                         "y": 59
                       },
                       {
-                        "x": 190.5,
-                        "y": 114.5
+                        "x": 170.5,
+                        "y": 115
                       },
                       {
-                        "x": 180,
-                        "y": 192
+                        "x": 168,
+                        "y": 206.5
                       },
                       {
-                        "x": 249,
-                        "y": 185
+                        "x": 250,
+                        "y": 196
                       }
                     ]
                   ]
@@ -4723,6 +4639,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Clowd",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4783,6 +4700,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "cloud2",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4844,6 +4762,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "scawy",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4888,6 +4807,7 @@
       "italic": false,
       "name": "warning___",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -4907,6 +4827,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "chatTrigger1",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4968,6 +4889,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "chatTrigger2",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -5031,6 +4953,7 @@
       "italic": false,
       "name": "chatTriggered1",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -5060,6 +4983,7 @@
       "italic": false,
       "name": "chatTriggered2",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -5089,6 +5013,7 @@
       "italic": false,
       "name": "fishShoota",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -5116,6 +5041,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Level1Trigger",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -5158,6 +5084,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "johnCera",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [
@@ -5166,12 +5093,6 @@
           "name": "health",
           "type": "number",
           "value": 35
-        },
-        {
-          "folded": true,
-          "name": "Regen",
-          "type": "boolean",
-          "value": true
         }
       ],
       "effects": [],
@@ -6246,6 +6167,7 @@
     {
       "assetStoreId": "17a00ca25428306c8db067b2dd8379e9fe1cb562c10443ae2f65f3d561e54f1e",
       "name": "johnCeraHealth",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -6283,6 +6205,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "NUGHT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6344,6 +6267,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "evil_fish",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6404,6 +6328,7 @@
     {
       "assetStoreId": "17a00ca25428306c8db067b2dd8379e9fe1cb562c10443ae2f65f3d561e54f1e",
       "name": "CeraBossHealthBar",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -6469,6 +6394,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "bossTrigger",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6513,6 +6439,7 @@
       "italic": false,
       "name": "bossExplain",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -6540,6 +6467,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_left",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6609,6 +6537,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_right",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6678,6 +6607,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_top",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6747,6 +6677,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_bottom",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6811,178 +6742,8 @@
           ]
         }
       ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "fadeLevel1",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
-        }
-      ],
-      "animations": [
-        {
-          "name": "fadeLevel1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "fadeLevel1",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "waterThose"
-      },
-      {
-        "objectName": "daBridge"
-      },
-      {
-        "objectName": "hills_TheWeekend"
-      },
-      {
-        "objectName": "daHillary"
-      },
-      {
-        "objectName": "brigeplatform"
-      },
-      {
-        "objectName": "zaWalkway"
-      },
-      {
-        "objectName": "reverseReverse"
-      },
-      {
-        "objectName": "Pillars"
-      },
-      {
-        "objectName": "Ceradactlyl"
-      },
-      {
-        "objectName": "CeradactlylBoss"
-      },
-      {
-        "objectName": "CeradactlylDiveDown"
-      },
-      {
-        "objectName": "Clowd"
-      },
-      {
-        "objectName": "cloud2"
-      },
-      {
-        "objectName": "scawy"
-      },
-      {
-        "objectName": "warning___"
-      },
-      {
-        "objectName": "chatTrigger1"
-      },
-      {
-        "objectName": "chatTrigger2"
-      },
-      {
-        "objectName": "chatTriggered1"
-      },
-      {
-        "objectName": "chatTriggered2"
-      },
-      {
-        "objectName": "fishShoota"
-      },
-      {
-        "objectName": "Level1Trigger"
-      },
-      {
-        "objectName": "johnCera"
-      },
-      {
-        "objectName": "johnCeraHealth"
-      },
-      {
-        "objectName": "NUGHT"
-      },
-      {
-        "objectName": "evil_fish"
-      },
-      {
-        "objectName": "CeraBossHealthBar"
-      },
-      {
-        "objectName": "bossTrigger"
-      },
-      {
-        "objectName": "bossExplain"
-      },
-      {
-        "objectName": "barrier_left"
-      },
-      {
-        "objectName": "barrier_right"
-      },
-      {
-        "objectName": "barrier_top"
-      },
-      {
-        "objectName": "barrier_bottom"
-      },
-      {
-        "objectName": "fadeLevel1"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Link",
@@ -7217,31 +6978,6 @@
             "Platform",
             ""
           ]
-        },
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "fadeLevel1",
-            "Opacity",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::AddObjectOpacityTween"
-          },
-          "parameters": [
-            "fadeLevel1",
-            "Tween",
-            "\"fadeOpacity\"",
-            "0",
-            "\"linear\"",
-            "10",
-            ""
-          ]
         }
       ]
     },
@@ -7352,7 +7088,7 @@
           },
           "parameters": [
             "canThrow",
-            "False"
+            "True"
           ]
         }
       ],
@@ -7678,20 +7414,102 @@
       ]
     },
     {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "Parallax",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [],
-      "parameters": []
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "CeradactlylBoss",
+            "juvenileTrex",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "-",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "CeradactlylDiveDown",
+            "juvenileTrex",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "-",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "Health",
+            "1",
+            "no",
+            "no",
+            ""
+          ]
+        }
+      ]
     },
     {
       "colorB": 228,
@@ -8286,18 +8104,51 @@
             "johnCera",
             "Health",
             "<=",
-            "5",
+            "0",
             ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "johnCera",
+            "Animation",
+            "=",
+            "\"Death\""
           ]
         },
         {
           "type": {
-            "value": "ObjectVariableAsBoolean"
+            "value": "FireBullet::FireBullet::SetCooldownOp"
           },
           "parameters": [
             "johnCera",
-            "Regen",
-            "True"
+            "FireBullet",
+            "=",
+            "10000000000",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::Health"
+          },
+          "parameters": [
+            "johnCera",
+            "Health",
+            "<=",
+            "5",
+            ""
           ]
         },
         {
@@ -8332,10 +8183,11 @@
         },
         {
           "type": {
-            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+            "value": "Health::Health::SetMaxHealthOp"
           },
           "parameters": [
-            "johnCeraHealth",
+            "johnCera",
+            "Health",
             "=",
             "45",
             ""
@@ -8343,11 +8195,10 @@
         },
         {
           "type": {
-            "value": "Health::Health::SetMaxHealthOp"
+            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
           },
           "parameters": [
-            "johnCera",
-            "Health",
+            "johnCeraHealth",
             "=",
             "45",
             ""
@@ -8373,109 +8224,6 @@
             "health",
             "=",
             "45"
-          ]
-        },
-        {
-          "type": {
-            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-          },
-          "parameters": [
-            "CeraBossHealthBar",
-            "=",
-            "45",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "SetObjectVariableAsBoolean"
-          },
-          "parameters": [
-            "johnCera",
-            "Regen",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "Health::Health::Health"
-          },
-          "parameters": [
-            "johnCera",
-            "Health",
-            "<=",
-            "0",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "johnCera",
-            "Animation",
-            "=",
-            "\"Death\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "CeraBossHealthBar"
-          ]
-        },
-        {
-          "type": {
-            "value": "FireBullet::FireBullet::SetCooldownOp"
-          },
-          "parameters": [
-            "johnCera",
-            "FireBullet",
-            "=",
-            "10000000000",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::AddObjectOpacityTween"
-          },
-          "parameters": [
-            "fadeLevel1",
-            "Tween",
-            "\"fadeOpacity\"",
-            "255",
-            "\"linear\"",
-            "3000",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "8"
-          ]
-        },
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"LEVEL SELECT PAGE ONE\"",
-            ""
           ]
         }
       ]
@@ -8599,55 +8347,6 @@
             "Animation",
             "=",
             "\"Ceradactlyl dive\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "CeradactlylDiveDown",
-            "juvenileTrex",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Health::Health::Hit"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Health",
-            "1",
-            "no",
-            "no",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ModVarObjet"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "Health",
-            "-",
-            "1"
           ]
         }
       ]
@@ -8930,10 +8629,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Text_AutoTyping",

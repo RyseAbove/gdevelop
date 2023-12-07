@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.0935990520402269,
+    "zoomFactor": 0.29879853636069037,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -48,25 +48,9 @@
       "name": "thankYouNote",
       "persistentUuid": "8ad448ae-048e-4ee8-9ac5-46ca43c2c3cc",
       "width": 1915,
-      "x": 0,
-      "y": 714,
+      "x": 4,
+      "y": 389,
       "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 191,
-      "layer": "",
-      "name": "gudbye",
-      "persistentUuid": "3a9b1bc2-b0b8-49e5-97df-deca8a0a031d",
-      "width": 2106,
-      "x": -98,
-      "y": 207,
-      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -79,6 +63,7 @@
       "italic": false,
       "name": "Credits",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -107,6 +92,7 @@
       "italic": false,
       "name": "thankYouNote",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -129,51 +115,8 @@
         "g": 255,
         "r": 255
       }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "gudbye",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Text_AutoTyping",
-          "type": "AutoTyping::Text_AutoTyping",
-          "Interval": 0.05,
-          "CharacterJustAdded": false,
-          "CurrentCharacter": ""
-        }
-      ],
-      "string": "After defeating the last of the humans, the island is free. You will now be able to hunt and live in peace....\n\nAtleast, until the other T-Rex comes back.",
-      "font": "",
-      "textAlignment": "center",
-      "characterSize": 40,
-      "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
-      }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "Credits"
-      },
-      {
-        "objectName": "thankYouNote"
-      },
-      {
-        "objectName": "gudbye"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -197,24 +140,6 @@
             "LinearMovement",
             ""
           ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "gudbye",
-            "Text_AutoTyping",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "thankYouNote"
-          ]
         }
       ]
     },
@@ -222,60 +147,6 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "gudbye",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "gudbye",
-            "Text_AutoTyping",
-            "yes"
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "5"
-          ]
-        },
-        {
-          "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "gudbye"
-          ]
-        },
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "thankYouNote",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "Credits",
-            "LinearMovement",
-            "yes"
-          ]
-        },
         {
           "type": {
             "value": "Wait"
@@ -294,19 +165,11 @@
         },
         {
           "type": {
-            "value": "Cache"
-          },
-          "parameters": [
-            "gudbye"
-          ]
-        },
-        {
-          "type": {
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "thankYouNote",
-            "Text_AutoTyping",
+            "Credits",
+            "LinearMovement",
             "yes"
           ]
         }
@@ -430,10 +293,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Text_AutoTyping",

@@ -21,7 +21,7 @@
     "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "jurassic-part",
-    "description": "",
+    "description": "juracisc parkt",
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
@@ -52,7 +52,10 @@
     },
     "authorIds": [],
     "authorUsernames": [],
-    "categories": [],
+    "categories": [
+      "action",
+      "adventure"
+    ],
     "playableDevices": [],
     "extensionProperties": [],
     "platforms": [
@@ -1792,7 +1795,7 @@
         "alwaysLoaded": false,
         "file": "assets/deceased dinosaur.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/deceased dinosaur.png\"}",
         "name": "deceased dinosaur",
         "smoothed": true,
         "userAdded": false
@@ -6878,7 +6881,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_johnPizza.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_johnPizza.png\"}",
+        "metadata": "{\"extension\":\".png\"}",
         "name": "assets\\johnPizza",
         "smoothed": true,
         "userAdded": false
@@ -6932,7 +6935,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_johnPizza3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_johnPizza3.png\"}",
+        "metadata": "{\"extension\":\".png\"}",
         "name": "assets\\johnPizza3",
         "smoothed": true,
         "userAdded": false
@@ -7513,644 +7516,22 @@
         "userAdded": true
       },
       {
-        "file": "dinoDroppings.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "dinoDroppings.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite163.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite140",
+        "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH.png",
+        "file": "assets/deadHadro.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH",
+        "name": "deadHadro",
         "smoothed": true,
         "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH5",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH6",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH7",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH9",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH10",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH11",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/CARRRAAHH12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "CARRRAAHH12",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW3",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW4",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW5",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW6",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW7",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW8",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW9",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW10",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW11",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW12",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW13",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW14",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW15",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/THE LAW16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "THE LAW16",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM3",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM4",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM5",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM6",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM7",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM8",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM9",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM10",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM11",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM12",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM13",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM14",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM15",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM16",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MISSSILE EXPLOSIONM17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MISSSILE EXPLOSIONM17",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/MOVE TRIGGER.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MOVE TRIGGER",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/fadeLevel1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fadeLevel1.png\"}",
-        "name": "fadeLevel1",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/HADROLOAFING.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HADROLOAFING",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/HADROLOAFING2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HADROLOAFING2",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/HADROLOAFING3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HADROLOAFING3",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/HADROLOAFING4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HADROLOAFING4",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/HADROLOAFING5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HADROLOAFING5",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/HADROLOAFING6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HADROLOAFING6",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL5",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL6",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL7",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL9",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL10",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL11",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL12",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL13",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL14",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL15",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NMMISISDKSL16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NMMISISDKSL16",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/assets_johnPizza4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "assets\\johnPizza2",
-        "smoothed": true,
-        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -8159,33 +7540,46 @@
     {
       "assetStoreId": "",
       "name": "carLight",
+      "tags": "",
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "content": {}
+      "content": {
+        "radius": 250,
+        "color": "255;255;255",
+        "debugMode": false,
+        "texture": ""
+      }
     },
     {
       "assetStoreId": "",
       "name": "explosionLight",
+      "tags": "",
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "content": {}
+      "content": {
+        "radius": 1000,
+        "color": "255;255;255",
+        "debugMode": false,
+        "texture": ""
+      }
     },
     {
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "juvenileTrex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [
         {
           "folded": true,
           "name": "Health",
-          "type": "number",
-          "value": 2
+          "type": "string",
+          "value": "2"
         },
         {
           "folded": true,
@@ -8262,7 +7656,7 @@
           "DashInitialSpeed": 1000,
           "DashSustainDurationMin": 0,
           "DashSustainDurationMax": 0.25,
-          "DashSustainAcceleration": 15000,
+          "DashSustainAcceleration": 1500,
           "DashSustainSpeedMax": 750,
           "DashSustainGravity": 0,
           "DashDecceleration": 2000,
@@ -8422,16 +7816,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8472,16 +7870,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8522,16 +7924,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8572,16 +7978,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8622,16 +8032,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8672,16 +8086,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8722,16 +8140,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8772,16 +8194,20 @@
                         "y": 325
                       },
                       {
-                        "x": 234.5,
-                        "y": 239
+                        "x": 220.5,
+                        "y": 215
                       },
                       {
-                        "x": 393.5,
-                        "y": 45
+                        "x": 311.5,
+                        "y": 29
                       },
                       {
-                        "x": 486.5,
-                        "y": 97
+                        "x": 480.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 256
                       },
                       {
                         "x": 311.5,
@@ -8839,16 +8265,20 @@
                         "y": 249
                       },
                       {
-                        "x": 285.5,
-                        "y": 176
+                        "x": 254.5,
+                        "y": 122
                       },
                       {
-                        "x": 424.5,
-                        "y": 92
+                        "x": 371.5,
+                        "y": 51
                       },
                       {
-                        "x": 496.5,
-                        "y": 148
+                        "x": 500,
+                        "y": 61
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 222
                       },
                       {
                         "x": 293.5,
@@ -8893,16 +8323,20 @@
                         "y": 249
                       },
                       {
-                        "x": 285.5,
-                        "y": 176
+                        "x": 254.5,
+                        "y": 122
                       },
                       {
-                        "x": 424.5,
-                        "y": 92
+                        "x": 371.5,
+                        "y": 51
                       },
                       {
-                        "x": 496.5,
-                        "y": 148
+                        "x": 500,
+                        "y": 61
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 222
                       },
                       {
                         "x": 293.5,
@@ -8947,16 +8381,20 @@
                         "y": 249
                       },
                       {
-                        "x": 285.5,
-                        "y": 176
+                        "x": 254.5,
+                        "y": 122
                       },
                       {
-                        "x": 424.5,
-                        "y": 92
+                        "x": 371.5,
+                        "y": 51
                       },
                       {
-                        "x": 496.5,
-                        "y": 148
+                        "x": 500,
+                        "y": 61
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 222
                       },
                       {
                         "x": 293.5,
@@ -9001,16 +8439,20 @@
                         "y": 249
                       },
                       {
-                        "x": 285.5,
-                        "y": 176
+                        "x": 254.5,
+                        "y": 122
                       },
                       {
-                        "x": 424.5,
-                        "y": 92
+                        "x": 371.5,
+                        "y": 51
                       },
                       {
-                        "x": 496.5,
-                        "y": 148
+                        "x": 500,
+                        "y": 61
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 222
                       },
                       {
                         "x": 293.5,
@@ -9055,16 +8497,20 @@
                         "y": 249
                       },
                       {
-                        "x": 285.5,
-                        "y": 176
+                        "x": 254.5,
+                        "y": 122
                       },
                       {
-                        "x": 424.5,
-                        "y": 92
+                        "x": 371.5,
+                        "y": 51
                       },
                       {
-                        "x": 496.5,
-                        "y": 148
+                        "x": 500,
+                        "y": 61
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 222
                       },
                       {
                         "x": 293.5,
@@ -9109,16 +8555,20 @@
                         "y": 249
                       },
                       {
-                        "x": 285.5,
-                        "y": 176
+                        "x": 254.5,
+                        "y": 122
                       },
                       {
-                        "x": 424.5,
-                        "y": 92
+                        "x": 371.5,
+                        "y": 51
                       },
                       {
-                        "x": 496.5,
-                        "y": 148
+                        "x": 500,
+                        "y": 61
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 222
                       },
                       {
                         "x": 293.5,
@@ -9163,16 +8613,20 @@
                         "y": 249
                       },
                       {
-                        "x": 285.5,
-                        "y": 176
+                        "x": 254.5,
+                        "y": 122
                       },
                       {
-                        "x": 424.5,
-                        "y": 92
+                        "x": 371.5,
+                        "y": 51
                       },
                       {
-                        "x": 496.5,
-                        "y": 148
+                        "x": 500,
+                        "y": 61
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 222
                       },
                       {
                         "x": 293.5,
@@ -9226,12 +8680,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9272,12 +8730,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9318,12 +8780,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9364,12 +8830,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9410,12 +8880,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9456,12 +8930,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9502,12 +8980,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9548,12 +9030,16 @@
                         "y": 205
                       },
                       {
-                        "x": 426.5,
-                        "y": 92
+                        "x": 345.5,
+                        "y": 46
                       },
                       {
-                        "x": 485.5,
-                        "y": 168
+                        "x": 500,
+                        "y": 55
+                      },
+                      {
+                        "x": 455.5,
+                        "y": 214
                       },
                       {
                         "x": 295.5,
@@ -9575,7 +9061,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08333333333333333,
               "sprites": [
@@ -9603,12 +9089,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9645,12 +9139,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9687,12 +9189,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9729,12 +9239,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9771,12 +9289,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9813,12 +9339,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9855,12 +9389,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9897,12 +9439,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 313.5,
-                        "y": 54
+                        "x": 113.5,
+                        "y": 306
                       },
                       {
-                        "x": 443.5,
-                        "y": 86
+                        "x": 269.5,
+                        "y": 26
+                      },
+                      {
+                        "x": 448.5,
+                        "y": 39
+                      },
+                      {
+                        "x": 393.5,
+                        "y": 252
                       },
                       {
                         "x": 271.5,
@@ -9925,6 +9475,7 @@
       "assetStoreId": "",
       "height": 128,
       "name": "healthBar",
+      "tags": "",
       "texture": "fishlife2.png2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 128,
@@ -9936,6 +9487,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "dafishies",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -9996,6 +9548,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "PALM_TREE_LEAVES",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10075,6 +9628,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "PALM_TREE_STUMP",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10136,6 +9690,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "STUMP__RIOGHT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10197,6 +9752,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "LEAVES_RIGHT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10278,6 +9834,7 @@
       "italic": false,
       "name": "timr_er",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -10297,6 +9854,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "johnPizza",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10316,13 +9874,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\johnPizza2",
+                  "image": "assets\\johnPizza",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10358,7 +9916,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\johnPizza",
+                  "image": "assets\\johnPizza2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10474,6 +10032,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "adultRex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11117,6 +10676,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fishAmmo",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11178,6 +10738,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fishiesBucket",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11234,703 +10795,8 @@
           ]
         }
       ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "MULDOON_AND_GENNARO",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "FireBullet",
-          "type": "FireBullet::FireBullet",
-          "FireCooldown": 3,
-          "HasJustFired": false,
-          "FiringArc": 45,
-          "BulletQuantity": 1,
-          "AngleVariance": 0,
-          "RotateBullet": true,
-          "AmmoQuantity": 0,
-          "ShotsPerReload": 0,
-          "ReloadDuration": 4,
-          "MaxAmmo": 10000,
-          "ShotsBeforeNextReload": 0,
-          "TotalShotsFired": 0,
-          "TotalBulletsCreated": 0,
-          "StartingAmmo": 10000,
-          "TotalReloadsCompleted": 0,
-          "UnlimitedAmmo": true,
-          "ReloadInProgress": false,
-          "HeatIncreasePerShot": 2,
-          "HeatLevel": 0,
-          "AutomaticReloading": true,
-          "OverheatDuration": 2,
-          "LinearCoolingRate": 0.1,
-          "ExponentialCoolingRate": 0.3,
-          "BulletLayer": "",
-          "RandomizedAngle": 0,
-          "BulletSpeedVariance": 0
-        },
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior",
-          "canBeGrabbed": true,
-          "platformType": "NormalPlatform",
-          "yGrabOffset": 0
-        }
-      ],
-      "animations": [
-        {
-          "name": "CARRRAAHH",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.1,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH2",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH3",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH4",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH5",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH6",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH7",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH8",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH9",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH10",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH11",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "CARRRAAHH12",
-                  "points": [
-                    {
-                      "name": "MISSILE",
-                      "x": 116.5,
-                      "y": 55.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 6,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 33
-                      },
-                      {
-                        "x": 118,
-                        "y": 113
-                      },
-                      {
-                        "x": 6,
-                        "y": 113
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
-      "name": "LOADING_BAR",
-      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "RepeatTimer",
-          "type": "RepeatEveryXSeconds::RepeatTimer",
-          "TimerName": "MyTimer",
-          "TimerLength": 1,
-          "Limit": -1,
-          "Counter": 0
-        }
-      ],
-      "content": {
-        "BarTopPadding": 3,
-        "BarLeftPadding": 4,
-        "BarRightPadding": 4,
-        "BarBottomPadding": 4,
-        "EasingDuration": 0,
-        "PreviousHighValueDuration": 0,
-        "ShowLabel": false,
-        "InitialValue": 0,
-        "MaxValue": 3
-      },
-      "childrenContent": {
-        "Background": {
-          "bottomMargin": 4,
-          "height": 26,
-          "leftMargin": 2,
-          "rightMargin": 2,
-          "texture": "Dot Bar Blue Border.png",
-          "tiled": false,
-          "topMargin": 3,
-          "width": 118
-        },
-        "Buffer": {
-          "bottomMargin": 0,
-          "height": 19,
-          "leftMargin": 0,
-          "rightMargin": 0,
-          "texture": "Dot Bar Blue Fill Bar.png",
-          "tiled": true,
-          "topMargin": 0,
-          "width": 21
-        },
-        "FillBar": {
-          "bottomMargin": 0,
-          "height": 19,
-          "leftMargin": 0,
-          "rightMargin": 0,
-          "texture": "Dot Bar Blue Fill Bar.png",
-          "tiled": true,
-          "topMargin": 0,
-          "width": 21
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "2 / 3",
-          "font": "",
-          "textAlignment": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        }
-      }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "carLight"
-      },
-      {
-        "objectName": "explosionLight"
-      },
-      {
-        "objectName": "juvenileTrex"
-      },
-      {
-        "objectName": "healthBar"
-      },
-      {
-        "objectName": "dafishies"
-      },
-      {
-        "objectName": "PALM_TREE_LEAVES"
-      },
-      {
-        "objectName": "PALM_TREE_STUMP"
-      },
-      {
-        "objectName": "STUMP__RIOGHT"
-      },
-      {
-        "objectName": "LEAVES_RIGHT"
-      },
-      {
-        "objectName": "timr_er"
-      },
-      {
-        "objectName": "johnPizza"
-      },
-      {
-        "objectName": "adultRex"
-      },
-      {
-        "objectName": "fishAmmo"
-      },
-      {
-        "objectName": "fishiesBucket"
-      },
-      {
-        "objectName": "MULDOON_AND_GENNARO"
-      },
-      {
-        "objectName": "LOADING_BAR"
-      }
-    ]
-  },
   "objectsGroups": [],
   "variables": [],
   "layouts": [
@@ -11965,10 +10831,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-2-5-droppings-ec"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/level-3-phase-2"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -12008,27 +10870,7 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/dino-drop-loading"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/level-3-loading"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/level-2-loading"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level-1-loading"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/level-0-loading"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/car-crash"
     }
   ],
   "externalEvents": [

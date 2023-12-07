@@ -80,6 +80,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "NewSprite",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -139,6 +140,7 @@
     {
       "assetStoreId": "54a9a34bb495b15fe0e00f71075908e1ce52d499723617c966ad527229c77c79",
       "name": "TransparentButtonWithWhiteYellowBorder",
+      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -202,6 +204,7 @@
     {
       "assetStoreId": "54a9a34bb495b15fe0e00f71075908e1ce52d499723617c966ad527229c77c79",
       "name": "LEVEL_SELECT",
+      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -263,20 +266,6 @@
       }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "NewSprite"
-      },
-      {
-        "objectName": "TransparentButtonWithWhiteYellowBorder"
-      },
-      {
-        "objectName": "LEVEL_SELECT"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -481,10 +470,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
