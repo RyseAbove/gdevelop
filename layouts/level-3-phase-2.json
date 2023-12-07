@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.03822864416961237,
+    "zoomFactor": 0.3645833333333349,
     "windowMask": false
   },
   "objectsGroups": [
@@ -57,8 +57,8 @@
       "name": "BACKGROUND_REX",
       "persistentUuid": "eb4968ad-d57a-4e0d-ae02-f67e2c6aab99",
       "sealed": true,
-      "width": 27078,
-      "x": -21026,
+      "width": 23607,
+      "x": -17555,
       "y": -334,
       "zOrder": 1,
       "numberProperties": [],
@@ -75,8 +75,8 @@
       "name": "FOG2",
       "persistentUuid": "77a0fdcd-d325-4922-8e40-ed165442f3a9",
       "sealed": true,
-      "width": 26813,
-      "x": -21044,
+      "width": 23312,
+      "x": -17543,
       "y": 621,
       "zOrder": 3,
       "numberProperties": [],
@@ -93,8 +93,8 @@
       "name": "CLOUDS_REX",
       "persistentUuid": "18075590-3947-4d12-8118-9a6832d2b67c",
       "sealed": true,
-      "width": 26609,
-      "x": -21019,
+      "width": 23217,
+      "x": -17627,
       "y": -95,
       "zOrder": 4,
       "numberProperties": [],
@@ -107,10 +107,8 @@
       "depth": 1,
       "height": 296,
       "layer": "GRASS",
-      "locked": true,
       "name": "GRASS_REX",
       "persistentUuid": "70248664-21ef-4eb7-8da4-68b973b1993f",
-      "sealed": true,
       "width": 23078,
       "x": -17515,
       "y": 808,
@@ -129,8 +127,8 @@
       "name": "HILL_FRONT",
       "persistentUuid": "63393d7c-1ea0-461c-a306-b7c3402bdd0d",
       "sealed": true,
-      "width": 31129,
-      "x": -21027,
+      "width": 27694,
+      "x": -17592,
       "y": -164,
       "zOrder": 6,
       "numberProperties": [],
@@ -147,8 +145,8 @@
       "name": "HILLS_REX_1",
       "persistentUuid": "04078531-35d7-4a27-8ccd-a0a7cd931a9d",
       "sealed": true,
-      "width": 26601,
-      "x": -21020,
+      "width": 23142,
+      "x": -17561,
       "y": 82,
       "zOrder": 7,
       "numberProperties": [],
@@ -165,8 +163,8 @@
       "name": "HILLS_REX_2",
       "persistentUuid": "9a7adaa1-7c95-448f-8567-1d80e5f5f1ea",
       "sealed": true,
-      "width": 26640,
-      "x": -21025,
+      "width": 23442,
+      "x": -17827,
       "y": 208,
       "zOrder": 8,
       "numberProperties": [],
@@ -213,8 +211,8 @@
       "layer": "HILL FRONT",
       "name": "FRONT_BG",
       "persistentUuid": "a83a40c4-17ce-4ccc-95da-0fc86e1178dc",
-      "width": 31182,
-      "x": -21022,
+      "width": 13460,
+      "x": -3300,
       "y": 842,
       "zOrder": 5,
       "numberProperties": [],
@@ -229,8 +227,8 @@
       "layer": "NIGHT",
       "name": "night_rex",
       "persistentUuid": "5ed09e92-ee8e-46c2-837e-d1cff8f39bda",
-      "width": 26842,
-      "x": -21221,
+      "width": 8556,
+      "x": -2935,
       "y": -377,
       "zOrder": 11,
       "numberProperties": [],
@@ -276,8 +274,8 @@
       "layer": "DAY",
       "name": "DAY",
       "persistentUuid": "8a55e604-9da7-4118-b567-9eb383b9cc82",
-      "width": 26668,
-      "x": -21046,
+      "width": 8550,
+      "x": -2928,
       "y": -460,
       "zOrder": 28,
       "numberProperties": [],
@@ -340,10 +338,25 @@
       "layer": "",
       "name": "REX_PLATFORM",
       "persistentUuid": "9b475d27-cf06-42f9-97ed-f6a47183e19e",
-      "width": 26074,
-      "x": -21014,
+      "width": 22476,
+      "x": -17416,
       "y": 1101,
       "zOrder": 42,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "POND_BUBBLES",
+      "persistentUuid": "a08d9650-d43b-4a82-a2fb-69439434431f",
+      "width": 0,
+      "x": 1972,
+      "y": 953,
+      "zOrder": 54,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -373,8 +386,8 @@
       "name": "MOVE_TRIGGER",
       "persistentUuid": "1b7a6449-ce2b-409c-80af-528fae7ee516",
       "width": 0,
-      "x": -20466,
-      "y": 1039,
+      "x": -17415,
+      "y": 1044,
       "zOrder": 61,
       "numberProperties": [],
       "stringProperties": [],
@@ -401,6 +414,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "BACKGROUND_REX",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -462,6 +476,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "FOG2",
+      "tags": "",
       "texture": "FO2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -482,6 +497,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "CLOUDS_REX",
+      "tags": "",
       "texture": "New image2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -493,6 +509,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "REX_PLATFORM",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -562,6 +579,7 @@
       "assetStoreId": "",
       "height": 300,
       "name": "GRASS_REX",
+      "tags": "",
       "texture": "New image3",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1100,
@@ -573,6 +591,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILL_FRONT",
+      "tags": "",
       "texture": "New image4",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -584,6 +603,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILLS_REX_1",
+      "tags": "",
       "texture": "New image5",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -595,6 +615,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILLS_REX_2",
+      "tags": "",
       "texture": "New image6",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -606,6 +627,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "FRONT_BG",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -667,6 +689,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "night_rex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -728,6 +751,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "taco74dotgov",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -788,6 +812,7 @@
     {
       "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
       "name": "OXYGEN_BAR",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -866,6 +891,7 @@
       "italic": false,
       "name": "OXYGENTEXT",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -885,6 +911,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "SLANT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -958,6 +985,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "RSLANT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1031,6 +1059,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "OXYGEBCOLLISOSOIN",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1092,6 +1121,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "pond_platfor",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1163,6 +1193,7 @@
       "italic": false,
       "name": "CONTAMINATION",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1181,6 +1212,7 @@
     {
       "assetStoreId": "45827f5ecff9d1cc17847c948a055323dbd4ca63159a0ed696d49ddf18bd071e",
       "name": "SICKNESS",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -1259,6 +1291,7 @@
       "italic": false,
       "name": "SICKNESS2",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1280,6 +1313,7 @@
       "italic": false,
       "name": "CONTAMINATION_AGin",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1301,6 +1335,7 @@
       "italic": false,
       "name": "hidden_text",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1322,6 +1357,7 @@
       "italic": false,
       "name": "another_hidden_text",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1343,6 +1379,7 @@
       "italic": false,
       "name": "another_another_hidden_text3",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1362,6 +1399,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "another_pondcollisdosj",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1423,6 +1461,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "another_jumpothr",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1492,6 +1531,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "DAY",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1562,6 +1602,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "basrries",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1631,6 +1672,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "POND_BUBBLES",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2016,6 +2058,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MULDOON_AND_GENNARO",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2583,6 +2626,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "LAW_MISSILE",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3809,6 +3853,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MOVE_TRIGGER",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3872,6 +3917,7 @@
       "italic": false,
       "name": "chasem",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -3896,110 +3942,6 @@
       }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "BACKGROUND_REX"
-      },
-      {
-        "objectName": "FOG2"
-      },
-      {
-        "objectName": "CLOUDS_REX"
-      },
-      {
-        "objectName": "REX_PLATFORM"
-      },
-      {
-        "objectName": "GRASS_REX"
-      },
-      {
-        "objectName": "HILL_FRONT"
-      },
-      {
-        "objectName": "HILLS_REX_1"
-      },
-      {
-        "objectName": "HILLS_REX_2"
-      },
-      {
-        "objectName": "FRONT_BG"
-      },
-      {
-        "objectName": "night_rex"
-      },
-      {
-        "objectName": "taco74dotgov"
-      },
-      {
-        "objectName": "OXYGEN_BAR"
-      },
-      {
-        "objectName": "OXYGENTEXT"
-      },
-      {
-        "objectName": "SLANT"
-      },
-      {
-        "objectName": "RSLANT"
-      },
-      {
-        "objectName": "OXYGEBCOLLISOSOIN"
-      },
-      {
-        "objectName": "pond_platfor"
-      },
-      {
-        "objectName": "CONTAMINATION"
-      },
-      {
-        "objectName": "SICKNESS"
-      },
-      {
-        "objectName": "SICKNESS2"
-      },
-      {
-        "objectName": "CONTAMINATION_AGin"
-      },
-      {
-        "objectName": "hidden_text"
-      },
-      {
-        "objectName": "another_hidden_text"
-      },
-      {
-        "objectName": "another_another_hidden_text3"
-      },
-      {
-        "objectName": "another_pondcollisdosj"
-      },
-      {
-        "objectName": "another_jumpothr"
-      },
-      {
-        "objectName": "DAY"
-      },
-      {
-        "objectName": "basrries"
-      },
-      {
-        "objectName": "POND_BUBBLES"
-      },
-      {
-        "objectName": "LAW_MISSILE"
-      },
-      {
-        "objectName": "MOVE_TRIGGER"
-      },
-      {
-        "objectName": "chasem"
-      },
-      {
-        "objectName": "MULDOON_AND_GENNARO"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Link",
@@ -4018,6 +3960,43 @@
       "type": "BuiltinCommonInstructions::Group",
       "events": [],
       "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "juvenileTrex",
+            "MULDOON_AND_GENNARO",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "7"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"End Scene\"",
+            ""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -4124,7 +4103,7 @@
             "juvenileTrex",
             "Health",
             "-",
-            ".25"
+            "1"
           ]
         },
         {
@@ -4199,6 +4178,17 @@
           },
           "parameters": [
             "another_another_hidden_text3"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "DAY",
+            "Opacity",
+            "=",
+            "0"
           ]
         }
       ]
@@ -4344,17 +4334,6 @@
         },
         {
           "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "DAY",
-            "Opacity",
-            "=",
-            "180"
-          ]
-        },
-        {
-          "type": {
             "value": "ChangeBlendMode"
           },
           "parameters": [
@@ -4471,6 +4450,340 @@
           ]
         }
       ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "OXYGEN",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "OXYGEBCOLLISOSOIN",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "OXYGENTEXT",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "RepeatTimer",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "juvenileTrex",
+                "OXYGEBCOLLISOSOIN",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "OXYGEN_BAR"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "OXYGENTEXT"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "=",
+                "10",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "RepeatTimer",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "RepeatTimer"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetLabelShown"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "yes",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "-",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "=",
+                "0",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"GAME OVER\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
+              },
+              "parameters": [
+                "OXYGEN_BAR",
+                "=",
+                "5",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "another_hidden_text",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "another_hidden_text"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "180"
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "CONTAMINATION",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::ChangePlatformType"
+              },
+              "parameters": [
+                "pond_platfor",
+                "Platform",
+                "\"Platform\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "DAY NIGHT CYCLE",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
+          },
+          "parameters": [
+            "DAY",
+            "RepeatTimer",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "DAY",
+            "Opacity",
+            "+",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "RepeatEveryXSeconds::RepeatTimer::Repeat"
+          },
+          "parameters": [
+            "FOG2",
+            "RepeatTimer",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "FOG2",
+            "Opacity",
+            "-",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::Value"
+          },
+          "parameters": [
+            "DAY",
+            "Opacity",
+            "=",
+            "180"
+          ]
+        }
+      ],
+      "actions": []
     },
     {
       "colorB": 228,
@@ -4711,7 +5024,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "MULDOON/GENNARO",
+      "name": "ADULT REX",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [],
@@ -4768,14 +5081,6 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "5"
-          ]
-        },
         {
           "type": {
             "value": "SeparateFromObjects"
@@ -4865,7 +5170,7 @@
         },
         {
           "type": {
-            "value": "FireBullet::FireBullet::FireTowardPosition"
+            "value": "FireBullet::FireBullet::FireTowardObject"
           },
           "parameters": [
             "MULDOON_AND_GENNARO",
@@ -4873,8 +5178,7 @@
             "MULDOON_AND_GENNARO.PointX(\"MISSILE\")",
             "MULDOON_AND_GENNARO.PointY(\"MISSILE\")",
             "LAW_MISSILE",
-            "juvenileTrex.X()",
-            "juvenileTrex.Y()-20",
+            "juvenileTrex",
             "400",
             ""
           ]
@@ -4906,7 +5210,7 @@
             "LAW_MISSILE",
             "Animation",
             "=",
-            "\"MISSSILE EXPLOSIONM\""
+            "\"THE LAW\""
           ]
         },
         {
@@ -4923,35 +5227,6 @@
           },
           "parameters": [
             "LAW_MISSILE",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "MOVE_TRIGGER",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"CAR CRASH\"",
             ""
           ]
         }
@@ -5174,7 +5449,7 @@
       "isLocked": false,
       "name": "GRASS",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -5206,7 +5481,7 @@
       "isLocked": false,
       "name": "HILL FRONT",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -5238,7 +5513,7 @@
       "isLocked": false,
       "name": "FOG",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -5270,7 +5545,7 @@
       "isLocked": false,
       "name": "BUBBLES",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -5302,7 +5577,7 @@
       "isLocked": false,
       "name": "NIGHT",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": []
     },
@@ -5318,7 +5593,7 @@
       "isLocked": false,
       "name": "DAY",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -5471,10 +5746,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Text_AutoTyping",
