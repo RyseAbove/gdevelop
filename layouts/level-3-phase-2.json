@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.12203823303706772,
+    "zoomFactor": 0.08197080873857074,
     "windowMask": false
   },
   "objectsGroups": [
@@ -57,8 +57,8 @@
       "name": "BACKGROUND_REX",
       "persistentUuid": "eb4968ad-d57a-4e0d-ae02-f67e2c6aab99",
       "sealed": true,
-      "width": 23607,
-      "x": -17555,
+      "width": 45158,
+      "x": -39106,
       "y": -334,
       "zOrder": 1,
       "numberProperties": [],
@@ -75,8 +75,8 @@
       "name": "FOG2",
       "persistentUuid": "77a0fdcd-d325-4922-8e40-ed165442f3a9",
       "sealed": true,
-      "width": 23312,
-      "x": -17543,
+      "width": 44896,
+      "x": -39127,
       "y": 621,
       "zOrder": 3,
       "numberProperties": [],
@@ -93,8 +93,8 @@
       "name": "CLOUDS_REX",
       "persistentUuid": "18075590-3947-4d12-8118-9a6832d2b67c",
       "sealed": true,
-      "width": 23217,
-      "x": -17627,
+      "width": 44713,
+      "x": -39123,
       "y": -95,
       "zOrder": 4,
       "numberProperties": [],
@@ -107,10 +107,12 @@
       "depth": 1,
       "height": 296,
       "layer": "GRASS",
+      "locked": true,
       "name": "GRASS_REX",
       "persistentUuid": "70248664-21ef-4eb7-8da4-68b973b1993f",
-      "width": 23078,
-      "x": -17515,
+      "sealed": true,
+      "width": 44690,
+      "x": -39127,
       "y": 808,
       "zOrder": 5,
       "numberProperties": [],
@@ -127,8 +129,8 @@
       "name": "HILL_FRONT",
       "persistentUuid": "63393d7c-1ea0-461c-a306-b7c3402bdd0d",
       "sealed": true,
-      "width": 27694,
-      "x": -17592,
+      "width": 49262,
+      "x": -39160,
       "y": -164,
       "zOrder": 6,
       "numberProperties": [],
@@ -145,8 +147,8 @@
       "name": "HILLS_REX_1",
       "persistentUuid": "04078531-35d7-4a27-8ccd-a0a7cd931a9d",
       "sealed": true,
-      "width": 23142,
-      "x": -17561,
+      "width": 44799,
+      "x": -39218,
       "y": 82,
       "zOrder": 7,
       "numberProperties": [],
@@ -163,8 +165,8 @@
       "name": "HILLS_REX_2",
       "persistentUuid": "9a7adaa1-7c95-448f-8567-1d80e5f5f1ea",
       "sealed": true,
-      "width": 23442,
-      "x": -17827,
+      "width": 44787,
+      "x": -39172,
       "y": 208,
       "zOrder": 8,
       "numberProperties": [],
@@ -180,8 +182,8 @@
       "name": "juvenileTrex",
       "persistentUuid": "cbc28a3c-5c06-4f3e-9a95-2dd0a52cc6ba",
       "width": 264,
-      "x": 66,
-      "y": 842,
+      "x": 205,
+      "y": 829,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -231,37 +233,6 @@
       "x": -2935,
       "y": -377,
       "zOrder": 11,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 32,
-      "height": 26,
-      "layer": "OXYGEN BAR",
-      "name": "OXYGEN_BAR",
-      "persistentUuid": "98a8a76f-8cec-4fa1-ab69-b08d70a679a8",
-      "width": 509,
-      "x": 1367,
-      "y": 118,
-      "zOrder": 12,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "OXYGENTEXT",
-      "persistentUuid": "7bd08242-2f11-4822-820d-1e518e801a1a",
-      "width": 0,
-      "x": 1696,
-      "y": 48,
-      "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -338,8 +309,8 @@
       "layer": "",
       "name": "REX_PLATFORM",
       "persistentUuid": "9b475d27-cf06-42f9-97ed-f6a47183e19e",
-      "width": 22476,
-      "x": -17416,
+      "width": 44194,
+      "x": -39134,
       "y": 1101,
       "zOrder": 42,
       "numberProperties": [],
@@ -367,12 +338,11 @@
       "depth": 4,
       "height": 409,
       "layer": "",
-      "locked": true,
       "name": "MULDOON_AND_GENNARO",
       "persistentUuid": "b44e93a4-b8cb-4aaa-8dc6-0b31b6ac526c",
       "width": 409,
-      "x": -656,
-      "y": 732,
+      "x": -923,
+      "y": 740,
       "zOrder": 60,
       "numberProperties": [],
       "stringProperties": [],
@@ -386,8 +356,8 @@
       "name": "MOVE_TRIGGER",
       "persistentUuid": "1b7a6449-ce2b-409c-80af-528fae7ee516",
       "width": 0,
-      "x": -15738,
-      "y": 1044,
+      "x": -39047,
+      "y": 1057,
       "zOrder": 61,
       "numberProperties": [],
       "stringProperties": [],
@@ -416,8 +386,8 @@
       "name": "adultRex",
       "persistentUuid": "46997733-4e9c-4462-a1ea-1979a523b252",
       "width": 0,
-      "x": -4290,
-      "y": 191,
+      "x": -4550,
+      "y": 194,
       "zOrder": 63,
       "numberProperties": [],
       "stringProperties": [],
@@ -431,8 +401,8 @@
       "name": "johnPizza",
       "persistentUuid": "24a98ac5-00d0-47ef-a0c9-350882898fc8",
       "width": 0,
-      "x": -9549,
-      "y": 1033,
+      "x": -31331,
+      "y": 1049,
       "zOrder": 64,
       "numberProperties": [],
       "stringProperties": [],
@@ -3429,44 +3399,6 @@
       "parameters": []
     },
     {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "MULDOON_AND_GENNARO",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "7"
-          ]
-        },
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Credits\"",
-            ""
-          ]
-        }
-      ]
-    },
-    {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -4662,14 +4594,6 @@
       "actions": [
         {
           "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "3"
-          ]
-        },
-        {
-          "type": {
             "value": "FireBullet::FireBullet::FireTowardObject"
           },
           "parameters": [
@@ -4846,6 +4770,18 @@
       "actions": [
         {
           "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "trex_sound.mp3",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "Montre"
           },
           "parameters": [
@@ -4860,7 +4796,7 @@
           "parameters": [
             "adultRex",
             "juvenileTrex",
-            "100",
+            "500",
             "1"
           ]
         }
@@ -4890,7 +4826,7 @@
           "parameters": [
             "adultRex",
             "MOVE_TRIGGER",
-            ".07",
+            "50",
             "1"
           ]
         }
@@ -4899,6 +4835,14 @@
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
+        {
+          "type": {
+            "value": "Visible"
+          },
+          "parameters": [
+            "adultRex"
+          ]
+        },
         {
           "type": {
             "value": "CollisionNP"
@@ -4919,7 +4863,7 @@
           },
           "parameters": [
             "",
-            "\"Credits\"",
+            "\"car crash\"",
             ""
           ]
         }

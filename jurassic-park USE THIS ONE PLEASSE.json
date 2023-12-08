@@ -7989,6 +7989,33 @@
         "name": "MicrosoftTeams-image (1)2",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "TREX_CUTSCENE_2.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "TREX_CUTSCENE_2.mp4",
+        "userAdded": false
+      },
+      {
+        "file": "Credits But Hard.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Credits But Hard.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Credits But Hard2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Credits But Hard2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -11767,7 +11794,14 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "music",
+      "type": "boolean",
+      "value": true
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -11848,6 +11882,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/car-crash"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/cutscene"
     }
   ],
   "externalEvents": [

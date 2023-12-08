@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2531414001298631,
+    "zoomFactor": 0.20746499616301425,
     "windowMask": false
   },
   "objectsGroups": [
@@ -211,7 +211,7 @@
       "layer": "HEALTH",
       "name": "healthBar",
       "persistentUuid": "79770931-0dcb-4251-b0b3-9e28d7a27e0f",
-      "width": 511,
+      "width": 140,
       "x": 24,
       "y": 18,
       "zOrder": 10,
@@ -3362,7 +3362,7 @@
           "parameters": [
             "juvenileTrex",
             "Health",
-            "1",
+            ".5",
             "no",
             "no",
             ""
@@ -3650,6 +3650,26 @@
           },
           "parameters": [
             "MOVE_TRIGGER"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "MULDOON_AND_GENNARO",
+            "Platform",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "MULDOON_AND_GENNARO",
+            "FireBullet",
+            ""
           ]
         }
       ]
@@ -3982,7 +4002,7 @@
             "DAY",
             "Opacity",
             "=",
-            "180"
+            "1"
           ]
         }
       ],
@@ -4031,7 +4051,7 @@
           "parameters": [
             "MULDOON_AND_GENNARO",
             "MOVE_TRIGGER",
-            "5",
+            "100",
             "1"
           ]
         }
@@ -4040,14 +4060,6 @@
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
-        {
-          "type": {
-            "value": "Visible"
-          },
-          "parameters": [
-            "MOVE_TRIGGER"
-          ]
-        },
         {
           "type": {
             "value": "CollisionNP"
