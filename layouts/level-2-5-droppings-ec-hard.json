@@ -815,6 +815,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "CompyY",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [
@@ -1469,6 +1470,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "baseplatformM",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1538,6 +1540,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "spinninbucketT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1715,6 +1718,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "spinnin_fishH",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1892,6 +1896,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MISSILE_WHATT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3126,6 +3131,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "BUCKET_FIREE",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3218,6 +3224,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MISSILE_FIEE",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3310,6 +3317,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "FISHI_SPAWW",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3401,6 +3409,7 @@
     {
       "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
       "name": "BlueDotBarR",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -3422,7 +3431,7 @@
         "EasingDuration": 0,
         "PreviousHighValueDuration": 0,
         "ShowLabel": false,
-        "InitialValue": 0,
+        "InitialValue": 45,
         "MaxValue": 45
       },
       "childrenContent": {
@@ -3477,6 +3486,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "spinning_hadrosaurR",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3654,6 +3664,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hadro_sawnN",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3746,6 +3757,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "SPINNING_REXV",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3923,6 +3935,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "REX_SPAWNN",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4015,6 +4028,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "ISLANDD",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4078,6 +4092,7 @@
       "italic": false,
       "name": "COUNTDOWN1",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [
@@ -4100,56 +4115,6 @@
       }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "CompyY"
-      },
-      {
-        "objectName": "baseplatformM"
-      },
-      {
-        "objectName": "spinninbucketT"
-      },
-      {
-        "objectName": "spinnin_fishH"
-      },
-      {
-        "objectName": "MISSILE_WHATT"
-      },
-      {
-        "objectName": "BUCKET_FIREE"
-      },
-      {
-        "objectName": "MISSILE_FIEE"
-      },
-      {
-        "objectName": "FISHI_SPAWW"
-      },
-      {
-        "objectName": "BlueDotBarR"
-      },
-      {
-        "objectName": "spinning_hadrosaurR"
-      },
-      {
-        "objectName": "hadro_sawnN"
-      },
-      {
-        "objectName": "SPINNING_REXV"
-      },
-      {
-        "objectName": "REX_SPAWNN"
-      },
-      {
-        "objectName": "ISLANDD"
-      },
-      {
-        "objectName": "COUNTDOWN1"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -4612,7 +4577,7 @@
           },
           "parameters": [
             "BlueDotBarR",
-            "+",
+            "-",
             "1",
             ""
           ]
@@ -4629,7 +4594,7 @@
           "parameters": [
             "BlueDotBarR",
             "=",
-            "45",
+            "0",
             ""
           ]
         }
@@ -4751,7 +4716,6 @@
       "actions": []
     },
     {
-      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -4770,7 +4734,7 @@
           },
           "parameters": [
             "",
-            "Countdown"
+            "\"COUNTDOWN1\""
           ]
         }
       ]
@@ -4786,30 +4750,12 @@
           "parameters": [
             "COUNTDOWN1",
             "=",
-            "LargeNumberToString(Variable(Time))"
+            "ToString(BlueDotBarR.Value())"
           ]
         }
       ]
     },
     {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "TextObject::String"
-          },
-          "parameters": [
-            "COUNTDOWN1",
-            "=",
-            "ToString(round(abs(TimerElapsedTime(\"Countdown\")-45)))"
-          ]
-        }
-      ]
-    },
-    {
-      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -5051,10 +4997,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
