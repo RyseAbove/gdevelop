@@ -7980,6 +7980,15 @@
         "name": "NewSprite142",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/MicrosoftTeams-image (1)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "MicrosoftTeams-image (1)2",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -9036,7 +9045,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.07142857142857142,
               "sprites": [
@@ -9417,7 +9426,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08333333333333333,
               "sprites": [
@@ -9787,16 +9796,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "MicrosoftTeams-image (1)2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "MicrosoftTeams-image (1)2.png",
+                  "image": "MicrosoftTeams-image (1)2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9812,20 +9822,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 16,
-                        "y": 10
+                        "x": 32,
+                        "y": 20
                       },
                       {
-                        "x": 55,
-                        "y": 10
+                        "x": 110,
+                        "y": 20
                       },
                       {
-                        "x": 55,
-                        "y": 47
+                        "x": 110,
+                        "y": 94
                       },
                       {
-                        "x": 16,
-                        "y": 47
+                        "x": 32,
+                        "y": 94
                       }
                     ]
                   ]

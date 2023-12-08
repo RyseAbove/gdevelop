@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.06286874040998787,
+    "zoomFactor": 0.12615340253748783,
     "windowMask": false
   },
   "objectsGroups": [
@@ -121,8 +121,8 @@
       "name": "brigeplatform",
       "persistentUuid": "9f41d46b-2002-4111-9599-c407fdf245eb",
       "width": 18408,
-      "x": -959,
-      "y": 756,
+      "x": -941,
+      "y": 770,
       "zOrder": 101,
       "numberProperties": [],
       "stringProperties": [],
@@ -996,7 +996,7 @@
       "persistentUuid": "0a21d9d0-4682-4a91-90ae-278b7d8b3dbb",
       "width": 4824,
       "x": 16689,
-      "y": 727,
+      "y": 770,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -1012,7 +1012,7 @@
       "persistentUuid": "009dd778-0d41-40b6-887b-ff585525b742",
       "width": 7602,
       "x": 14958,
-      "y": -2228,
+      "y": -1985,
       "zOrder": 139,
       "numberProperties": [],
       "stringProperties": [],
@@ -7099,7 +7099,7 @@
             "juvenileTrex",
             "Health",
             "=",
-            "2"
+            "3"
           ]
         },
         {
@@ -7108,8 +7108,8 @@
           },
           "parameters": [
             "juvenileTrex",
-            "",
-            "2",
+            "Health",
+            "3",
             ""
           ]
         },
@@ -7281,7 +7281,7 @@
           },
           "parameters": [
             "canThrow",
-            "False"
+            "True"
           ]
         }
       ],
@@ -7368,41 +7368,13 @@
                 "FireBullet",
                 "juvenileTrex.PointX(\"bulletPoint\")",
                 "juvenileTrex.PointY(\"bulletPoint\")",
-                "fishAmmo",
+                "dafishies",
                 "CursorX()",
                 "CursorY()",
                 "350",
                 ""
               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "Distance"
-          },
-          "parameters": [
-            "juvenileTrex",
-            "fishAmmo",
-            "1500",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "dafishies",
-            ""
           ]
         }
       ]
@@ -7641,12 +7613,18 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "fishAmmo",
+            "dafishies",
             "Ceradactlyl",
             "",
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -7660,6 +7638,15 @@
             "1",
             "no",
             "no",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "dafishies",
             ""
           ]
         }
@@ -7673,12 +7660,18 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "fishAmmo",
+            "dafishies",
             "CeradactlylBoss",
             "",
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -7694,6 +7687,15 @@
             "no",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "dafishies",
+            ""
+          ]
         }
       ]
     },
@@ -7702,12 +7704,32 @@
       "conditions": [
         {
           "type": {
-            "value": "Health::Health::IsDead"
+            "value": "BuiltinCommonInstructions::Or"
           },
-          "parameters": [
-            "Ceradactlyl",
-            "Health",
-            ""
+          "parameters": [],
+          "subInstructions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Ceradactlyl",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::Health"
+              },
+              "parameters": [
+                "Ceradactlyl",
+                "Health",
+                "=",
+                "1",
+                ""
+              ]
+            }
           ]
         }
       ],
@@ -7974,7 +7996,7 @@
             "value": "CollisionNP"
           },
           "parameters": [
-            "fishAmmo",
+            "dafishies",
             "johnCera",
             "",
             "",
@@ -7988,7 +8010,7 @@
             "value": "Delete"
           },
           "parameters": [
-            "fishAmmo",
+            "dafishies",
             ""
           ]
         },
@@ -8322,6 +8344,21 @@
           "parameters": [
             "johnCera",
             "Regen",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "FireBullet::FireBullet::FireTowardObject"
+          },
+          "parameters": [
+            "johnCera",
+            "FireBullet",
+            "johnCera.PointX(\"bulletPoint\")",
+            "johnCera.PointY(\"bulletPoint\")",
+            "evil_fish",
+            "juvenileTrex",
+            "100",
             ""
           ]
         }
