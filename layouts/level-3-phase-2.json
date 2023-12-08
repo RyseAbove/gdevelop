@@ -414,6 +414,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "BACKGROUND_REX",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -475,6 +476,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "FOG2",
+      "tags": "",
       "texture": "FO2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -495,6 +497,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "CLOUDS_REX",
+      "tags": "",
       "texture": "New image2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -506,6 +509,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "REX_PLATFORM",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -575,6 +579,7 @@
       "assetStoreId": "",
       "height": 300,
       "name": "GRASS_REX",
+      "tags": "",
       "texture": "New image3",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1100,
@@ -586,6 +591,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILL_FRONT",
+      "tags": "",
       "texture": "New image4",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -597,6 +603,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILLS_REX_1",
+      "tags": "",
       "texture": "New image5",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -608,6 +615,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "HILLS_REX_2",
+      "tags": "",
       "texture": "New image6",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -619,6 +627,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "FRONT_BG",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -680,6 +689,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "night_rex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -741,6 +751,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "taco74dotgov",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -801,6 +812,7 @@
     {
       "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
       "name": "OXYGEN_BAR",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -879,6 +891,7 @@
       "italic": false,
       "name": "OXYGENTEXT",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -898,6 +911,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "SLANT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -971,6 +985,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "RSLANT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1044,6 +1059,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "OXYGEBCOLLISOSOIN",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1105,6 +1121,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "pond_platfor",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1176,6 +1193,7 @@
       "italic": false,
       "name": "CONTAMINATION",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1194,6 +1212,7 @@
     {
       "assetStoreId": "45827f5ecff9d1cc17847c948a055323dbd4ca63159a0ed696d49ddf18bd071e",
       "name": "SICKNESS",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -1272,6 +1291,7 @@
       "italic": false,
       "name": "SICKNESS2",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1293,6 +1313,7 @@
       "italic": false,
       "name": "CONTAMINATION_AGin",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1314,6 +1335,7 @@
       "italic": false,
       "name": "hidden_text",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1335,6 +1357,7 @@
       "italic": false,
       "name": "another_hidden_text",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1356,6 +1379,7 @@
       "italic": false,
       "name": "another_another_hidden_text3",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1375,6 +1399,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "another_pondcollisdosj",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1436,6 +1461,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "another_jumpothr",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1505,6 +1531,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "DAY",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1575,6 +1602,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "basrries",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1644,6 +1672,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "POND_BUBBLES",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2029,6 +2058,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "LAW_MISSILE",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3257,6 +3287,7 @@
       "italic": false,
       "name": "chasem",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -3281,104 +3312,6 @@
       }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "BACKGROUND_REX"
-      },
-      {
-        "objectName": "FOG2"
-      },
-      {
-        "objectName": "CLOUDS_REX"
-      },
-      {
-        "objectName": "REX_PLATFORM"
-      },
-      {
-        "objectName": "GRASS_REX"
-      },
-      {
-        "objectName": "HILL_FRONT"
-      },
-      {
-        "objectName": "HILLS_REX_1"
-      },
-      {
-        "objectName": "HILLS_REX_2"
-      },
-      {
-        "objectName": "FRONT_BG"
-      },
-      {
-        "objectName": "night_rex"
-      },
-      {
-        "objectName": "taco74dotgov"
-      },
-      {
-        "objectName": "OXYGEN_BAR"
-      },
-      {
-        "objectName": "OXYGENTEXT"
-      },
-      {
-        "objectName": "SLANT"
-      },
-      {
-        "objectName": "RSLANT"
-      },
-      {
-        "objectName": "OXYGEBCOLLISOSOIN"
-      },
-      {
-        "objectName": "pond_platfor"
-      },
-      {
-        "objectName": "CONTAMINATION"
-      },
-      {
-        "objectName": "SICKNESS"
-      },
-      {
-        "objectName": "SICKNESS2"
-      },
-      {
-        "objectName": "CONTAMINATION_AGin"
-      },
-      {
-        "objectName": "hidden_text"
-      },
-      {
-        "objectName": "another_hidden_text"
-      },
-      {
-        "objectName": "another_another_hidden_text3"
-      },
-      {
-        "objectName": "another_pondcollisdosj"
-      },
-      {
-        "objectName": "another_jumpothr"
-      },
-      {
-        "objectName": "DAY"
-      },
-      {
-        "objectName": "basrries"
-      },
-      {
-        "objectName": "POND_BUBBLES"
-      },
-      {
-        "objectName": "LAW_MISSILE"
-      },
-      {
-        "objectName": "chasem"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Link",

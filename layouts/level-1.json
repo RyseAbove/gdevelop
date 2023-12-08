@@ -1024,6 +1024,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "waterThose",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1107,6 +1108,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "daBridge",
+      "tags": "",
       "texture": "aviary BRIDGE2.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1118,6 +1120,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hills_TheWeekend",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1178,6 +1181,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "daHillary",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1238,6 +1242,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "brigeplatform",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1307,6 +1312,7 @@
       "assetStoreId": "",
       "height": 1024,
       "name": "zaWalkway",
+      "tags": "",
       "texture": "aviary BRIDGE5.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 2048,
@@ -1318,6 +1324,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "reverseReverse",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1379,6 +1386,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Pillars",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1440,6 +1448,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Ceradactlyl",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -2544,6 +2553,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "CeradactlylBoss",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3648,6 +3658,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "CeradactlylDiveDown",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4723,6 +4734,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Clowd",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4783,6 +4795,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "cloud2",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4844,6 +4857,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "scawy",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4888,6 +4902,7 @@
       "italic": false,
       "name": "warning___",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -4907,6 +4922,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "chatTrigger1",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4968,6 +4984,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "chatTrigger2",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -5031,6 +5048,7 @@
       "italic": false,
       "name": "chatTriggered1",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -5060,6 +5078,7 @@
       "italic": false,
       "name": "chatTriggered2",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -5089,6 +5108,7 @@
       "italic": false,
       "name": "fishShoota",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -5116,6 +5136,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Level1Trigger",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -5158,6 +5179,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "johnCera",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [
@@ -6246,6 +6268,7 @@
     {
       "assetStoreId": "17a00ca25428306c8db067b2dd8379e9fe1cb562c10443ae2f65f3d561e54f1e",
       "name": "johnCeraHealth",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -6303,6 +6326,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "NUGHT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6364,6 +6388,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "evil_fish",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6424,6 +6449,7 @@
     {
       "assetStoreId": "17a00ca25428306c8db067b2dd8379e9fe1cb562c10443ae2f65f3d561e54f1e",
       "name": "CeraBossHealthBar",
+      "tags": "",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
       "variables": [],
       "effects": [],
@@ -6489,6 +6515,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "bossTrigger",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6533,6 +6560,7 @@
       "italic": false,
       "name": "bossExplain",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -6560,6 +6588,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_left",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6629,6 +6658,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_right",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6698,6 +6728,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_top",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6767,6 +6798,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier_bottom",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6836,6 +6868,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fadeLevel1",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6899,110 +6932,6 @@
       ]
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "waterThose"
-      },
-      {
-        "objectName": "daBridge"
-      },
-      {
-        "objectName": "hills_TheWeekend"
-      },
-      {
-        "objectName": "daHillary"
-      },
-      {
-        "objectName": "brigeplatform"
-      },
-      {
-        "objectName": "zaWalkway"
-      },
-      {
-        "objectName": "reverseReverse"
-      },
-      {
-        "objectName": "Pillars"
-      },
-      {
-        "objectName": "Ceradactlyl"
-      },
-      {
-        "objectName": "CeradactlylBoss"
-      },
-      {
-        "objectName": "CeradactlylDiveDown"
-      },
-      {
-        "objectName": "Clowd"
-      },
-      {
-        "objectName": "cloud2"
-      },
-      {
-        "objectName": "scawy"
-      },
-      {
-        "objectName": "warning___"
-      },
-      {
-        "objectName": "chatTrigger1"
-      },
-      {
-        "objectName": "chatTrigger2"
-      },
-      {
-        "objectName": "chatTriggered1"
-      },
-      {
-        "objectName": "chatTriggered2"
-      },
-      {
-        "objectName": "fishShoota"
-      },
-      {
-        "objectName": "Level1Trigger"
-      },
-      {
-        "objectName": "johnCera"
-      },
-      {
-        "objectName": "johnCeraHealth"
-      },
-      {
-        "objectName": "NUGHT"
-      },
-      {
-        "objectName": "evil_fish"
-      },
-      {
-        "objectName": "CeraBossHealthBar"
-      },
-      {
-        "objectName": "bossTrigger"
-      },
-      {
-        "objectName": "bossExplain"
-      },
-      {
-        "objectName": "barrier_left"
-      },
-      {
-        "objectName": "barrier_right"
-      },
-      {
-        "objectName": "barrier_top"
-      },
-      {
-        "objectName": "barrier_bottom"
-      },
-      {
-        "objectName": "fadeLevel1"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Link",
