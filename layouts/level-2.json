@@ -480,6 +480,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurBackground2",
+      "tags": "",
       "texture": "hadrosaur_paddock BACKGROUND.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -491,6 +492,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "background2",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -552,6 +554,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "floor",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -621,6 +624,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurBush",
+      "tags": "",
       "texture": "hadrosaur_paddock BUSH 2.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -632,6 +636,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurBushFront",
+      "tags": "",
       "texture": "hadrosaur_paddock BUSH FRONT2.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -643,6 +648,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurGround",
+      "tags": "",
       "texture": "hadrosaur_paddock GROUND.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -654,6 +660,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurTree1",
+      "tags": "",
       "texture": "hadrosaur_paddock TREE2.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -665,6 +672,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurTree2",
+      "tags": "",
       "texture": "hadrosaur_paddock TREE 2.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -676,6 +684,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurTree3",
+      "tags": "",
       "texture": "hadrosaur_paddock TREE 3.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -687,6 +696,7 @@
       "assetStoreId": "",
       "height": 1120,
       "name": "hadrosaurTree4",
+      "tags": "",
       "texture": "hadrosaur_paddock TREE 4.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 1920,
@@ -698,6 +708,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "runningHadrosaur",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -939,6 +950,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "specialHadrosaur",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1291,6 +1303,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hadroStop",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1333,6 +1346,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hadroFast",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1375,6 +1389,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "hadroTrigger",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1417,6 +1432,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "barrier",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1461,6 +1477,7 @@
       "italic": false,
       "name": "food",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1558,62 +1575,6 @@
       ]
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "hadrosaurBackground2"
-      },
-      {
-        "objectName": "background2"
-      },
-      {
-        "objectName": "floor"
-      },
-      {
-        "objectName": "hadrosaurBush"
-      },
-      {
-        "objectName": "hadrosaurBushFront"
-      },
-      {
-        "objectName": "hadrosaurGround"
-      },
-      {
-        "objectName": "hadrosaurTree1"
-      },
-      {
-        "objectName": "hadrosaurTree2"
-      },
-      {
-        "objectName": "hadrosaurTree3"
-      },
-      {
-        "objectName": "hadrosaurTree4"
-      },
-      {
-        "objectName": "runningHadrosaur"
-      },
-      {
-        "objectName": "specialHadrosaur"
-      },
-      {
-        "objectName": "hadroStop"
-      },
-      {
-        "objectName": "hadroFast"
-      },
-      {
-        "objectName": "hadroTrigger"
-      },
-      {
-        "objectName": "barrier"
-      },
-      {
-        "objectName": "food"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Link",
@@ -2449,10 +2410,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Text_AutoTyping",

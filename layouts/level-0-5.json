@@ -25,9 +25,6 @@
   "variables": [],
   "instances": [],
   "objects": [],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT"
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -210,10 +207,6 @@
     {
       "name": "Sway",
       "type": "Sway::Sway"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
