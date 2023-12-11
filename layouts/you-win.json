@@ -127,7 +127,6 @@
       "italic": false,
       "name": "WIN",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -146,7 +145,6 @@
     {
       "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
       "name": "TO_MENU",
-      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -211,7 +209,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "LEX",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -489,7 +486,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "GRANT",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -767,7 +763,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MALCOPLM",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1045,7 +1040,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "TIM",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1392,6 +1386,29 @@
       ]
     }
   ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "WIN"
+      },
+      {
+        "objectName": "TO_MENU"
+      },
+      {
+        "objectName": "LEX"
+      },
+      {
+        "objectName": "GRANT"
+      },
+      {
+        "objectName": "MALCOPLM"
+      },
+      {
+        "objectName": "TIM"
+      }
+    ]
+  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",

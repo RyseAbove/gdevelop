@@ -79,7 +79,6 @@
       "italic": false,
       "name": "over",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -99,7 +98,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "deceadsed",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -160,7 +158,6 @@
     {
       "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
       "name": "TO_MENU",
-      "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -222,6 +219,20 @@
       }
     }
   ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "over"
+      },
+      {
+        "objectName": "deceadsed"
+      },
+      {
+        "objectName": "TO_MENU"
+      }
+    ]
+  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
