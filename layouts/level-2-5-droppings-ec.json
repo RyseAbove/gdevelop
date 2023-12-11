@@ -3547,8 +3547,8 @@
         "EasingDuration": 0,
         "PreviousHighValueDuration": 0,
         "ShowLabel": false,
-        "InitialValue": 0,
-        "MaxValue": 90
+        "InitialValue": 70,
+        "MaxValue": 70
       },
       "childrenContent": {
         "Background": {
@@ -4232,7 +4232,7 @@
       ],
       "effects": [],
       "behaviors": [],
-      "string": "60",
+      "string": "70",
       "font": "CantoraOne-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 75,
@@ -4835,7 +4835,7 @@
           },
           "parameters": [
             "BlueDotBar",
-            "+",
+            "-",
             "1",
             ""
           ]
@@ -4852,7 +4852,7 @@
           "parameters": [
             "BlueDotBar",
             "=",
-            "90",
+            "0",
             ""
           ]
         }
@@ -4952,6 +4952,22 @@
             "",
             "\"GAME OVER\"",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextObject::String"
+          },
+          "parameters": [
+            "SECONDS_1",
+            "=",
+            "ToString(BlueDotBar.Value())"
           ]
         }
       ]

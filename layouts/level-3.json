@@ -209,7 +209,7 @@
       "layer": "HEALTH",
       "name": "healthBar",
       "persistentUuid": "79770931-0dcb-4251-b0b3-9e28d7a27e0f",
-      "width": 511,
+      "width": 140,
       "x": 24,
       "y": 18,
       "zOrder": 10,
@@ -3255,7 +3255,7 @@
           "parameters": [
             "juvenileTrex",
             "Health",
-            "1",
+            ".5",
             "no",
             "no",
             ""
@@ -3535,6 +3535,34 @@
           "parameters": [
             "canThrow",
             "True"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "MOVE_TRIGGER"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "MULDOON_AND_GENNARO",
+            "Platform",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "MULDOON_AND_GENNARO",
+            "FireBullet",
+            ""
           ]
         }
       ]
@@ -3867,7 +3895,7 @@
             "DAY",
             "Opacity",
             "=",
-            "180"
+            "1"
           ]
         }
       ],
@@ -3882,8 +3910,70 @@
             "=",
             "\"level_3_rexHide\""
           ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "3"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "MULDOON_AND_GENNARO",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AddForceVers"
+          },
+          "parameters": [
+            "MULDOON_AND_GENNARO",
+            "MOVE_TRIGGER",
+            "100",
+            "1"
+          ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "MULDOON_AND_GENNARO",
+            "MOVE_TRIGGER",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Level 3 PHASE 2\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     },
     {
       "colorB": 228,

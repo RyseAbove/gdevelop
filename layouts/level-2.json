@@ -1192,7 +1192,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "deadHadro",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1507,7 +1506,6 @@
       "italic": false,
       "name": "juvenileRun",
       "smoothed": true,
-      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -1535,7 +1533,6 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "levelEnd",
-      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1997,7 +1994,7 @@
           },
           "parameters": [
             "",
-            "\"Level 3\"",
+            "\"cutscene\"",
             ""
           ]
         }

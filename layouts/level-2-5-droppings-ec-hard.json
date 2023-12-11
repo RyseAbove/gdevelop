@@ -3431,7 +3431,7 @@
         "EasingDuration": 0,
         "PreviousHighValueDuration": 0,
         "ShowLabel": false,
-        "InitialValue": 0,
+        "InitialValue": 45,
         "MaxValue": 45
       },
       "childrenContent": {
@@ -4577,7 +4577,7 @@
           },
           "parameters": [
             "BlueDotBarR",
-            "+",
+            "-",
             "1",
             ""
           ]
@@ -4594,7 +4594,7 @@
           "parameters": [
             "BlueDotBarR",
             "=",
-            "45",
+            "0",
             ""
           ]
         }
@@ -4716,7 +4716,6 @@
       "actions": []
     },
     {
-      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -4735,7 +4734,7 @@
           },
           "parameters": [
             "",
-            "Countdown"
+            "\"COUNTDOWN1\""
           ]
         }
       ]
@@ -4751,30 +4750,12 @@
           "parameters": [
             "COUNTDOWN1",
             "=",
-            "LargeNumberToString(Variable(Time))"
+            "ToString(BlueDotBarR.Value())"
           ]
         }
       ]
     },
     {
-      "disabled": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "TextObject::String"
-          },
-          "parameters": [
-            "COUNTDOWN1",
-            "=",
-            "ToString(round(abs(TimerElapsedTime(\"Countdown\")-45)))"
-          ]
-        }
-      ]
-    },
-    {
-      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {

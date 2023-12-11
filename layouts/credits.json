@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.29879853636069037,
+    "zoomFactor": 0.3088741216342651,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -33,7 +33,7 @@
       "persistentUuid": "4134cc24-438c-4599-9e6d-8137e153b0a3",
       "width": 0,
       "x": 599,
-      "y": 1087,
+      "y": 1142,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -89,7 +89,7 @@
           "name": "LinearMovement",
           "type": "LinearMovement::LinearMovement",
           "SpeedX": 0,
-          "SpeedY": -100
+          "SpeedY": -200
         }
       ],
       "string": "Cast\nMarius Small as Juvenile T Rex\nNoah Layton as Ceradactyls (all of them)\nChase Hacker as Adult Trex\n\nCrew\nDirected by\nChase Hacker\nMarius Small\nNoah Layton \n\nScreenplay\nChase Hacker\nMarius Small\nNoah Layton \n\nProducers\nChase Hacker\nMarius Small\nNoah Layton \n\nExecutive Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nCo-Producers\nChase Hacker\nMarius Small\nNoah Layton \nJohn Video\n\nAssociate Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nLine Producers\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic by\nChase Hacker\nTravis Scott\n\nCinematography by\nMarius Small\nCameraMan from Skibidi Toilet\n\nFilm Editing by\nNoah Layton \n\nCasting by\nChase Hacker\n\nProduction Design by\nChase Hacker\nMarius Small\nNoah Layton \n\nHead of Technology\nChase Hacker\n\nArt Direction by\nMarius Small\n\nSet Decoration by\nMarius Small\n\nCostume Design by\nMarius Small\n\nMakeup Department\nNoah Layton\n\nAssistant Directors\nChase Hacker\n\nArt Department\nMarius Small\n\nStoryboard Artists\nChase Hacker\n\nSpecial Effects by\nChase Hacker\n\nVisual Effects by\nChase Hacker\nNoah Layton \n\nAnimation Department\nChase Hacker\nMarius Small\nNoah Layton \n\nMusic Department\nChase Hacker\n\nProperty Department\nChase Hacker\n\nPost-Production Team\nChase Hacker\nMarius Small\nNoah Layton \n\nAssistants\nChase Hacker\nMarius Small\nNoah Layton \n\nTrainers\nChase Hacker\nMarius Small\nNoah Layton \n\nADR\nChase Hacker\nMarius Small\nNoah Layton \n\nStand-Ins\nChase Hacker\nMarius Small\nNoah Layton \n\nStunts\nChase Hacker\nMarius Small\nNoah Layton \n\nMinor Crew\nChase Hacker\nMarius Small\nNoah Layton \n\n\n",
@@ -152,7 +152,7 @@
           "CurrentCharacter": ""
         }
       ],
-      "string": "After defeating the last of the humans, the island is free. You will now be able to hunt and live in peace....\n\nAtleast, until the other T-Rex comes back.",
+      "string": "After defeating the last of the humans, the island is free. You will now be able to hunt and live in peace....\n\nAtleast, until the other T-Rex comes back... and steals your kill again.",
       "font": "",
       "textAlignment": "center",
       "characterSize": 40,
@@ -194,7 +194,17 @@
           "parameters": [
             "gudbye",
             "Text_AutoTyping",
-            ""
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "thankYouNote",
+            "Text_AutoTyping",
+            "no"
           ]
         },
         {
@@ -204,10 +214,19 @@
           "parameters": [
             "thankYouNote"
           ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "Credits"
+          ]
         }
       ]
     },
     {
+      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
@@ -244,15 +263,6 @@
           },
           "parameters": [
             "gudbye"
-          ]
-        },
-        {
-          "type": {
-            "value": "Montre"
-          },
-          "parameters": [
-            "thankYouNote",
-            ""
           ]
         },
         {
@@ -297,6 +307,153 @@
             "thankYouNote",
             "Text_AutoTyping",
             "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AutoTyping::Text_AutoTyping::TypingFinished"
+          },
+          "parameters": [
+            "gudbye",
+            "Text_AutoTyping",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1.5"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "gudbye"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "Credits",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Credits",
+            "LinearMovement",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "43"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "thankYouNote",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "thankYouNote",
+            "Text_AutoTyping",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AutoTyping::Text_AutoTyping::TypingFinished"
+          },
+          "parameters": [
+            "thankYouNote",
+            "Text_AutoTyping",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "10"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Title\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Visible"
+          },
+          "parameters": [
+            "Credits"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "Credits But Hard2.mp3",
+            "",
+            "10",
+            ""
           ]
         }
       ]
