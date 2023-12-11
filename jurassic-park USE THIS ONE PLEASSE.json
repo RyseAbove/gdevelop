@@ -8024,6 +8024,7 @@
     {
       "assetStoreId": "",
       "name": "carLight",
+      "tags": "",
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
@@ -8038,6 +8039,7 @@
     {
       "assetStoreId": "",
       "name": "explosionLight",
+      "tags": "",
       "type": "Lighting::LightObject",
       "variables": [],
       "effects": [],
@@ -8053,6 +8055,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "juvenileTrex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [
@@ -9800,6 +9803,7 @@
       "assetStoreId": "",
       "height": 128,
       "name": "healthBar",
+      "tags": "",
       "texture": "fishlife2.png2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 128,
@@ -9811,6 +9815,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "dafishies",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -9872,6 +9877,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "PALM_TREE_LEAVES",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -9951,6 +9957,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "PALM_TREE_STUMP",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10012,6 +10019,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "STUMP__RIOGHT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10073,6 +10081,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "LEAVES_RIGHT",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10154,6 +10163,7 @@
       "italic": false,
       "name": "timr_er",
       "smoothed": true,
+      "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
@@ -10173,6 +10183,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "johnPizza",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10350,6 +10361,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "adultRex",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10993,6 +11005,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fishAmmo",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11054,6 +11067,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fishiesBucket",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11115,6 +11129,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MULDOON_AND_GENNARO",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11682,6 +11697,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "MOVE_TRIGGER",
+      "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11740,59 +11756,6 @@
       ]
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "carLight"
-      },
-      {
-        "objectName": "explosionLight"
-      },
-      {
-        "objectName": "juvenileTrex"
-      },
-      {
-        "objectName": "healthBar"
-      },
-      {
-        "objectName": "dafishies"
-      },
-      {
-        "objectName": "PALM_TREE_LEAVES"
-      },
-      {
-        "objectName": "PALM_TREE_STUMP"
-      },
-      {
-        "objectName": "STUMP__RIOGHT"
-      },
-      {
-        "objectName": "LEAVES_RIGHT"
-      },
-      {
-        "objectName": "timr_er"
-      },
-      {
-        "objectName": "johnPizza"
-      },
-      {
-        "objectName": "adultRex"
-      },
-      {
-        "objectName": "fishAmmo"
-      },
-      {
-        "objectName": "fishiesBucket"
-      },
-      {
-        "objectName": "MULDOON_AND_GENNARO"
-      },
-      {
-        "objectName": "MOVE_TRIGGER"
-      }
-    ]
-  },
   "objectsGroups": [],
   "variables": [
     {

@@ -45,6 +45,7 @@
     {
       "assetStoreId": "",
       "name": "cutscene",
+      "tags": "",
       "type": "Video::VideoObject",
       "variables": [],
       "effects": [],
@@ -57,14 +58,6 @@
       }
     }
   ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "cutscene"
-      }
-    ]
-  },
   "events": [
     {
       "type": "BuiltinCommonInstructions::Standard",
